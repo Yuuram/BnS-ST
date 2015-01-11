@@ -1,7 +1,4 @@
 var test = [];
-var new_skill;
-var skill = "";
-var tooltip = "";
 
 function list(v, l) {
 	for(var key in v) {
@@ -56,8 +53,10 @@ function simplify(skill_data){
 	var l1 = [];
 	var l2 = [];
 	var l3 = [];
-	var new_data = data_skill_tooltip;
+	var new_data = JSON.parse(JSON.stringify(data_skill_tooltip));
 	var final_st = "";
+	
+	console.log(data_skill_tooltip);
 	
 	list(data_skill_tooltip, l1);
 	list(skill_data, l2);
@@ -105,15 +104,45 @@ function simplify2(skill_data, slot_data, category_data){
 	return new_data;
 }
 
-function simplify_all(skill, slot, category){	
-	new_skill = simplify2(skill, slot, category);
-	tooltip = simplify(new_skill);
-	skill = JSON.stringify(new_skill);
-}
-
-function generate(){
-	var t = tooltip;
-	var s = JSON.stringify(new_skill);
-	document.getElementById("t").value = t;
-	document.getElementById("s").value = s;
+function simplify_all(){	
+	var new_skill_AS;
+	var new_skill_BM;
+	var new_skill_DE;
+	var new_skill_FM;
+	var new_skill_KF;
+	var new_skill_SM;
+	var new_skill_SU;
+	var new_skill_WL;
+	
+	new_skill_AS = simplify2(skill_data_AS, slot_data_AS, category_data_AS);
+	document.getElementById("t_AS").value = simplify(new_skill_AS);
+	document.getElementById("s_AS").value = "var skill_data_AS = " + JSON.stringify(new_skill_AS);
+	
+	new_skill_BM = simplify2(skill_data_BM, slot_data_BM, category_data_BM);
+	document.getElementById("t_BM").value = simplify(new_skill_BM);
+	document.getElementById("s_BM").value = "var skill_data_BM = " + JSON.stringify(new_skill_BM);
+	
+	new_skill_DE = simplify2(skill_data_DE, slot_data_DE, category_data_DE);
+	document.getElementById("t_DE").value = simplify(new_skill_DE);
+	document.getElementById("s_DE").value = "var skill_data_DE = " + JSON.stringify(new_skill_DE);
+	
+	new_skill_FM = simplify2(skill_data_FM, slot_data_FM, category_data_FM);
+	document.getElementById("t_FM").value = simplify(new_skill_FM);
+	document.getElementById("s_FM").value = "var skill_data_FM = " + JSON.stringify(new_skill_FM);
+	
+	new_skill_KF = simplify2(skill_data_KF, slot_data_KF, category_data_KF);
+	document.getElementById("t_KF").value = simplify(new_skill_KF);
+	document.getElementById("s_KF").value = "var skill_data_KF = " + JSON.stringify(new_skill_KF);
+	
+	new_skill_SM = simplify2(skill_data_SM, slot_data_SM, category_data_SM);
+	document.getElementById("t_SM").value = simplify(new_skill_SM);
+	document.getElementById("s_SM").value = "var skill_data_SM = " + JSON.stringify(new_skill_SM);
+	
+	new_skill_SU = simplify2(skill_data_SU, slot_data_SU, category_data_SU);
+	document.getElementById("t_SU").value = simplify(new_skill_SU);
+	document.getElementById("s_SU").value = "var skill_data_SU = " + JSON.stringify(new_skill_SU);
+	
+	new_skill_WL = simplify2(skill_data_WL, slot_data_WL, category_data_WL);
+	document.getElementById("t_WL").value = simplify(new_skill_WL);
+	document.getElementById("s_WL").value = "var skill_data_WL = " + JSON.stringify(new_skill_WL);
 }
