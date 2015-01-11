@@ -1,0 +1,6978 @@
+var skill_data_KF = {
+    "KungfuMaster_Attack_JusticePunch_Lv1": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv11": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv12": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": "Causes foes hit to bleed (1 stack)",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv13": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": "Generates 1 additional chi on critical hit<br/>Causes foes hit to bleed (1 stack)",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv14": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": "Generates 1 additional chi on critical hit<br/>Causes foes hit to bleed (1 stack)<br/>Kaiten Kick becomes available on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv21": {
+        "id": "21000",
+        "name": "Tiger Palm - 맹호장",
+        "icon": "skill_icon_kungfufighter_0_63.png",
+        "main_info1": "Deals 29~34 damage",
+        "main_info2": null,
+        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Spin Kick becomes available on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv22": {
+        "id": "21000",
+        "name": "Tiger Palm - 맹호장",
+        "icon": "skill_icon_kungfufighter_0_63.png",
+        "main_info1": "Deals 29~34 damage",
+        "main_info2": null,
+        "sub_info": "Increases threat on hitting the enemy's front<br/>Causes foes hit to bleed (1 stack)<br/>Spin Kick becomes available on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv23": {
+        "id": "21000",
+        "name": "Tiger Palm - 맹호장",
+        "icon": "skill_icon_kungfufighter_0_63.png",
+        "main_info1": "Deals 29~34 damage",
+        "main_info2": null,
+        "sub_info": "Increases threat on hitting the enemy's front<br/>Causes foes hit to bleed (1 stack)<br/>Skill speed accelerates on recast<br/>Maximum speed after counter<br/>Spin Kick becomes available on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv31": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 5% of the damage dealt",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv32": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 5% of the damage dealt<br/>Increases evade by 10% during use",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv33": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 5% of the damage dealt<br/>Increases evade by 10% during use<br/>Generates 1 chi on evade during use",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JusticePunch_Lv34": {
+        "id": "21000",
+        "name": "Justice Fist - 정권",
+        "icon": "skill_icon_kungfufighter_0_14.png",
+        "main_info1": "Deals 16~18 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 5% of the damage dealt<br/>Decreases the cooldown of Escape by 1 sec on hit<br/>Increases evade by 10% during use<br/>Generates 1 chi on evade during use<br/>Heals the user 1% of their maximum health on evade",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv1": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Generates 2 chi on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv11": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Generates 3 chi on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv12": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Generates 3 chi on counter<br/>Increases defense by 100% on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv13": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 sec on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv14": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 sec on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv15": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 sec on counter<br/>User is invulnerable for 1 sec on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftCounter_Lv21": {
+        "id": "21005",
+        "name": "Elbow Strike - 이문정주",
+        "icon": "skill_icon_kungfufighter_1_5.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Counter while attacking<br/>Offensive defense skill<br/>Twin Impact used on counter<br/>Twin Impact deals Deals 24~70 damage<br/>Twin Impact restores 3 chi<br/>Twin Impact increases critical by 10% for 1.5 sec on hit<br/>Twin Impact increases defense by 100% for 8 sec",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftCounter_Lv22": {
+        "id": "21005",
+        "name": "Elbow Strike - 이문정주",
+        "icon": "skill_icon_kungfufighter_1_5.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Counter while attacking<br/>Offensive defense skill<br/>Twin Impact used on counter<br/>Twin Impact deals Deals 24~70 damage<br/>Twin Impact penetrates deflect<br/>Twin Impact restores 3 chi<br/>Twin Impact increases critical by 10% for 1.5 sec on hit<br/>Twin Impact increases defense by 100% for 8 sec",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftCounter_Lv23": {
+        "id": "21005",
+        "name": "Elbow Strike - 이문정주",
+        "icon": "skill_icon_kungfufighter_1_5.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Counter while attacking<br/>Offensive defense skill<br/>Burning Twin Impact used on counter<br/>Burning Twin Impact deals Deals 24~70 damage<br/>Burning Twin Impact penetrates deflect<br/>Burning Twin Impact restores 3 chi<br/>Burning Twin Impact increases critical by 15% for 3 sec on hit<br/>Burning Twin Impact increases defense by 100% for 8 sec<br/>Burning Twin Impact increases critical hit damage by 10% for 3 sec on hit",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv31": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "2 sec stun on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv32": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "2 sec stun on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Decreases the cooldown of Crushing Fist by 1 sec on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv33": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "2 sec stun on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Decreases the cooldown of Crushing Fist by 1 sec on counter<br/>Refreshes the cooldown of High Kick on counter",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv41": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Increases threat on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv42": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Increases threat on counter<br/>User is invulnerable from the next 1 attack for 1 sec<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Counterenemy_Lv43": {
+        "id": "21005",
+        "name": "Counter - 반격",
+        "icon": "skill_icon_kungfufighter_0_1.png",
+        "main_info1": "1 sec frontal counter",
+        "main_info2": "Deals 18~21 damage on counter",
+        "sub_info": "Increases threat on counter<br/>User is invulnerable for 1 sec on counter<br/>Immune to stun, groggy for 2 sec<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.3 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_LeftCounter_dash_Lv1": {
+        "id": "21007",
+        "name": "Advancing Step - 전질보",
+        "icon": "skill_icon_kungfufighter_0_62.png",
+        "main_info1": "Charge to the target",
+        "main_info2": "Deals 5~6 damage",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TakeDown_Lv1": {
+        "id": "21009",
+        "name": "Suppress - 제압",
+        "icon": "skill_icon_kungfufighter_0_6.png",
+        "main_info1": "Suppress for 3 sec",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "24 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TakeDown_Lv11": {
+        "id": "21009",
+        "name": "Suppress - 제압",
+        "icon": "skill_icon_kungfufighter_0_6.png",
+        "main_info1": "Suppress for 3 sec",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TakeDown_Lv12": {
+        "id": "21009",
+        "name": "Suppress - 제압",
+        "icon": "skill_icon_kungfufighter_0_6.png",
+        "main_info1": "Suppress for 3 sec",
+        "main_info2": null,
+        "sub_info": "suppressed enemy takes 10% chi damage whenever they are hit",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TakeDown_Lv13": {
+        "id": "21009",
+        "name": "Suppress - 제압",
+        "icon": "skill_icon_kungfufighter_0_6.png",
+        "main_info1": "Suppress for 3 sec",
+        "main_info2": null,
+        "sub_info": "suppressed enemy takes 10% chi damage whenever they are hit<br/>suppressed enemy's movement speed is decreased by 40% for 12 sec",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TakeDown_Lv14": {
+        "id": "21009",
+        "name": "Suppress - 제압",
+        "icon": "skill_icon_kungfufighter_0_6.png",
+        "main_info1": "Suppress for 4 sec",
+        "main_info2": null,
+        "sub_info": "suppressed enemy takes 10% chi damage whenever they are hit<br/>suppressed enemy's movement speed is decreased by 40% for 12 sec",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TakeDown_Lv21": {
+        "id": "21009",
+        "name": "Suppress - 제압",
+        "icon": "skill_icon_kungfufighter_0_6.png",
+        "main_info1": "Suppress for 3 sec",
+        "main_info2": null,
+        "sub_info": "Heals the user 3% of their maximum health to whoever attacks the suppressed enemy<br/>Generates 10% of chi to whoever attacks the suppressed enemy<br/>suppressed enemy takes 10% chi damage whenever they are hit",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TakeDown_Lv22": {
+        "id": "21009",
+        "name": "Suppress - 제압",
+        "icon": "skill_icon_kungfufighter_0_6.png",
+        "main_info1": "Suppress for 3 sec",
+        "main_info2": null,
+        "sub_info": "Heals the user 3% health to the user whenever the suppressed enemy is attacked<br/>Heals the user 3% of their maximum health to whoever attacks the suppressed enemy<br/>Generates 10% of chi to whoever attacks the suppressed enemy<br/>suppressed enemy takes 10% chi damage whenever they are hit",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_RapidCooling_Lv31": {
+        "id": "21009",
+        "name": "Cold Surge - 한기파동",
+        "icon": "skill_icon_kungfufighter_1_31.png",
+        "main_info1": "Grants Ice Flower for 3 sec",
+        "main_info2": "Applies to the user and allies",
+        "sub_info": "3 sec Ice Prison on taking hit while Ice Flower is active<br/>Freezes foes within 5m",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "16m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_RapidCooling_Lv32": {
+        "id": "21009",
+        "name": "Cold Surge - 한기파동",
+        "icon": "skill_icon_kungfufighter_1_31.png",
+        "main_info1": "Grants Ice Flower for 3 sec",
+        "main_info2": "Applies to the user and allies",
+        "sub_info": "Removes movement skill seal<br/>Removes freeze<br/>3 sec Ice Prison on taking hit while Ice Flower is active<br/>Freezes foes within 5m",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "16m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_RapidCooling_Lv33": {
+        "id": "21009",
+        "name": "Cold Surge - 한기파동",
+        "icon": "skill_icon_kungfufighter_1_31.png",
+        "main_info1": "Grants Ice Flower for 3 sec",
+        "main_info2": "Applies to the user and allies",
+        "sub_info": "Removes freeze<br/>Removes movement skill seal<br/>3 sec Ice Prison on taking hit while Ice Flower is active<br/>Heals the user 5% of their maximum health on entering Ice Prison<br/>Freezes foes within 5m",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "16m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Trampledown_Lv1": {
+        "id": "21019",
+        "name": "Step - 밟기",
+        "icon": "skill_icon_kungfufighter_0_17.png",
+        "main_info1": "Deals 2~3 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1.1 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HighKick_Lv1": {
+        "id": "21030",
+        "name": "Kaiten Kick - 회천각",
+        "icon": "skill_icon_kungfufighter_1_42.png",
+        "main_info1": "Deals 30~35 damage",
+        "main_info2": null,
+        "sub_info": "Generates 1 additional chi per enemy hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HighKick_Lv11": {
+        "id": "21030",
+        "name": "Kaiten Kick - 회천각",
+        "icon": "skill_icon_kungfufighter_1_42.png",
+        "main_info1": "Deals 30~35 damage",
+        "main_info2": null,
+        "sub_info": "Generates 1 additional chi per enemy hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HighKick_Lv12": {
+        "id": "21030",
+        "name": "Kaiten Kick - 회천각",
+        "icon": "skill_icon_kungfufighter_1_42.png",
+        "main_info1": "Deals 30~35 damage",
+        "main_info2": null,
+        "sub_info": "Generates 1 additional chi per enemy hit<br/>Generates 9 chi over 3 sec on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HighKick_Lv13": {
+        "id": "21030",
+        "name": "Kaiten Kick - 회천각",
+        "icon": "skill_icon_kungfufighter_1_42.png",
+        "main_info1": "Deals 30~35 damage",
+        "main_info2": null,
+        "sub_info": "Generates 1 additional chi per enemy hit<br/>Generates 9 chi over 3 sec on critical hit<br/>Heals the user 20% of the damage dealt",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HighKick_Lv21": {
+        "id": "21030",
+        "name": "Kaiten Kick - 회천각",
+        "icon": "skill_icon_kungfufighter_1_42.png",
+        "main_info1": "Deals 54~91 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HighKick_Lv22": {
+        "id": "21030",
+        "name": "Kaiten Kick - 회천각",
+        "icon": "skill_icon_kungfufighter_1_42.png",
+        "main_info1": "Deals 54~91 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv1": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 72~84 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Charge to the target",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv11": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 72~84 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Charge to the target",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv12": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 120~140 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Charge to the target",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv13": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 120~140 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Decreases cooldown by 1 sec on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv21": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 72~84 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Heals the user 25% of the damage dealt",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv22": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 72~84 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Heals the user 25% of the damage dealt<br/>User is invulnerable during use",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv23": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 72~84 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Heals the user 50% of the damage dealt<br/>User is invulnerable during use",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv31": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 18~21 damage up to 4 foes",
+        "main_info2": "Dazes foes hit for 2 sec",
+        "sub_info": "Charge to the target",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_MartialDance_Lv32": {
+        "id": "21053",
+        "name": "Martial Dance - 권무",
+        "icon": "skill_icon_kungfufighter_0_49.png",
+        "main_info1": "Deals 18~21 damage up to 4 foes",
+        "main_info2": "Dazes foes hit for 2 sec",
+        "sub_info": "Charge to the target<br/>Knocks-up dazed, stunned foes",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AirMartialDance_Lv1": {
+        "id": "21054",
+        "name": "Rising Martial Dance - 승천권무",
+        "icon": "skill_icon_kungfufighter_1_40.png",
+        "main_info1": "Deals 120~140 damage over 4 hits",
+        "main_info2": null,
+        "sub_info": "Increases the user's evade chance by 100% during use",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_Lv1": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "1 sec down after Knocks back foes hit 11m",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_Lv11": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "1 sec down after Knocks back foes hit 11m",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_LV12": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "1 sec down after Knocks back foes hit 11m",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_LV13": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "Downs foes hit for 3 sec after Knocks back foes hit 11m",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Disables movement skills for 8 sec<br/>Decreases the movement speed of the target by 30% for 8 sec<br/>Cures the user's Internal Bleeding",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_LV14": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "Downs foes hit for 3 sec after Knocks back foes hit 11m",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables movement skills for 8 sec<br/>Decreases the movement speed of the target by 30% for 8 sec<br/>Cures the user's Internal Bleeding",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_LV15": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "30 sec unconscious after 24m knock back",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables movement skills for 8 sec<br/>Decreases the movement speed of the target by 30% for 8 sec<br/>Disables defense<br/>Cures the user's Internal Bleeding",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1 min"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_LV21": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "1 sec stun",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Cures the user's Internal Bleeding",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_LV22": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Cures the user's Internal Bleeding",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AreaAttack_LV23": {
+        "id": "21055",
+        "name": "Rising Dragon - 승룡각",
+        "icon": "skill_icon_kungfufighter_0_38.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Pulls foes<br/>Cures the user's Internal Bleeding<br/>Cannot be deflected",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv1": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 10~11 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv11": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "3 sec stun",
+        "main_info2": "Deals 10~11 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv12": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "3 sec stun",
+        "main_info2": "Deals 10~11 damage",
+        "sub_info": "Decreases the movement speed of the target by 40% for 8 sec",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv13": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "3 sec stun",
+        "main_info2": "Deals 10~11 damage",
+        "sub_info": "Knocks-up dazed, stunned foes<br/>Decreases the movement speed of the target by 40% for 8 sec",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv14": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "3 sec stun",
+        "main_info2": "Deals 10~11 damage",
+        "sub_info": "Knocks-up dazed, stunned foes<br/>Decreases the movement speed of the target by 40% for 8 sec<br/>Creates a tremor, expanding the area in squence",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "1m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv21": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Deals 19~22 damage to foes within the area",
+        "main_info2": "Deals an additional 19~22 damage to downed, suppressed foes",
+        "sub_info": "Creates a damaging area that lasts for 10 sec",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "1 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv22": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Deals 19~22 damage to foes within the area",
+        "main_info2": "Deals an additional 19~22 damage to downed, suppressed foes",
+        "sub_info": "Creates a damaging area that lasts for 10 sec<br/>Instantly used at no cost after using Air Slam",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "1 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv23": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Deals 19~22 damage to foes within the area",
+        "main_info2": "Deals an additional 19~22 damage to downed, suppressed foes",
+        "sub_info": "Creates a damaging area that lasts for 10 sec<br/>Instantly used at no cost after using Air Slam<br/>Pulls foes",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "1 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv24": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Deals 19~22 damage to foes within the area",
+        "main_info2": "Deals an additional 19~22 damage to downed, suppressed foes",
+        "sub_info": "Creates a damaging area that lasts for 10 sec<br/>Instantly used at no cost after using Air Slam<br/>Refreshes the cooldown on kill<br/>Pulls foes",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "1 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv31": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Deals 19~22 damage to foes within the area",
+        "main_info2": "Deals an additional 19~22 damage to downed, suppressed foes",
+        "sub_info": "Creates a damaging area that lasts for 10 sec<br/>Instantly used at no cost after using Air Slam<br/>Additional increased threat while within damaging area",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "1 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv32": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Deals 19~22 damage to foes within the area",
+        "main_info2": "Deals an additional 19~22 damage to downed, suppressed foes",
+        "sub_info": "Creates a damaging area that lasts for 10 sec<br/>Instantly used at no cost after using Air Slam<br/>Decreases the cooldown of Penetrate, Sidestep by 1 sec on critical hit<br/>Additional increased threat while within damaging area",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "1 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv41": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Creates a healing area that lasts for 10 sec",
+        "main_info2": null,
+        "sub_info": "Heals allies within the area 20% of their health",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_CrushGround_Lv42": {
+        "id": "21060",
+        "name": "Landslide - 산사태",
+        "icon": "skill_icon_kungfufighter_0_25.png",
+        "main_info1": "Creates a healing area that lasts for 10 sec",
+        "main_info2": null,
+        "sub_info": "Heals allies within the area 20% of their health<br/>Removes stun, groggy, down, unconscious status from allies within the area",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "30m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv1": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 42~49 damage",
+        "main_info2": null,
+        "sub_info": "Ignores defense",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv11": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 42~49 damage",
+        "main_info2": null,
+        "sub_info": "Ignores defense",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv12": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 42~49 damage",
+        "main_info2": null,
+        "sub_info": "Can be used 1 more time regardless of requirements on critical hit<br/>Ignores defense",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv13": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 42~49 damage",
+        "main_info2": null,
+        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Can be used 1 more time regardless of requirements on critical hit<br/>Ignores defense",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv14": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 42~49 damage",
+        "main_info2": null,
+        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Can be used 2 more time regardless of requirements on critical hit<br/>Ignores defense",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv21": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 180~210 damage",
+        "main_info2": null,
+        "sub_info": "Ignores defense",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv22": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 180~210 damage",
+        "main_info2": null,
+        "sub_info": "Refunds chi on critical hit<br/>Generates 10 chi over 10 sec on critical hit<br/>Ignores defense",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstBlow_Lv23": {
+        "id": "21065",
+        "name": "Tiger Strike - 맹호격",
+        "icon": "skill_icon_kungfufighter_1_20.png",
+        "main_info1": "Deals 180~210 damage",
+        "main_info2": null,
+        "sub_info": "Refunds chi on critical hit<br/>Generates 10 chi over 10 sec on critical hit<br/>Ignores defense",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv1": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv11": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv12": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv13": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "12 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv21": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv22": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": "Generates 2 additional chi on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv31": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv32": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_AbdomenAttack_Lv33": {
+        "id": "21070",
+        "name": "Heavy Blow - 강타",
+        "icon": "skill_icon_kungfufighter_0_46.png",
+        "main_info1": "Knock-up",
+        "main_info2": "Deals 36~42 damage<br/>Deals an additional 54~63 damage to foes that resist knock-up",
+        "sub_info": "Tiger Strike becomes available after",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "4 ~ 9m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FlyTakeDown_Lv1": {
+        "id": "21090",
+        "name": "Air Suppression - 공중제압",
+        "icon": "skill_icon_kungfufighter_0_47.png",
+        "main_info1": "Suppress for 3 sec",
+        "main_info2": "Deals 36~42 damage",
+        "sub_info": "Ends airborne status of the enemy<br/>Increases the user's evade chance by 100% during use",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LowKick_Lv1": {
+        "id": "21106",
+        "name": "Low Sweep - 다리걸기",
+        "icon": "skill_icon_kungfufighter_0_5.png",
+        "main_info1": "Downs foes hit for 2 sec",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": null,
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LowKick_Lv11": {
+        "id": "21106",
+        "name": "Low Sweep - 다리걸기",
+        "icon": "skill_icon_kungfufighter_0_5.png",
+        "main_info1": "Downs foes hit for 2 sec",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LowKick_Lv12": {
+        "id": "21106",
+        "name": "Low Sweep - 다리걸기",
+        "icon": "skill_icon_kungfufighter_0_5.png",
+        "main_info1": "Downs foes hit for 3 sec",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LowKick_Lv13": {
+        "id": "21106",
+        "name": "Low Sweep - 다리걸기",
+        "icon": "skill_icon_kungfufighter_0_5.png",
+        "main_info1": "Downs foes hit for 3 sec",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 25% for 6 sec",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LowKick_Lv14": {
+        "id": "21106",
+        "name": "Low Sweep - 다리걸기",
+        "icon": "skill_icon_kungfufighter_0_5.png",
+        "main_info1": "Downs foes hit for 3 sec",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Cannot be deflected<br/>Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 25% for 6 sec",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LowKick_Lv15": {
+        "id": "21106",
+        "name": "Low Sweep - 다리걸기",
+        "icon": "skill_icon_kungfufighter_0_5.png",
+        "main_info1": "Downs foes hit for 3 sec",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Can be used up to 2 consecutive time<br/>Cannot be deflected<br/>Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 25% for 6 sec",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_5",
+                "value": "5m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BackStep_Lv1": {
+        "id": "21107",
+        "name": "Backtrack - 후방이동",
+        "icon": "skill_icon_kungfufighter_1_2.png",
+        "main_info1": "Move back 5m",
+        "main_info2": null,
+        "sub_info": "User is invulnerable during use<br/>Used with [S][S]<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "8 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BackStep_Lv11": {
+        "id": "21107",
+        "name": "Backtrack - 후방이동",
+        "icon": "skill_icon_kungfufighter_1_2.png",
+        "main_info1": "Move back 5m",
+        "main_info2": null,
+        "sub_info": "Increases movement speed by 50% after use<br/>User is invulnerable during use<br/>Used with [S][S]<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "12 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BackStep_Lv12": {
+        "id": "21107",
+        "name": "Backtrack - 후방이동",
+        "icon": "skill_icon_kungfufighter_1_2.png",
+        "main_info1": "Move back 5m",
+        "main_info2": null,
+        "sub_info": "5 sec freeze<br/>Increases movement speed by 50% after use<br/>User is invulnerable during use<br/>Used with [S][S]<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BackStep_Lv13": {
+        "id": "21107",
+        "name": "Backtrack - 후방이동",
+        "icon": "skill_icon_kungfufighter_1_2.png",
+        "main_info1": "Move back 5m",
+        "main_info2": null,
+        "sub_info": "Refreshes the cooldown of Martial Dance on resist<br/>5 sec freeze<br/>Increases movement speed by 50% after use<br/>User is invulnerable during use<br/>Used with [S][S]<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "24 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv1": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 66~77 damage",
+        "main_info2": null,
+        "sub_info": "Can be instantly used 1 more time after use",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv11": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 66~77 damage",
+        "main_info2": null,
+        "sub_info": "Can be instantly used 1 more time after use",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv12": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 66~77 damage",
+        "main_info2": "Deals an additional 42~29 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Can be instantly used 1 more time after use",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv13": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 66~77 damage",
+        "main_info2": "Deals an additional 42~29 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Can be instantly used 1 more time after use",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv14": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 66~77 damage",
+        "main_info2": "Deals an additional 42~29 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Can be instantly used 1 more time after use<br/>Can be instantly used 2 times on critical hit with Triple Kick<br/>Can be instantly used 2 times on critical hit with Flame Kick<br/>Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv15": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 66~77 damage",
+        "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Refreshes the cooldown on kill<br/>Can be instantly used 1 more time after use<br/>Can be instantly used 2 times on critical hit with Triple Kick<br/>Can be instantly used 2 times on critical hit with Flame Kick<br/>Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv21": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Dazes foes hit for 2 sec",
+        "main_info2": "Deals 42~49 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv22": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Dazes foes hit for 2 sec",
+        "main_info2": "Deals 42~49 damage",
+        "sub_info": "Generates 3 additional chi on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv31": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 78~91 damage",
+        "main_info2": "Deals an additional 48~56 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Can be instantly used 1 more time after use",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv32": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 78~91 damage",
+        "main_info2": "Deals an additional 48~56 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Can be instantly used 1 more time after use<br/>Can be instantly used 2 times on critical hit with Explosive Fist<br/>Can be instantly used 2 times on critical hit with Ankle Blow",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv33": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 78~91 damage",
+        "main_info2": "Deals an additional 48~56 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Can be instantly used 2 more times after use<br/>Can be instantly used 3 times on critical hit with Explosive Fist<br/>Can be instantly used 3 times on critical hit with Ankle Blow",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.7 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv41": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 102~119 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv42": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 102~119 damage",
+        "main_info2": null,
+        "sub_info": "Can be instantly used 1 time on evade<br/>Can be instantly used 1 time on resist with Penetrate, Sidestep<br/>Can be instantly used 1 time on resist with Martial Dance, Backtrack",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_HeavyPunch_Lv43": {
+        "id": "21108",
+        "name": "Crushing Fist - 붕권",
+        "icon": "skill_icon_kungfufighter_0_21.png",
+        "main_info1": "Deals 102~119 damage",
+        "main_info2": null,
+        "sub_info": "Skill speed accelerates on recast<br/>Generates 1 chi on critical hit<br/>Can be instantly used 1 time on evade<br/>Can be instantly used 1 time on resist with Penetrate, Sidestep<br/>Can be instantly used 1 time on resist with Martial Dance, Backtrack",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv1": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Dazes foes hit for 2 sec after 5m knock back",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": null,
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv11": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Dazes foes hit for 2 sec after 5m knock back",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv12": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Dazes foes hit for 3 sec after 5m knockback",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv13": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Dazes foes hit for 3 sec after 5m knockback",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv14": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Dazes foes hit for 3 sec after 5m knockback",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Refunds chi on critical hit<br/>Heavy Blow becomes available regardless of cooldown on critical hit ",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv21": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Deals 72~84 damage",
+        "main_info2": null,
+        "sub_info": "Spin Kick becomes available after use",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv22": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Deals 72~84 damage",
+        "main_info2": null,
+        "sub_info": "Spin Kick becomes available after use<br/>Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv23": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "Deals 72~84 damage",
+        "main_info2": null,
+        "sub_info": "Spin Kick becomes available after use<br/>Refunds chi on critical hit<br/>Refreshes the cooldown on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv31": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "5m knock back",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Heals the user 20% of the damage dealt",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv32": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "5m knock back",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>6 sec간 Heals the user 3% of their maximum health",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FinalAttack_Lv33": {
+        "id": "21110",
+        "name": "Iron Mountain - 철산고",
+        "icon": "skill_icon_kungfufighter_0_2.png",
+        "main_info1": "5m knock back",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>6 sec간 Heals the user 3% of their maximum health<br/>Heals the user 2% of their maximum health on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv1": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv11": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv12": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv13": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv14": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Used at no cost on evade<br/>Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv15": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Ignores defense<br/>Used at no cost on evade<br/>Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv21": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 1% of their maximum health on hit<br/>Generates additional threat<br/>Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv22": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Used at no cost on counter<br/>Heals the user 1% of their maximum health on hit<br/>Heals the user 2% of their maximum health on critical hit<br/>Generates additional threat<br/>Refunds chi on critical hit",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv31": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv32": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": "Deals an additional 5~6 damage after a critical hit",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv33": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": "Deals an additional 5~6 damage after a critical hit",
+        "sub_info": "Used at no cost after a critical hit",
+        "consume_sp": "4",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv41": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 5% of the damage dealt",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PowerfulAttack_Lv42": {
+        "id": "21111",
+        "name": "Explosive Fist - 폭권",
+        "icon": "skill_icon_kungfufighter_0_41.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 15% of the damage dealt",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TripleKick_Lv1": {
+        "id": "21112",
+        "name": "Triple Kick - 삼연각",
+        "icon": "skill_icon_kungfufighter_0_16.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Disables defense",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TripleKick_Lv11": {
+        "id": "21112",
+        "name": "Triple Kick - 삼연각",
+        "icon": "skill_icon_kungfufighter_0_16.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Generates 6 chi over 3 sec<br/>Disables defense",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TripleKick_Lv12": {
+        "id": "21112",
+        "name": "Triple Kick - 삼연각",
+        "icon": "skill_icon_kungfufighter_0_16.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 18~21 damage",
+        "sub_info": "Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 25% for 6 sec<br/>Generates 6 chi over 3 sec<br/>Disables defense",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FlameKick_Lv21": {
+        "id": "21112",
+        "name": "Flame Kick - 화염각",
+        "icon": "skill_icon_kungfufighter_1_46.png",
+        "main_info1": "Deals 72~140 damage",
+        "main_info2": null,
+        "sub_info": "Generates 6 chi over 3 sec<br/>Ignores defense",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X4m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FlameKick_Lv22": {
+        "id": "21112",
+        "name": "Flame Kick - 화염각",
+        "icon": "skill_icon_kungfufighter_1_46.png",
+        "main_info1": "Deals 72~140 damage",
+        "main_info2": null,
+        "sub_info": "Generates 5 chi on critical hit<br/>Generates 6 chi over 3 sec<br/>Ignores defense",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X4m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FlameKick_Lv31": {
+        "id": "21112",
+        "name": "Flame Kick - 화염각",
+        "icon": "skill_icon_kungfufighter_1_46.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 72~140 damage",
+        "sub_info": "Generates 6 chi over 3 sec<br/>Disables defense",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X8m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Armbar_Lv1": {
+        "id": "21114",
+        "name": "Twist Arm - 팔꺾기",
+        "icon": "skill_icon_kungfufighter_0_9.png",
+        "main_info1": "Deals 60~70 damage",
+        "main_info2": null,
+        "sub_info": "Disables defense skills for 10 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": "5",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv1": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Ignores defense",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv11": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Ignores defense<br/>Increases movement speed by 35% for 5 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv12": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Ignores defense<br/>Increases movement speed by 35% for 5 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv13": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignores defense<br/>Increases movement speed by 35% for 5 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv14": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignores defense<br/>Increases movement speed by 35% for 5 sec<br/>User is invulnerable during use<br/>User is invulnerable for 1 sec after use",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv21": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Knocks-up downed foes",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Ignores defense<br/>Increases movement speed by 35% for 5 sec",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv22": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Knocks-up downed foes",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Ignores defense<br/>Increases movement speed by 35% for 5 sec<br/>Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 50% for 6 sec",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_JumpPunch_Lv23": {
+        "id": "21115",
+        "name": "Leaping Strike - 뛰어찍기",
+        "icon": "skill_icon_kungfufighter_0_13.png",
+        "main_info1": "Knocks-up downed foes",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Ignores defense<br/>Increases movement speed by 35% for 5 sec<br/>Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 50% for 6 sec<br/>Rising Martial Dance becomes available on knocked up foes regardless of cooldown",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "9 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Headbut_Lv1": {
+        "id": "21116",
+        "name": "Headbutt - 박치기",
+        "icon": "skill_icon_kungfufighter_0_12.png",
+        "main_info1": "Deals 31~36 damage",
+        "main_info2": null,
+        "sub_info": "Heals the user 5% of their maximum health",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_StrongAttack_Lv1": {
+        "id": "21125",
+        "name": "Crushing Strike - 붕격",
+        "icon": "skill_icon_kungfufighter_0_44.png",
+        "main_info1": "Downs foes hit for 2 sec after Knocks back foes hit 11m",
+        "main_info2": "Deals 42~49 damage",
+        "sub_info": null,
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Windmill_Lv1": {
+        "id": "21132",
+        "name": "Circle Kick - 회전차기",
+        "icon": "skill_icon_kungfufighter_0_58.png",
+        "main_info1": "Escape from downed status",
+        "main_info2": "2m knock back<br/>Deals 12~14 damage",
+        "sub_info": "1 sec down to user on taking hit during use",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "12 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_DownBackStep_Lv1": {
+        "id": "21133",
+        "name": "Backward Roll - 뒤구르기",
+        "icon": "skill_icon_kungfufighter_1_10.png",
+        "main_info1": "Escape from downed, dazed, stunned status",
+        "main_info2": null,
+        "sub_info": "User is invulnerable during use",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "12 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_DownCounter_Lv1": {
+        "id": "21134",
+        "name": "Crescent Kick - 반달차기",
+        "icon": "skill_icon_kungfufighter_0_57.png",
+        "main_info1": "1.5 sec counter",
+        "main_info2": "성공 시  Dazes foes hit for 2 sec<br/>Deals 18~21 damage on counter",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "12 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Choke_Lv1": {
+        "id": "21136",
+        "name": "Strangle - 조르기",
+        "icon": "skill_icon_kungfufighter_0_53.png",
+        "main_info1": "30 sec unconscious",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PoundingAttack_Lv1": {
+        "id": "21142",
+        "name": "Successive Blow - 연타",
+        "icon": "skill_icon_kungfufighter_0_50.png",
+        "main_info1": "Deals 10~11 damage",
+        "main_info2": null,
+        "sub_info": "Can be used up to 3 consecutive times",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Pounding_First_Lv1": {
+        "id": "21143",
+        "name": "Pulverize - 묵사발",
+        "icon": "skill_icon_kungfufighter_0_56.png",
+        "main_info1": "Deals 113~132 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Pounding_Lv1": {
+        "id": "21144",
+        "name": "Assail - 강습",
+        "icon": "skill_icon_kungfufighter_0_10.png",
+        "main_info1": "Downs nearby foes for 2 sec",
+        "main_info2": "Deals 48~56 damage",
+        "sub_info": null,
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_BurstAbdomen_Lv1": {
+        "id": "21145",
+        "name": "Palm Strike - 통배권",
+        "icon": "skill_icon_kungfufighter_1_24.png",
+        "main_info1": "Deals 48~56 damage",
+        "main_info2": null,
+        "sub_info": "Pressure Point becomes available on hit<br/>Damage multiplied by 1/2/3/4 per Pressure Point stage<br/>Generates 2/3/4/6 additional chi per Pressure Point stage<br/>50% chi damage to frozen foes. Removes freeze<br/>Reduces cooldown by 50% on use after evade <br/>Instantly used during Unleashed Flow<br/>Instantly used on evade",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X4m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Defend_HeavyAttack_Lv1": {
+        "id": "21146",
+        "name": "Revenge - 복수",
+        "icon": "skill_icon_kungfufighter_0_43.png",
+        "main_info1": "Downs foes hit for 2 sec",
+        "main_info2": "Deals 30~35 damage",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AxeKick_Lv1": {
+        "id": "21158",
+        "name": "Flame Stomp - 열화각",
+        "icon": "skill_icon_kungfufighter_1_45.png",
+        "main_info1": "Deals 48~112 damage",
+        "main_info2": "Knocks-up downed foes",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "24 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AxeKick_Lv32": {
+        "id": "21158",
+        "name": "Flame Stomp - 열화각",
+        "icon": "skill_icon_kungfufighter_1_45.png",
+        "main_info1": "Deals 48~112 damage",
+        "main_info2": "Knocks-up downed foes<br/>Downs nearby foes for 3 sec",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "24 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AxeKick_Lv33": {
+        "id": "21158",
+        "name": "Flame Stomp - 열화각",
+        "icon": "skill_icon_kungfufighter_1_45.png",
+        "main_info1": "Deals 48~112 damage",
+        "main_info2": "Knocks-up downed foes<br/>Downs nearby foes for 3 sec",
+        "sub_info": "Rising Martial Dance becomes available on knocked up foes regardless of cooldown",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "24 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Linked_Escape_Inhalation_Lv1": {
+        "id": "21166",
+        "name": "Rising Strike - 비상격",
+        "icon": "skill_icon_kungfufighter_1_21.png",
+        "main_info1": "Escape from Suppress, seized, Force Grip when used at the enemy's attack timing",
+        "main_info2": "Deals 31~36 damage",
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Linked_Attack_Catch_Lv1": {
+        "id": "21175",
+        "name": "Kick - 발차기",
+        "icon": "skill_icon_kungfufighter_1_14.png",
+        "main_info1": "Deals 24~28 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Uppercut_Lv1": {
+        "id": "21180",
+        "name": "High Kick - 올려차기",
+        "icon": "skill_icon_kungfufighter_0_4.png",
+        "main_info1": "Knocks-up dazed, stunned foes",
+        "main_info2": "Deals 42~49 damage",
+        "sub_info": null,
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Uppercut2_Lv1": {
+        "id": "21181",
+        "name": "Air Kick - 공중차기",
+        "icon": "skill_icon_kungfufighter_0_18.png",
+        "main_info1": "Knocks foes back into the air",
+        "main_info2": "Deals 66~77 damage",
+        "sub_info": "Increases the user's evade chance by 100% during use",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Skykick_Lv1": {
+        "id": "21182",
+        "name": "Air Slam - 공중찍기",
+        "icon": "skill_icon_kungfufighter_0_19.png",
+        "main_info1": "Ends airborne status of the enemy",
+        "main_info2": "Deals 78~91 damage",
+        "sub_info": "Increases the user's evade chance by 100% during use",
+        "consume_sp": "3",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Right_Lv1": {
+        "id": "21200",
+        "name": "Penetrate - 파고들기",
+        "icon": "buff_debuff_icon_00_29.png",
+        "main_info1": "Move to the enemy's right",
+        "main_info2": "Used with [E]",
+        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Right_Lv11": {
+        "id": "21200",
+        "name": "Penetrate - 파고들기",
+        "icon": "buff_debuff_icon_00_29.png",
+        "main_info1": "Move to the enemy's right",
+        "main_info2": "Used with [E]",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Right_Lv12": {
+        "id": "21200",
+        "name": "Penetrate - 파고들기",
+        "icon": "buff_debuff_icon_00_29.png",
+        "main_info1": "Move to the enemy's right",
+        "main_info2": "Used with [E]",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Right_Lv13": {
+        "id": "21200",
+        "name": "Penetrate - 파고들기",
+        "icon": "buff_debuff_icon_00_29.png",
+        "main_info1": "Move to the enemy's right",
+        "main_info2": "Used with [E]",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases movement speed by 35% for 5 sec<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Right_Lv14": {
+        "id": "21200",
+        "name": "Penetrate - 파고들기",
+        "icon": "buff_debuff_icon_00_29.png",
+        "main_info1": "Move to the enemy's right",
+        "main_info2": "Used with [E]",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases movement speed by 35% for 5 sec<br/>Refreshes the cooldown of Advancing Step on resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "20 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Left_Lv1": {
+        "id": "21201",
+        "name": "Sidestep - 횡이동",
+        "icon": "skill_icon_kungfufighter_0_24.png",
+        "main_info1": "Move to the enemy's left",
+        "main_info2": "Used with [Q]",
+        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Left_Lv11": {
+        "id": "21201",
+        "name": "Sidestep - 횡이동",
+        "icon": "skill_icon_kungfufighter_0_24.png",
+        "main_info1": "Move to the enemy's left",
+        "main_info2": "Used with [Q]",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Left_Lv12": {
+        "id": "21201",
+        "name": "Sidestep - 횡이동",
+        "icon": "skill_icon_kungfufighter_0_24.png",
+        "main_info1": "Move to the enemy's left",
+        "main_info2": "Used with [Q]",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Left_Lv13": {
+        "id": "21201",
+        "name": "Sidestep - 횡이동",
+        "icon": "skill_icon_kungfufighter_0_24.png",
+        "main_info1": "Move to the enemy's left",
+        "main_info2": "Used with [Q]",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases movement speed by 35% for 5 sec<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "16 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Commandskill_Left_Lv14": {
+        "id": "21201",
+        "name": "Sidestep - 횡이동",
+        "icon": "skill_icon_kungfufighter_0_24.png",
+        "main_info1": "Move to the enemy's left",
+        "main_info2": "Used with [Q]",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases movement speed by 35% for 5 sec<br/>Increases attack by 10% per resist<br/>Grants Agility for 24 sec on resist<br/>Agility increases movement speed, evade by 5%<br/>Grants Awakened at 3 Agility stacks<br/>Awakened increases evade chance by 100%<br/>Awakened increases movement speed by 50%",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "0.2 sec"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "20 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv1": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, unconscious status",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv11": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv12": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv13": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv14": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv21": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv22": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 30% for 6 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv23": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables the target's charge abilities for 6 sec<br/>Decreases the movement speed of the target by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of health that lasts for 5 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv31": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Dazes foes hit for 2 sec<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "consume_sp": null,
+        "ui_sp_heal_value": "3",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv32": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Dazes foes hit for 2 sec<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "consume_sp": null,
+        "ui_sp_heal_value": "5",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_Escape_Stun_Lv33": {
+        "id": "21205",
+        "name": "Escape - 탈출",
+        "icon": "skill_icon_kungfufighter_1_18.png",
+        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info2": "Dazes foes hit for 2 sec<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>50% chi damage",
+        "consume_sp": null,
+        "ui_sp_heal_value": "5",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_4",
+                "value": "3m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftSmash_Lv1": {
+        "id": "21255",
+        "name": "Advancing Fist - 진격권",
+        "icon": "skill_icon_kungfufighter_1_43.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Pressure Point becomes available on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftSmash_Lv11": {
+        "id": "21255",
+        "name": "Advancing Fist - 진격권",
+        "icon": "skill_icon_kungfufighter_1_43.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Pressure Point becomes available on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "9 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftSmash_Lv12": {
+        "id": "21255",
+        "name": "Advancing Fist - 진격권",
+        "icon": "skill_icon_kungfufighter_1_43.png",
+        "main_info1": "Downs foes hit for 2 sec",
+        "main_info2": "Deals 36~42 damage",
+        "sub_info": "Charge to the target<br/>Pressure Point becomes available on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftSmash_Lv13": {
+        "id": "21255",
+        "name": "Advancing Fist - 진격권",
+        "icon": "skill_icon_kungfufighter_1_43.png",
+        "main_info1": "Downs foes hit for 2 sec",
+        "main_info2": "Deals 36~42 damage",
+        "sub_info": "Charge to the target<br/>Pressure Point becomes available on critical hit<br/>Disables defense skills for 6 sec",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "30 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftSmash_Lv21": {
+        "id": "21255",
+        "name": "Advancing Fist - 진격권",
+        "icon": "skill_icon_kungfufighter_1_43.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Pressure Point becomes available on critical hit<br/>User is invulnerable during use",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftSmash_Lv22": {
+        "id": "21255",
+        "name": "Advancing Fist - 진격권",
+        "icon": "skill_icon_kungfufighter_1_43.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Pressure Point becomes available on critical hit<br/>Ignores movement skill seal<br/>User is invulnerable during use",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_LeftSmash_Lv23": {
+        "id": "21255",
+        "name": "Advancing Fist - 진격권",
+        "icon": "skill_icon_kungfufighter_1_43.png",
+        "main_info1": "Deals 36~42 damage",
+        "main_info2": null,
+        "sub_info": "Charge to the target<br/>Pressure Point becomes available on critical hit<br/>Removes movement skill seal<br/>User is invulnerable during use",
+        "consume_sp": null,
+        "ui_sp_heal_value": "2",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "18 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_TurnKick_Lv1": {
+        "id": "21256",
+        "name": "Spin Kick - 돌려차기",
+        "icon": "skill_icon_kungfufighter_1_36.png",
+        "main_info1": "Deals 102~119 damage",
+        "main_info2": null,
+        "sub_info": "Immune to stun, groggy, down, knock back",
+        "consume_sp": null,
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "From User"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_1",
+                "value": "2X4m"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "24 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_DragonKick_Lv1": {
+        "id": "21285",
+        "name": "Flying Kick - 날아차기",
+        "icon": "skill_icon_kungfufighter_0_48.png",
+        "main_info1": "Deals 12~14 damage",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "6 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_DragonKick_Lv11": {
+        "id": "21285",
+        "name": "Flying Kick - 날아차기",
+        "icon": "skill_icon_kungfufighter_0_48.png",
+        "main_info1": "2 sec stun",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": null,
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "6 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_FireDragonKick_Lv1": {
+        "id": "21385",
+        "name": "Flame Kick - 비염각",
+        "icon": "skill_icon_kungfufighter_1_13.png",
+        "main_info1": "Downs foes hit for 2 sec",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "Cannot be deflected<br/>Ignores movement skill seal",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "6 ~ 16m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "6 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AnkleKick_Lv1": {
+        "id": "21406",
+        "name": "Ankle Blow - 발목강타",
+        "icon": "skill_icon_kungfufighter_1_41.png",
+        "main_info1": "Deals 42~77 damage",
+        "main_info2": null,
+        "sub_info": "Kaiten Kick becomes available on hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AnkleKick_Lv22": {
+        "id": "21406",
+        "name": "Ankle Blow - 발목강타",
+        "icon": "skill_icon_kungfufighter_1_41.png",
+        "main_info1": "Deals 42~77 damage",
+        "main_info2": null,
+        "sub_info": "Pressure Point becomes available on hit<br/>Kaiten Kick becomes available on hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_AnkleKick_Lv23": {
+        "id": "21406",
+        "name": "Ankle Blow - 발목강타",
+        "icon": "skill_icon_kungfufighter_1_41.png",
+        "main_info1": "Deals 42~77 damage",
+        "main_info2": null,
+        "sub_info": "Pressure Point becomes available on hit<br/>Kaiten Kick becomes available on hit<br/>Refreshes the cooldown of Crushing Fist on critical hit",
+        "consume_sp": null,
+        "ui_sp_heal_value": "1",
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PointBlood_Lv1": {
+        "id": "21609",
+        "name": "Pressure Point - 점혈",
+        "icon": "buff_debuff_icon_01_38.png",
+        "main_info1": "Applies Pressure Point for 10 sec",
+        "main_info2": "Deals 48~56 damage",
+        "sub_info": "Ignores defense<br/>Pressure Point Decreases the movement speed by 10%<br/>Grants Unleashed Flow for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow restores 10 chi",
+        "consume_sp": "2",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PointBlood_Lv11": {
+        "id": "21609",
+        "name": "Pressure Point - 점혈",
+        "icon": "buff_debuff_icon_01_38.png",
+        "main_info1": "Applies Pressure Point for 10 sec",
+        "main_info2": "Deals 48~56 damage",
+        "sub_info": "Ignores defense<br/>Pressure Point Decreases the movement speed by 10%<br/>Grants Unleashed Flow for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow restores 10 chi",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PointBlood_Lv12": {
+        "id": "21609",
+        "name": "Pressure Point - 점혈",
+        "icon": "buff_debuff_icon_01_38.png",
+        "main_info1": "Applies Pressure Point for 10 sec",
+        "main_info2": "Deals 48~56 damage",
+        "sub_info": "Ignores defense<br/>Pressure Point Decreases the movement speed by 10%<br/>Whoever attacks the enemy with Pressure Point gains Vigor for 3 sec<br/>Vigor increases critical hit damage by 1%. Stacks up to 10 times<br/>Grants Unleashed Flow for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow restores 10 chi",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "45 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PointBlood_Lv13": {
+        "id": "21609",
+        "name": "Pressure Point - 점혈",
+        "icon": "buff_debuff_icon_01_38.png",
+        "main_info1": "Applies Pressure Point for 10 sec",
+        "main_info2": "Deals 48~56 damage",
+        "sub_info": "Ignores defense<br/>Pressure Point can be stacked up to stage 4<br/>Damage multiplied by 2/3/4 per Pressure Point stack<br/>Pressure Point Decreases the movement speed by 10%<br/>Whoever attacks the enemy with Pressure Point gains Vigor for 3 sec<br/>Vigor increases critical hit damage by 1%. Stacks up to 10 times<br/>Grants Unleashed Flow for 10 sec<br/>Unleashed Flow increases critical by 10/20/30/50% per stage<br/>Unleashed Flow increases critical hit chance by 100% at stage 4<br/>Unleashed Flow restores 10 chi",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "1 min"
+            }
+        }
+    },
+    "KungfuMaster_Attack_PointBlood_Lv21": {
+        "id": "21609",
+        "name": "Pressure Point - 점혈",
+        "icon": "buff_debuff_icon_01_38.png",
+        "main_info1": "Applies Pressure Point for 10 sec",
+        "main_info2": "Deals 48~56 damage",
+        "sub_info": "Ignores defense<br/>Pressure Point Decreases the movement speed by 30%<br/>2 sec stun after the enemy with Pressure Point takes 5 hits. Removes Pressure Point<br/>Downs foes hit for 3 sec at the end of Pressure Point<br/>Grants Unleashed Flow for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow restores 10 chi<br/>Unleashed Flow increases movement speed by 15%",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "36 sec"
+            }
+        }
+    },
+    "KungfuMaster_Attack_SoulMask_PointBlood_Lv1_hid4": {
+        "id": "21979",
+        "name": "Awakened Pressure Point - 각성 점혈",
+        "icon": "skill_icon_kungfufighter_1_47.png",
+        "main_info1": "Applies Pressure Point for 10 sec",
+        "main_info2": "Available when Spiritualized<br/>Deals 240~280 damage",
+        "sub_info": "Ignores defense<br/>Pressure Point Decreases the movement speed by 10%<br/>Instant stage 4 Pressure Point on hit<br/>Whoever attacks the enemy with Pressure Point gains Vigor for 3 sec<br/>Vigor increases critical hit damage by 1%. Stacks up to 10 times<br/>Grants Unleashed Flow for 10 sec<br/>Unleashed Flow increases critical by 50%, critical hit chance by 100%<br/>Unleashed Flow restores 10 chi<br/>Pressure Point timer refreshed on hit<br/>Does not generate threat",
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko" id="pc">
+<head>
+<meta charset="UTF-8">
+<title>Simplifier</title>
+
+<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="../img/favicon.ico" type="image/x-icon" />
+
+<script src="../jquerytools.js"></script>
+<script src="../extra.js"></script>
+</head>
+
+<body onload="simplify_all(skill_data_SU, slot_data_SU, category_data_SU)">
+	<script src="../no longer used/data_skill-tooltip.js"></script>
+	<script src="../SU/skill_data_SU.js"></script>
+	<script src="../SU/slot_data_SU.js"></script>
+	<script src="../SU/category_data_SU.js"></script>
+	<script src="simplifier.js"></script>
+	
+	
+	<textarea id="t"></textarea>
+	<textarea id="s"></textarea>
+	
+	<button onClick="generate();">Generate</button>
+</body>

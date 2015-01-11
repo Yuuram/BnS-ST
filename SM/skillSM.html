@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ko" id="pc">
+<head>
+<meta charset="UTF-8" name="viewport" content="height=device-height, initial-scale=0.5, minimum-scale=0.5">
+<title>Lyn Blade Master Skill Tree Simulator</title>
+
+<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="../img/favicon.ico" type="image/x-icon" />
+
+<script src="../jquerytools.js"></script>
+<script src="../extra.js"></script>
+
+<script type="text/javascript">
+function applyBuild() {
+	var api = jQuery("ul.tabs").data("tabs");
+	api.click(0);
+			
+	var obj = trim(document.getElementById('codearea').value);
+	if (obj == ""){
+		return;
+	}
+	
+	try{
+		var c = $.parseJSON(obj);
+		if(String(c.character_job) != "SM") {
+			document.getElementById('codearea').value = "Wrong class!!";
+			return;
+		}
+		
+		_training.loadGetJsonData(obj);
+		document.getElementById('codearea').value = obj;
+	}
+	catch(err) {
+		document.getElementById('codearea').value = "Invalid input!!";
+		return;
+	}
+}
+</script>
+
+<link rel="stylesheet" type="text/css" href="../layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../training2.css" />
+<link rel="stylesheet" type="text/css" href="../SM/bg.css" />
+</head>
+
+<body class="screen">
+	<div id="window_wrap">
+		<div id="navbar">
+			<a class="m0" id="home" href="../main.html"><span>Di'el's Skill Tree Simulator for Blade & Soul</span></a>
+			<nav class="tab_tr">
+				<a class="m1" href="../BM/skillBM.html"><span>Blade Master</span></a>
+				<a class="m2" href="../KF/skillKF.html"><span>Kung-Fu Master</span></a>
+				<a class="m3" href="../DE/skillDE.html"><span>Destroyer</span></a>
+				<a class="m4" href="../FM/skillFM.html"><span>Force Master</span></a>
+				<a class="m5" href="../AS/skillAS.html"><span>Assassin</span></a>
+				<a class="m6" href="../SU/skillSU.html"><span>Summoner</span></a>
+				<a class="m7 on" href="../SM/skillSM.html"><span>Lyn Blade Master</span></a>
+				<a class="m8" href="../WL/skillWL.html"><span>Warlock</span></a>
+				<a id="save" href="#" onclick="expand2()"><span>Save/Load Build</span></a>
+			</nav>
+		</div>
+		<div id="content_wrap">
+			<div id="subsection">
+				<p class="sideheader">Featured Builds</p>
+				<div class="builds">
+					<ul class="tabs" id="buildlist">
+						<li><a href="#" onclick="blank();" style="display:none;">Blank Template</a></li>
+						</a></li>
+					</ul>
+					<p class="sideheader">Description</p>
+					<div class="panes">
+						<div>
+							</div>
+					</div>
+					<ul class="back">
+						<li><a onclick="blank();">Back to list</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="mainsection">
+				<section class="wrap_mytraining">
+					<progress id="pbar" value="100" max="100"></progress>
+					<div class="trWrap" id="trainingWrap"></div>
+					
+					<script src="../training.min.js"></script>
+					<script src="../SM/category_data_SM.js"></script>
+					<script src="../SM/slot_data_SM.js"></script>
+					<script src="../SM/skill_data_SM.js"></script>
+					<script src="../SM/data_skill-tooltip_SM.js"></script>
+					<script src="../data_skill-tooltip-attribute.js"></script>
+					
+					<script type="text/javascript">
+						var _training;
+						
+						(function($) {
+							$(document).ready(function() {
+								if(String.prototype.trim == null)
+									String.prototype.trim=function(){return this.replace(/^\s*/,"").replace(/\s*$/,"");}
+		
+								_training = new nc.bns.training.Training({
+									containerSelector:".trWrap",
+									level: 50,
+									masteryLevel: 12,
+									job: "SM",
+									masteryTitle: "Divine Level ",
+									maxLevel: 50
+									});
+										
+								//reset button
+								var _$resetSkillBtn = $("#resetSkill");
+								var _$resetAllSkillBtn = $("#resetAllSkill");
+							});
+						})(jQuery);
+
+						document.getElementById('pbar').setAttribute('style', 'display:none;');
+					</script>
+				</section>
+			</div>
+		</div>
+		<div id="savearea">
+			<p class="sideheader">Save/Load</p><a id="close" href="#" onclick="closesave()"><span>Close</span></a>
+			<p class="instructions">Generate your code and save it with a simple text editor like notepad or paste your code in the box and hit apply to load your build.</p>
+			<textarea id="codearea"></textarea>
+			<button id="generateCode" onclick="generateBuild()">Generate Code</button>
+			<button id="applyCode" onclick="applyBuild()">Apply Code</button>
+		</div>
+	</div>
+</body>
+</html>
+
+
+
+
+
+

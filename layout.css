@@ -1,0 +1,378 @@
+@font-face {
+   	font-family:Roboto-CLight;
+   src:url(fonts/RobotoCondensed-Light.ttf)
+}
+
+@font-face {
+   font-family:Roboto-Light;
+	src:url(fonts/Roboto-Light.ttf)
+}
+
+@font-face {
+   font-family:Roboto-Med;
+   src:url(fonts/Roboto-Medium.ttf)
+}
+
+* {
+   font-family:Roboto-Medium,"Segoe UI","Helvetica Neue";
+   margin:0;
+   padding:0
+}
+
+.screen{
+	background-color:#000000;
+	min-width:1400px;
+	min-height:850px;
+}
+	
+#window_wrap{
+	width:100%;
+	height:100vh;
+	overflow:hidden;
+	background:#000 url(img/home.jpg) no-repeat center 2px;
+	background-size:100% auto;
+	min-height:850px;
+}
+
+#content_wrap{
+	height: 100%;
+    height: -webkit-calc(100% - 50px);
+    height: -moz-calc(100% - 50px);
+    height: calc(100% - 50px);
+	margin-left:0px;
+}
+
+#mainsection{
+	margin-right:320px;
+	height:100%;
+}
+
+#intro{
+	padding:50px 80px;
+	width:450px;
+}
+
+#intro a{
+	text-decoration:none;
+	color: #E4BD27;
+}
+
+#intro h1{
+	font-size:25px;
+	color:#eab614;
+	margin-bottom:10px;
+}
+
+#intro p{
+	font-size:14px;
+	color:#ffffff;
+	line-height:18px;
+}
+
+#subsection{
+	float:right;
+	width: 320px;
+	height:100%;
+	background-color:rgba(0, 0, 0, 0.5);
+	background-size:100% auto;
+	border-left-style:solid;
+	border-color:rgba(228, 189, 39, 0.3);
+	border-width:1px;
+	overflow:hidden;
+}
+
+
+.sideheader{
+	height:30px;
+	padding:12px 15px 3px 15px;
+	color:#eab614;
+	font-size:20px;
+}
+
+.builds {
+    width:355px;
+	height:100%;
+    overflow:hidden;
+}
+
+.date {
+    color:#eab614;
+    font-weight:700;
+    height:31px;
+    font-size:16px;
+}
+
+.section {
+    color:#fff;
+    font-weight:700;
+    font-size:15px;
+    line-height:25px;
+    vertical-align:middle;
+    height:25px;
+    text-indent:15px;
+}
+
+
+/* root element for tabs  */
+#buildlist {
+    list-style:none;
+    margin:0!important;
+    padding:0;
+    border-bottom:1px solid #324762;
+    height:100%;
+    overflow:auto;
+    -webkit-overflow-scrolling:touch;
+}
+
+/* single tab */
+ul.tabs li {
+    text-indent:0;
+    padding:0;
+    margin:0!important;
+    width:343px
+}
+
+/* link inside the tab. uses a background image */
+ul.tabs a,ul.back a {
+    text-indent:10px;
+    display:block;
+    height:38px;
+    color:#fff;
+    padding:10px 5px;
+    text-decoration:none;
+    border-top:1px solid #324762;
+}
+
+p.builder {
+    color:#bbb;
+    font-size:12px;
+    float:left
+}
+
+p.levelreq {
+    float:right;
+    font-size:12px;
+    position:relative;
+    margin-right:25px
+}
+
+p.title {
+    clear:both;
+    font-size:16px
+}
+
+ul.tabs a:active {
+    outline:none
+}
+
+/* when mouse enters the tab move the background image */
+ul.tabs a:hover,ul.back a:hover {
+    background:-webkit-linear-gradient(left,rgba(25,85,130,0),rgba(25,85,130,1));
+/*Safari*/
+    background:-o-linear-gradient(left,rgba(25,85,130,0),rgba(25,85,130,1));
+/*Opera 11-12*/
+    background:-moz-linear-gradient(left,rgba(25,85,130,0),rgba(25,85,130,1));
+/*Fx 3.6-15*/
+    background:linear-gradient(to left,rgba(25,85,130,0),rgba(25,85,130,1));
+/*Standard*/
+    color:#fff;
+    text-decoration:none
+}
+
+/* active tab uses a class name "current". its highlight is also done by moving the background image. */
+ul.tabs a.current,ul.tabs a.current:hover,ul.tabs li.current a {
+    background:-webkit-linear-gradient(left,rgba(5,140,200,0),rgba(5,140,200,1));
+/*Safari*/
+    background:-o-linear-gradient(left,rgba(5,140,200,0),rgba(5,140,200,1));
+/*Opera 11-12*/
+    background:-moz-linear-gradient(left,rgba(5,140,200,0),rgba(5,140,200,1));
+/*Fx 3.6-15*/
+    background:linear-gradient(to left,rgba(5,140,200,0),rgba(5,140,200,1));
+/*Standard*/
+    cursor:default!important;
+    color:#fff!important;
+    text-decoration:none
+}
+
+/* initially all panes are hidden */
+.panes {
+    height:87%;
+}
+
+/* tab pane styling */
+.panes div {
+    padding:5px 15px;
+    margin-right:15px;
+    color:#fff;
+    font-size:12px;
+    overflow-y:scroll
+}
+
+.panes li{
+	padding-left: 20px;
+    text-indent: -1em;
+}
+
+.desc {
+    color:#eab614;
+    padding:5px 15px;
+    font-weight:700
+}
+
+ul::-webkit-scrollbar {
+    width:5px;
+    background-color:#000
+}
+
+ul::-webkit-scrollbar-thumb {
+    background-color:#eab614;
+    border-radius:2px
+}
+
+ul {
+    scrollbar-track-color:#000;
+    scrollbar-face-color:#eab614;
+    scrollbar-highlight-color:#eab614;
+    scrollbar-shadow-color:#eab614
+}
+
+#navbar{
+	width:100%;
+	height:80px;
+	background-color:rgba(0,0,0,0.8);
+	overflow:hidden;
+	min-width:1400px;
+}
+
+
+.tab_tr {
+	padding-top:10px;
+}
+
+.tab_tr a {
+	float:left;
+    width:125px;
+    text-align:center;
+    color:#ffffff;
+    text-decoration:none;
+}
+
+.tab_tr a span {
+    font-size:13px;
+    display:block;
+    width:100%;
+    padding:10px 0 0;
+    font-weight:300;
+    overflow:hidden;
+}
+
+.tab_tr a:hover {
+    color:#E4BD27;
+}
+
+.tab_tr a.on {
+    color:#E4BD27
+}
+
+#home{
+    display:block;
+    height:20px;
+    text-align:left;
+    margin-left:26px;
+	padding-top:15px;
+    color:#E4BD27;
+	text-decoration:none;
+}
+
+#save{
+	float:right;
+	margin-right:12px;
+}
+
+#savearea{
+	float:right;
+    padding-top:80px;
+	width: 320px;
+	right:-320px;
+	height:100%;
+	background-color:rgba(0, 0, 0, 1);
+	position:fixed;
+	top:0px;
+   color:#fff;
+   font-size:12px;
+   overflow:hidden;
+}
+
+#savearea .instructions{
+	margin:0 15px;
+}
+
+button {
+    margin:19px;
+    position:relative;
+    bottom:8px;
+    padding:3px;
+    width:120px
+}
+
+textarea {
+    resize:none;
+    width:280px;
+    height:100px;
+    margin:18px;
+}
+
+#close {
+	color:#fff;
+	text-decoration:none;
+	float:right;
+	margin-top:-70px;
+	margin-right:30px;
+	font-weight:500;
+	font-size: 13px;
+	position:relative;
+}
+
+#close:hover {
+    color:#E4BD27
+}
+
+progress {
+    width:1035px;
+    height:3px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    -webkit-appearance: none;
+    border: none;
+}
+
+progress::-webkit-progress-bar {
+    background: transparent;
+}
+
+progress::-webkit-progress-value {
+    background: transparent;
+    background-repeat: no-repeat;
+    background-image: url(img/progress.gif);
+    -webkit-animation: move 3s linear 0 infinite;
+    animation: move 3s linear 0 infinite;
+}
+
+progress::-moz-progress-bar {  
+    background: transparent;
+    background-repeat: no-repeat;
+    background-image: url(img/progress.gif);
+    -webkit-animation: move 3s linear 0 infinite;
+    animation: move 3s linear 0 infinite;  
+}  
+
+@-webkit-keyframes move {
+        0% {background-position: -100px 0px, 0 0, 0 0}
+        100% {background-position: 1035px 0px, 0 0, 0 0}
+}
+
+@keyframes move {
+        0% {background-position: -100px 0px, 0 0, 0 0}
+        100% {background-position: 1035px 0px, 0 0, 0 0}
+}
