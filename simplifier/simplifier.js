@@ -68,17 +68,17 @@ function simplify(skill_data){
 			if ($.inArray(t.toLowerCase(), l3) > -1){
 				delete new_data[t]
 			}
-			else {
-				for (var group in new_data[t]) {
-					for (var n in new_data[t][group]){
-						delete new_data[t][group][n]["default-text-refine"];
-						delete new_data[t][group][n]["is_public"];
-						delete new_data[t][group][n]["skill-modify-diff-repeat-count"];
-						delete new_data[t][group][n]["after-stance-attribute"];
-						delete new_data[t][group][n]["before-stance-attribute"];
-					}
-				}
-			}
+			// else {
+				// for (var group in new_data[t]) {
+					// for (var n in new_data[t][group]){
+						// delete new_data[t][group][n]["default-text-refine"];
+						// delete new_data[t][group][n]["is_public"];
+						// delete new_data[t][group][n]["skill-modify-diff-repeat-count"];
+						// delete new_data[t][group][n]["after-stance-attribute"];
+						// delete new_data[t][group][n]["before-stance-attribute"];
+					// }
+				// }
+			// }
 		}
 	}
 	
