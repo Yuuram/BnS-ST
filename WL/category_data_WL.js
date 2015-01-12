@@ -528,8 +528,8 @@ var category_data_WL = {
 	{
 		"skill_id": "28060",
 		"tree_id": "28060",
-		"name2_refine": "Open Gate<br>개문",
-		"name2_refine_en": "Open Gate",
+		"name2_refine": "Open<br>개문",
+		"name2_refine_en": "Open",
 		"pc_level": "8",
 		"pc_mastery_level": null,
 		"complete_quest": null,
@@ -901,7 +901,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open Gate  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open  "
 	},
 	"28800": 
 	{

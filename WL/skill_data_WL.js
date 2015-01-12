@@ -1537,7 +1537,7 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundAttack_Lv1": {
         "id": "28060",
-        "name": "Open Gate - 개문",
+        "name": "Open - 개문",
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": null,
@@ -1569,7 +1569,7 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundAttack_Lv11": {
         "id": "28060",
-        "name": "Open Gate - 개문",
+        "name": "Open - 개문",
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": null,
@@ -1601,7 +1601,7 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundAttack_Lv21": {
         "id": "28060",
-        "name": "Open Gate - 개문",
+        "name": "Open - 개문",
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes",
@@ -1633,7 +1633,7 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundAttack_Lv31": {
         "id": "28060",
-        "name": "Open Gate - 개문",
+        "name": "Open - 개문",
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 174~203 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
@@ -1665,7 +1665,7 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundAttack_Lv41": {
         "id": "28060",
-        "name": "Open Gate - 개문",
+        "name": "Open - 개문",
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 174~203 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
@@ -1697,7 +1697,7 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundAttack_Lv51": {
         "id": "28060",
-        "name": "Open Gate - 개문",
+        "name": "Open - 개문",
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 181~211 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes<br/>Increased damage per consecutive hit",
@@ -2565,7 +2565,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Brands foes hit for 4 sec",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Knocks-up downed, dazed, stunned foes<br/>Cooldown of Open Gate is refreshed on hit",
+        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Knocks-up downed, dazed, stunned foes<br/>Cooldown of Open is refreshed on hit",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {

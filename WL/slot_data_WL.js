@@ -4409,8 +4409,8 @@ var slot_data_WL = {
 				"max_variation_level": "1",
 				"variation_id": "11",
 				"tooltip_alias": "Warlock_Spell_GroundAttack_Lv11",
-				"name2_refine": "Open Gate<br>개문",
-				"name2_refine_en": "Open Gate",
+				"name2_refine": "Open<br>개문",
+				"name2_refine_en": "Open",
 				"variation_level": 
 				{
 					"0": null,
@@ -4493,8 +4493,8 @@ var slot_data_WL = {
 				"max_variation_level": "1",
 				"variation_id": "21",
 				"tooltip_alias": "Warlock_Spell_GroundAttack_Lv21",
-				"name2_refine": "Open Gate<br>개문",
-				"name2_refine_en": "Open Gate",
+				"name2_refine": "Open<br>개문",
+				"name2_refine_en": "Open",
 				"variation_level": 
 				{
 					"0": null,
@@ -4577,8 +4577,8 @@ var slot_data_WL = {
 				"max_variation_level": "1",
 				"variation_id": "31",
 				"tooltip_alias": "Warlock_Spell_GroundAttack_Lv31",
-				"name2_refine": "Open Gate<br>개문",
-				"name2_refine_en": "Open Gate",
+				"name2_refine": "Open<br>개문",
+				"name2_refine_en": "Open",
 				"variation_level": 
 				{
 					"0": null,
@@ -4661,8 +4661,8 @@ var slot_data_WL = {
 				"max_variation_level": "1",
 				"variation_id": "41",
 				"tooltip_alias": "Warlock_Spell_GroundAttack_Lv41",
-				"name2_refine": "Open Gate<br>개문",
-				"name2_refine_en": "Open Gate",
+				"name2_refine": "Open<br>개문",
+				"name2_refine_en": "Open",
 				"variation_level": 
 				{
 					"0": null,
@@ -4745,8 +4745,8 @@ var slot_data_WL = {
 				"max_variation_level": "1",
 				"variation_id": "51",
 				"tooltip_alias": "Warlock_Spell_GroundAttack_Lv51",
-				"name2_refine": "Open Gate<br>개문",
-				"name2_refine_en": "Open Gate",
+				"name2_refine": "Open<br>개문",
+				"name2_refine_en": "Open",
 				"variation_level": 
 				{
 					"0": null,
@@ -5575,7 +5575,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open Gate  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_warlock_0_4.png",
 				"required_tp": 1
