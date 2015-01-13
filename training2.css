@@ -16,13 +16,13 @@ ul {
 .wrap_mytraining{
 	position: relative;
 	top: 50%;
-	transform: translateY(-60%);
+	transform: translateY(-50%);
 }
 
 .trWrap {
-	transform-origin:50% 0;
-	-ms-transform-origin:50% 0;
-	-webkit-transform-origin:50% 0;
+	transform-origin:50% 50%;
+	-ms-transform-origin:50% 50%;
+	-webkit-transform-origin:50% 50%;
 	transform:scale(1.1);
 	-ms-transform:scale(1.1);
 	-webkit-transform:scale(1.1);
@@ -33,6 +33,14 @@ ul {
 	border-style:solid;
 	border-color:rgba(228, 189, 39, 0.3);
 	border-width:1px;
+}
+
+@media (min-width: 1600px) {
+    .trWrap {
+        transform:scale(1.2);
+		-ms-transform:scale(1.2);
+		-webkit-transform:scale(1.2);
+    }
 }
 
 .trWrap .header {
