@@ -202,7 +202,7 @@ ul.tabs a.current,ul.tabs a.current:hover,ul.tabs li.current a {
 
 /* initially all panes are hidden */
 .panes {
-    height:87%;
+    height:90%;
 }
 
 /* tab pane styling */
