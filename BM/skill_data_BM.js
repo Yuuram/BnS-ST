@@ -837,7 +837,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Swallow Blade can be used while dashing, jumping, gliding",
+        "sub_info": "Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -869,7 +869,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Swallow Blade can be used while dashing, jumping, gliding",
+        "sub_info": "Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -901,7 +901,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes hit by 50% for 3 sec<br/>Swallow Blade can be used while dashing, jumping, gliding",
+        "sub_info": "Decreases the movement speed of foes hit by 50% for 3 sec<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -933,7 +933,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Downs foes hit for 3 sec",
         "main_info2": null,
-        "sub_info": "Deals 12~14 damage<br/>Decreases the movement speed of foes hit by 50% for 3 sec<br/>Swallow Blade can be used while dashing, jumping, gliding",
+        "sub_info": "Deals 12~14 damage<br/>Decreases the movement speed of foes hit by 50% for 3 sec<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {

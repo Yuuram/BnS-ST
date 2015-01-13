@@ -2795,7 +2795,8 @@ var slot_data_SM = {
 				"max_variation_level": "1",
 				"variation_id": "12",
 				"tooltip_alias": "SwordMaster_Sword_thunderbolt_LV12",
-				"name2_refine": "Thunderbolt - 벼락",
+				"name2_refine": "Thunderbolt<br>벼락",
+				"name2_refine_en": "Thunderbolt",
 				"variation_level": 
 				{
 					"0": null,
@@ -2878,7 +2879,8 @@ var slot_data_SM = {
 				"max_variation_level": "1",
 				"variation_id": "13",
 				"tooltip_alias": "SwordMaster_Sword_thunderbolt_LV13",
-				"name2_refine": "Thunderbolt - 벼락",
+				"name2_refine": "Thunderbolt<br>벼락",
+				"name2_refine_en": "Thunderbolt",
 				"variation_level": 
 				{
 					"0": null,
@@ -2961,7 +2963,8 @@ var slot_data_SM = {
 				"max_variation_level": "1",
 				"variation_id": "21",
 				"tooltip_alias": "SwordMaster_Sword_thunderbolt_LV21",
-				"name2_refine": "Thunderbolt - 벼락",
+				"name2_refine": "Thunderbolt<br>벼락",
+				"name2_refine_en": "Thunderbolt",
 				"variation_level": 
 				{
 					"0": null,
