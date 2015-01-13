@@ -22,7 +22,7 @@
 .screen{
 	background-color:#000000;
 	min-width:1400px;
-	min-height:850px;
+	min-height:900px;
 }
 	
 #window_wrap{
@@ -31,14 +31,14 @@
 	overflow:hidden;
 	background:#000 url(img/home.jpg) no-repeat center 2px;
 	background-size:100% auto;
-	min-height:850px;
+	min-height:900px;
 }
 
 #content_wrap{
 	height: 100%;
-    height: -webkit-calc(100% - 50px);
-    height: -moz-calc(100% - 50px);
-    height: calc(100% - 50px);
+    height: -webkit-calc(100% - 80px);
+    height: -moz-calc(100% - 80px);
+    height: calc(100% - 80px);
 	margin-left:0px;
 }
 
@@ -119,7 +119,13 @@
     margin:0!important;
     padding:0;
     border-bottom:1px solid #324762;
-    height:100%;
+    height: 100%;
+    height: -webkit-calc(100% - 45px);
+    height: -moz-calc(100% - 45px);
+    height: calc(100% - 45px);
+    max-height: -webkit-calc(100% - 45px);
+    max-height: -moz-calc(100% - 45px);
+    max-height: calc(100% - 45px);
     overflow:auto;
     -webkit-overflow-scrolling:touch;
 }
