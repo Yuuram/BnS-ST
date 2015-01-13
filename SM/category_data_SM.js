@@ -807,7 +807,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit during draw stance  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  "
 	},
 	"27144": 
 	{
@@ -1098,7 +1098,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_swordmaster_0_4.png\' class=\'icon_in_description\' /> Target with Soulblade Tempest while using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_swordmaster_0_4.png\' class=\'icon_in_description\' /> Using Force Grip on a foe with Soulblade Tempest  "
 	},
 	"27632": 
 	{
