@@ -481,7 +481,7 @@
                             if (i === f) continue;
                             l && f && (e.isPlainObject(f) || (g = e.isArray(f))) ? (g ? (g = !1, h = d && e.isArray(d) ? d : []) : h = d && e.isPlainObject(d) ? d : {}, i[c] = e.extend(l, h, f)) : f !== b && (i[c] = f)
                         }
-                    return i
+                return i
             }, e.extend({
                 noConflict: function(b) {
                     a.$ === e && (a.$ = g), b && a.jQuery === e && (a.jQuery = f);
