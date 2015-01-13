@@ -1541,7 +1541,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1573,7 +1573,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1605,7 +1605,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes",
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1637,7 +1637,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 174~203 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 1 additional chi per enemy hit<br/>Raging Spirit or Spirit Surge can be instantly cast on hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Generates 1 additional chi per enemy hit<br/>Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1669,7 +1669,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 174~203 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 1 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast on hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Generates 1 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1701,7 +1701,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 181~211 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 2 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast on hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Generates 2 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
