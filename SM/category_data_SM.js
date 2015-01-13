@@ -400,7 +400,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, unconscious  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"27202": 
 	{
@@ -750,7 +750,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
 	},
 	"27120": 
 	{
@@ -995,7 +995,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> Using qinggong  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"27203": 
 	{
@@ -1073,7 +1073,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> Using qinggong  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"27311": 
 	{

@@ -773,7 +773,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Grants Mantra for 5 sec on hit<br/>Mantra restores 5 chi<br/>",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi<br/>",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -805,7 +805,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Grants Mantra for 5 sec on hit<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -837,7 +837,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Grants Mantra for 5 sec on hit<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -869,7 +869,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Grants Mantra for 5 sec on hit<br/>Mantra restores 15 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -901,7 +901,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_41.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Grants Mantra for 5 sec on hit<br/>Mantra Heals the user 5% of their maximum health<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra Heals the user 5% of their maximum health<br/>Mantra restores 5 chi<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -933,7 +933,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Grants Mantra for 5 sec on hit<br/>Mantra restores 15 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -965,7 +965,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_41.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Grants Mantra for 5 sec on hit<br/>Mantra Heals the user 1% of their maximum health on critical hit<br/>Mantra Heals the user 5% of their maximum health<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra Heals the user 1% of their maximum health on critical hit<br/>Mantra Heals the user 5% of their maximum health<br/>Mantra restores 5 chi<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1765,7 +1765,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_11.png",
         "main_info1": "User is invulnerable from the next 1 attack for 5 sec",
         "main_info2": null,
-        "sub_info": "Removes movement impairment effects<br/>Cures the user's Internal Bleeding",
+        "sub_info": "Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1797,7 +1797,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_11.png",
         "main_info1": "User is invulnerable from the next 5 attacks for 5 sec",
         "main_info2": null,
-        "sub_info": "Removes movement impairment effects<br/>Cures the user's Internal Bleeding",
+        "sub_info": "Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1827,9 +1827,9 @@ var skill_data_WL = {
         "id": "28070",
         "name": "Protection Charm - 보호부",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier equivalent to 20% of the user's health that lasts for 10 sec",
+        "main_info1": "Creates a barrier equivalent to 20% of the user's maximum health that lasts for 10 sec",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user's Internal Bleeding",
+        "sub_info": "Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1861,7 +1861,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_11.png",
         "main_info1": "User is invulnerable from the next 5 attacks for 5 sec",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health on resist<br/>Generates 2 chi on resist<br/>Removes movement impairment effects<br/>Cures the user's Internal Bleeding",
+        "sub_info": "Heals the user 2% of their maximum health on resist<br/>Generates 2 chi on resist<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1891,9 +1891,9 @@ var skill_data_WL = {
         "id": "28070",
         "name": "Protection Charm - 보호부",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier equivalent to 20% of the user's health that lasts for 10 sec",
+        "main_info1": "Creates a barrier equivalent to 20% of the user's maximum health that lasts for 10 sec",
         "main_info2": null,
-        "sub_info": "User is immune to knock-up<br/>Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user's Internal Bleeding",
+        "sub_info": "User is immune to knock-up<br/>Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1925,7 +1925,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_11.png",
         "main_info1": "User is invulnerable from the next 5 attacks for 5 sec",
         "main_info2": null,
-        "sub_info": "Increases critical hit damage by 5% on resist<br/>Critical hit damage increase stacks up to 5 times<br/>Increases critical hit damage by 50% at 5 stacks<br/>Heals the user 2% of their maximum health on resist<br/>Generates 2 chi on resist<br/>Removes movement impairment effects<br/>Cures the user's Internal Bleeding",
+        "sub_info": "Increases critical hit damage by 5% on resist<br/>Critical hit damage increase stacks up to 5 times<br/>Increases critical hit damage by 50% at 5 stacks<br/>Heals the user 2% of their maximum health on resist<br/>Generates 2 chi on resist<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1955,9 +1955,9 @@ var skill_data_WL = {
         "id": "28070",
         "name": "Protection Charm - 보호부",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier equivalent to 20% of the user's health that lasts for 10 sec",
+        "main_info1": "Creates a barrier equivalent to 20% of the user's maximum health that lasts for 10 sec",
         "main_info2": null,
-        "sub_info": "Heals the user additional 10% of their health on maintaining Protection Charm for 5 sec<br/>User is immune to knock-up<br/>Heals the user 10% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user's Internal Bleeding",
+        "sub_info": "Heals the user additional 10% of their maximum health on maintaining Protection Charm for 5 sec<br/>User is immune to knock-up<br/>Heals the user 10% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2917,7 +2917,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "Immune to down for 6 sec",
         "main_info2": null,
-        "sub_info": "Heals allies within the area 9% of their health over 6 sec<br/>Reduces incoming damage to allies within the area by 20% for 6 sec",
+        "sub_info": "Heals allies within the area 9% of their maximum health over 6 sec<br/>Reduces incoming damage to allies within the area by 20% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3013,7 +3013,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "Immune to down for 6 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals allies within the area 9% of their health over 6 sec<br/>Reduces incoming damage to allies within the area by 20% for 6 sec",
+        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals allies within the area 9% of their maximum health over 6 sec<br/>Reduces incoming damage to allies within the area by 20% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3173,7 +3173,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "Immune to down for 10 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals allies within the area 15% of their health over 10 sec<br/>Heals an additional 3% of health on block, counter, resist within the area<br/>Reduces incoming damage by 20% for 10 sec to allies within the area",
+        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals allies within the area 15% of their maximum health over 10 sec<br/>Heals an additional 3% of health on block, counter, resist within the area<br/>Reduces incoming damage by 20% for 10 sec to allies within the area",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3237,7 +3237,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "Immune to down, groggy, stun for 10 sec",
         "main_info2": null,
-        "sub_info": "Increases soul defense by 10%<br/>Reduces incoming damage by 20% for 10 sec to allies within the area<br/>Creates a barrier around allies within the area equivalent to 5% of their health every 2 sec",
+        "sub_info": "Increases soul defense by 10%<br/>Reduces incoming damage by 20% for 10 sec to allies within the area<br/>Creates a barrier around allies within the area equivalent to 5% of their maximum health every 2 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3301,7 +3301,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used with [S][S]",
+        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>Used with [S][S]",
+        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3365,7 +3365,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>Used with [S][S]",
+        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3397,7 +3397,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Immobilizes foes hit for 4 sec<br/>Removes freeze<br/>User is invulnerable during use<br/>Used with [S][S]",
+        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Immobilizes foes hit for 4 sec<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3429,7 +3429,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Used with [S][S]",
+        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3461,7 +3461,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Brands foes hit for 4 sec<br/>Immobilizes foes hit for 4 sec<br/>Removes freeze<br/>User is invulnerable during use<br/>Used with [S][S]",
+        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Brands foes hit for 4 sec<br/>Immobilizes foes hit for 4 sec<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3685,7 +3685,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_14.png",
         "main_info1": "Escape from downed status",
         "main_info2": "2m knock back<br/>Deals 12~14 damage",
-        "sub_info": "User is downed for 1 sec if they are hit during use",
+        "sub_info": "User is downed for 1 sec if they are attacked during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

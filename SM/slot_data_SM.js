@@ -7081,7 +7081,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7165,7 +7165,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7249,7 +7249,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7333,7 +7333,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7417,7 +7417,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7501,7 +7501,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7585,7 +7585,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7669,7 +7669,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 3
@@ -7753,7 +7753,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 2
@@ -7837,7 +7837,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 2
@@ -10202,7 +10202,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_10.png",
 				"required_tp": 1

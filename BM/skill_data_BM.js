@@ -453,7 +453,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per enemy hit<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been disabled by Front Kick unconscious for 30 sec",
+        "sub_info": "Generates 1 chi per foe hit<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been disabled by Front Kick unconscious for 30 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1029,7 +1029,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Pulls foes",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per enemy hit<br/>Deals 12~14 damage up to 5 foes<br/>Cannot be deflected",
+        "sub_info": "Generates 1 chi per foe hit<br/>Deals 12~14 damage up to 5 foes<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1061,7 +1061,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Pulls and dazes foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per enemy hit<br/>Deals 12~14 damage up to 5 foes<br/>Cannot be deflected",
+        "sub_info": "Generates 1 chi per foe hit<br/>Deals 12~14 damage up to 5 foes<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1189,7 +1189,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_1_19.png",
         "main_info1": "Deflects multiple attacks for 0.5 sec",
         "main_info2": null,
-        "sub_info": "Increases the user's critical hit damage by 10% for 3 sec on deflect<br/>Stuns attacking foes on deflect<br/>Deals 36~42 damage<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect",
+        "sub_info": "Increases the critical hit damage of the user by 10% for 3 sec on deflect<br/>Stuns attacking foes on deflect<br/>Deals 36~42 damage<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1221,7 +1221,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_1_19.png",
         "main_info1": "Deflects multiple attacks for 0.5 sec",
         "main_info2": null,
-        "sub_info": "Cooldown of Lightning Slash is decreased by 1 sec on deflect<br/>Increases the user's critical hit damage by 10% for 3 sec on deflect<br/>Stuns attacking foes on deflect<br/>Deals 36~42 damage<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect",
+        "sub_info": "Cooldown of Lightning Slash is decreased by 1 sec on deflect<br/>Increases the critical hit damage of the user by 10% for 3 sec on deflect<br/>Stuns attacking foes on deflect<br/>Deals 36~42 damage<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1700,7 +1700,7 @@ var skill_data_BM = {
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Deals 48~56 damage over 4 sec",
+        "main_info2": "Deals 48~56 damage to foes in the area over 4 sec",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1732,7 +1732,7 @@ var skill_data_BM = {
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Deals 48~56 damage over 4 sec",
+        "main_info2": "Deals 48~56 damage to foes in the area over 4 sec",
         "sub_info": "Generates 2 chi per hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1764,7 +1764,7 @@ var skill_data_BM = {
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Deals 48~56 damage over 4 sec",
+        "main_info2": "Deals 48~56 damage to foes in the area over 4 sec",
         "sub_info": "Damage doubled on 2 consecutive hits<br/>Generates 2 chi per hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2373,7 +2373,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_13.png",
         "main_info1": "Move behind the enemy around their right",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Max speed Stab is available on resist<br/>Max speed World Sunder is available on resist<br/>Flash of Light is available on resist<br/>Counterattack(E) can be used regardless of cooldown while in draw stance",
+        "sub_info": "Max speed Stab is available on resist<br/>Max speed World Sunder is available on resist<br/>Flash of Light is available on resist<br/>Counterattack[E] can be used regardless of cooldown while in draw stance",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2629,7 +2629,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_17.png",
         "main_info1": "Deals 37~43 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's evade chance by 100% during use",
+        "sub_info": "Increases the evade chance of the user by 100% during use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2661,7 +2661,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_18.png",
         "main_info1": "Deals 112~130 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's evade chance by 100% during use",
+        "sub_info": "Increases the evade chance of the user by 100% during use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2725,7 +2725,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's movement speed by 30% for 8 sec",
+        "sub_info": "Increases the movement speed of the user by 30% for 8 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2757,7 +2757,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 2~3 damage<br/>Increases the user's movement speed by 30% for 8 sec",
+        "sub_info": "Deals 2~3 damage<br/>Increases the movement speed of the user by 30% for 8 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2789,7 +2789,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Deals 2~3 damage<br/>Increases the user's movement speed by 30% for 8 sec",
+        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Deals 2~3 damage<br/>Increases the movement speed of the user by 30% for 8 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2821,7 +2821,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Charge behind the target<br/>Stuns foes hit for 2 sec<br/>Disables charge abilities of foes hit for 6 sec<br/>Deals 2~3 damage<br/>Increases the user's movement speed by 30% for 8 sec",
+        "sub_info": "Charge behind the target<br/>Stuns foes hit for 2 sec<br/>Disables charge abilities of foes hit for 6 sec<br/>Deals 2~3 damage<br/>Increases the movement speed of the user by 30% for 8 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2853,7 +2853,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_1_11.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Deals 96~112 damage over 1.3 sec<br/>Increases the user's movement speed by 30% for 8 sec",
+        "sub_info": "Deals 96~112 damage over 1.3 sec<br/>Increases the movement speed of the user by 30% for 8 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2885,7 +2885,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_1_11.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Spin Slash is available on resist<br/>Deals 96~112 damage over 1.3 sec<br/>Increases the user's movement speed by 30% for 8 sec",
+        "sub_info": "Spin Slash is available on resist<br/>Deals 96~112 damage over 1.3 sec<br/>Increases the movement speed of the user by 30% for 8 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2917,7 +2917,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_1_11.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Heals the user 200% of the damage dealt<br/>Spin Slash is available on resist<br/>Deals 96~112 damage over 1.3 sec<br/>Increases the user's movement speed by 30% for 8 sec",
+        "sub_info": "Heals the user 200% of the damage dealt<br/>Spin Slash is available on resist<br/>Deals 96~112 damage over 1.3 sec<br/>Increases the movement speed of the user by 30% for 8 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3077,7 +3077,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3109,7 +3109,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3141,7 +3141,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Downs the target for 3 sec<br/>Downs nearby foes for 3 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Downs the target for 3 sec<br/>Downs nearby foes for 3 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3173,7 +3173,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Downs the target for 3 sec<br/>Downs nearby foes for 3 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Downs the target for 3 sec<br/>Downs nearby foes for 3 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3205,7 +3205,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Knocks-up nearby downed foes into the air",
         "main_info2": null,
-        "sub_info": "Deals 46~53 damage<br/>Disables charge abilities of foes hit for 6 sec<br/>Downs the target for 3 sec<br/>Downs nearby foes for 3 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Deals 46~53 damage<br/>Disables charge abilities of foes hit for 6 sec<br/>Downs the target for 3 sec<br/>Downs nearby foes for 3 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3237,7 +3237,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3269,7 +3269,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 82~95 damage",
         "main_info2": null,
-        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3301,7 +3301,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 82~95 damage",
         "main_info2": null,
-        "sub_info": "Deals 83~97 damage to nearby foes over 10 sec<br/>Causes foes hit to bleed (1 stack)<br/>Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the user's evade chance by 100% during use",
+        "sub_info": "Deals 83~97 damage to nearby foes over 10 sec<br/>Causes foes hit to bleed (1 stack)<br/>Downs the target for 2 sec<br/>Downs nearby foes for 2 sec<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_39.png",
         "main_info1": "Escape from downed status",
         "main_info2": "Deals 7~8 damage",
-        "sub_info": "User is downed for 1 sec if they are hit during use",
+        "sub_info": "User is downed for 1 sec if they are attacked during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3397,7 +3397,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_47.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used with [S][S]",
+        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -3429,7 +3429,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_47.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used with [S][S]",
+        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -3845,7 +3845,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": null,
-        "sub_info": "Cures the user's Internal Bleeding<br/>Deals 43~50 damage<br/>Heals the user 10% of their maximum health",
+        "sub_info": "Cures the user of Internal Bleeding<br/>Deals 43~50 damage<br/>Heals the user 10% of their maximum health",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3877,7 +3877,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": null,
-        "sub_info": "Cures the user's Internal Bleeding<br/>Ignores defense<br/>Deals 43~50 damage<br/>Heals the user 10% of their maximum health",
+        "sub_info": "Cures the user of Internal Bleeding<br/>Ignores defense<br/>Deals 43~50 damage<br/>Heals the user 10% of their maximum health",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3909,7 +3909,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": null,
-        "sub_info": "Cures the user's Internal Bleeding<br/>Deals 24~28 damage<br/>Heals the user 10% of their maximum health",
+        "sub_info": "Cures the user of Internal Bleeding<br/>Deals 24~28 damage<br/>Heals the user 10% of their maximum health",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3941,7 +3941,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": null,
-        "sub_info": "Cures the user's Internal Bleeding<br/>Ignores defense<br/>Deals 24~28 damage<br/>Heals the user 10% of their maximum health",
+        "sub_info": "Cures the user of Internal Bleeding<br/>Ignores defense<br/>Deals 24~28 damage<br/>Heals the user 10% of their maximum health",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4037,7 +4037,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_62.png",
         "main_info1": "Descend to the ground",
         "main_info2": "Stuns foes hit for 2 sec",
-        "sub_info": "Deals 2~3 damage<br/>Generates 1 chi per enemy hit",
+        "sub_info": "Deals 2~3 damage<br/>Generates 1 chi per foe hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4261,7 +4261,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Deals 20~23 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's critical hit chance by 10% for 3 sec<br/>Flash Draw is available on critical hit",
+        "sub_info": "Increases the critical hit chance of the user by 10% for 3 sec<br/>Flash Draw is available on critical hit",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4293,7 +4293,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Deals 20~23 damage",
         "main_info2": null,
-        "sub_info": "Deflects incoming attacks during use<br/>Cooldown of Flash of Light is refreshed on deflecting an attack<br/>Increases the user's critical hit chance by 10% for 3 sec<br/>Flash Draw is available on critical hit",
+        "sub_info": "Deflects incoming attacks during use<br/>Cooldown of Flash of Light is refreshed on deflecting an attack<br/>Increases the critical hit chance of the user by 10% for 3 sec<br/>Flash Draw is available on critical hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4613,7 +4613,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's critical hit damage by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Increases the critical hit damage of the user by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4645,7 +4645,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's critical hit damage by 5%<br/>Deals an additional 114~133 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Increases the critical hit damage of the user by 5%<br/>Deals an additional 114~133 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4677,7 +4677,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's critical by 10% for 3 sec<br/>Increases the user's critical hit damage by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Increases the critical of the user by 10% for 3 sec<br/>Increases the critical hit damage of the user by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4708,8 +4708,8 @@ var skill_data_BM = {
         "name": "Lightning Slash - 번개베기",
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals 192~224 damage over 8 sec",
-        "sub_info": "Creates a damaging area that lasts for 8 sec<br/>Increases the user's critical by 10% for 3 sec<br/>Increases the user's critical hit damage by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "main_info2": "Deals 192~224 damage to foes within the area over 8 sec",
+        "sub_info": "Creates a damaging area that lasts for 8 sec<br/>Increases the critical of the user by 10% for 3 sec<br/>Increases the critical hit damage of the user by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5317,7 +5317,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_49.png",
         "main_info1": "Deals 108~126 damage",
         "main_info2": null,
-        "sub_info": "Increases the user's evade chance by 100% during use",
+        "sub_info": "Increases the evade chance of the user by 100% during use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6373,7 +6373,7 @@ var skill_data_BM = {
         "icon": "skill_icon_swordmaster_2_23.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": "Available when Spiritualized",
-        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Skill speed accelerates on recast<br/>Generates 2 additional chi on critical hit<br/>Increases the user's critical hit chance by 10% for 3 sec<br/>Does not generate threat",
+        "sub_info": "Causes foes hit to bleed (1 stack)<br/>Skill speed accelerates on recast<br/>Generates 2 additional chi on critical hit<br/>Increases the critical hit chance of the user by 10% for 3 sec<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
