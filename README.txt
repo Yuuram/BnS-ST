@@ -3,6 +3,14 @@ Documentation
 Author: Di'el aka dakaringer
 Project: BnS Skill Tree
 
+Di'el's Skill Tree Simulator for Blade & Soul
+This is a skill tree simulator for all classes of Blade & Soul.
+This was done possible by reading the source (using the view source button of a browser) of the official
+Blade & Soul korean website. Most functions should work without an internet connection. Only some images 
+are downloaded from other sites.
+
+
+
 Disclaimer:
 
 The following files (used for the skill tree itself) is made by ncsoft. 
@@ -84,19 +92,9 @@ skillXX.html
  - the page itself
  
  
+ 
 img folder
-bg_tree.psd - used to make each class background images for the sidebar
-home.psd - used to make the main background image
-disable.png - covers disabled skills in the skill list
-favicon.ico - favicon
-home.jpg - main bg image (progressive)
-ico_down.gif - little down arrow for level/divine level dropdowns
-progress.gif - used in the loading bar
-skill.png - image map for the tooltip
-skill_ui_add.png - add tag for the tooltip
-skill_ui_mod.png - mod tag for the tooltip
-tr_v2.png - image map for the various components of the skill tree
-
+- contains various image resources
 
 
 
