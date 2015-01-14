@@ -3397,7 +3397,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_47.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Breaks the user out of freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -3429,7 +3429,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_47.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Breaks the user out of freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {

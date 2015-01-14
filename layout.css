@@ -283,6 +283,7 @@ ul {
 #home{
     display:block;
     height:20px;
+	width:305px;
     text-align:left;
     margin-left:26px;
 	padding-top:15px;

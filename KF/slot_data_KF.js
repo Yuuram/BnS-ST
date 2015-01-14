@@ -3456,7 +3456,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_41.png",
 				"required_tp": 1
@@ -3714,7 +3714,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_41.png",
 				"required_tp": 1
@@ -3972,7 +3972,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_41.png",
 				"required_tp": 3
@@ -6504,7 +6504,7 @@ var slot_data_KF = {
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
 				"complete_quest_desc_refine": null,
-				"complete_achievement_name_refine": "승룡각 홍문비전",
+				"complete_achievement_name_refine": "Rising Dragon Hongmun secret",
 				"tooltip_stance_type": 
 				{
 					"0": "체술",
@@ -6588,7 +6588,7 @@ var slot_data_KF = {
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
 				"complete_quest_desc_refine": null,
-				"complete_achievement_name_refine": "승룡각 홍문비전",
+				"complete_achievement_name_refine": "Rising Dragon Hongmun secret",
 				"tooltip_stance_type": 
 				{
 					"0": "체술",
@@ -6683,7 +6683,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
 				"required_tp": 1
@@ -6767,7 +6767,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
 				"required_tp": 1
@@ -6935,7 +6935,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
 				"required_tp": 1
@@ -7019,7 +7019,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
 				"required_tp": 1
@@ -7187,7 +7187,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
 				"required_tp": 2
@@ -7271,7 +7271,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
 				"required_tp": 3
@@ -8792,7 +8792,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_20.png",
 				"required_tp": 1
@@ -8876,7 +8876,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_20.png",
 				"required_tp": 1
@@ -9044,7 +9044,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_20.png",
 				"required_tp": 1
@@ -9212,7 +9212,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_20.png",
 				"required_tp": 2
@@ -9296,7 +9296,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_33.png\' class=\'icon_in_description\' /> Target has Pressure Point  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_33.png\' class=\'icon_in_description\' /> Target with Pressure Point  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_20.png",
 				"required_tp": 3
@@ -9383,7 +9383,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 무급, 1초식, 3초식으로 넉백 당한 적  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_46.png",
 				"required_tp": 1
@@ -9467,7 +9467,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 무급, 1초식, 3초식으로 넉백 당한 적  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_46.png",
 				"required_tp": 1
@@ -9551,7 +9551,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 무급, 1초식, 3초식으로 넉백 당한 적  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_46.png",
 				"required_tp": 1
@@ -9635,7 +9635,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 무급, 1초식, 3초식으로 넉백 당한 적  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_42.png\' class=\'icon_in_description\' /> After using Kaiten Kick  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_42.png\' class=\'icon_in_description\' /> After using Kaiten Kick  ",
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_42.png",
 				"required_tp": 1
@@ -9719,7 +9719,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 무급, 1초식, 3초식으로 넉백 당한 적  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_46.png",
 				"required_tp": 1
@@ -9803,7 +9803,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 무급, 1초식, 3초식으로 넉백 당한 적  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_46.png",
 				"required_tp": 1
@@ -9887,7 +9887,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 무급, 1초식, 3초식으로 넉백 당한 적  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> After using Kaiten Kick, Advancing Fist  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> After using Kaiten Kick, Advancing Fist  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_43.png",
 				"required_tp": 1
@@ -11747,7 +11747,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 1
@@ -11831,7 +11831,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 1
@@ -11915,7 +11915,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 1
@@ -11999,7 +11999,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 1
@@ -12083,7 +12083,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 1
@@ -12167,7 +12167,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 1
@@ -12251,7 +12251,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 1
@@ -12335,7 +12335,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 2
@@ -12419,7 +12419,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 3
@@ -12503,7 +12503,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
 				"required_tp": 2
@@ -13013,7 +13013,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_16.png",
 				"required_tp": 1
@@ -13097,7 +13097,7 @@ var slot_data_KF = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_16.png",
 				"required_tp": 1

@@ -261,7 +261,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Generates 1 chi per foe hit<br/>Generates 1 chi on block during use<br/>Increases block by 20% during use",
+        "sub_info": "Heals the user 5% of the damage dealt<br/>Generates 1 chi per foe hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -293,7 +293,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Heals the user 2% of their maximum health over 5 sec on critical hit<br/>Generates 1 chi per foe hit<br/>Generates 1 chi on block during use<br/>Increases block by 20% during use",
+        "sub_info": "Heals the user 5% of the damage dealt<br/>Heals the user 2% of their maximum health over 5 sec on critical hit<br/>Generates 1 chi per foe hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -325,7 +325,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "User is immune to stun, daze, knock back<br/>Removes freeze<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -357,7 +357,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -389,7 +389,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 50~59 damage",
         "main_info2": "Deals an additional 7~8 damage to dazed, stunned foes",
-        "sub_info": "User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -421,7 +421,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 50~59 damage",
         "main_info2": "Deals an additional 7~8 damage to dazed, stunned foes",
-        "sub_info": "Generates 1 chi per attack received by the user<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Generates 1 chi per attack received by the user<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -453,7 +453,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 50~59 damage",
         "main_info2": "Deals an additional 7~8 damage to dazed, stunned foes",
-        "sub_info": "Generates 1 chi per attack received by the user<br/>Reflects 6~7 damage received by the user<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Generates 1 chi per attack received by the user<br/>Reflects 6~7 damage received by the user<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -485,7 +485,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Increases the movement speed of the user by 60%<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Increases the movement speed of the user by 60%<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -517,7 +517,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Increases the defense of the user by 400%<br/>Increases the movement speed of the user by 60%<br/>Reduces the first incoming damage by 25%<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Increases the defense of the user by 400%<br/>Increases the movement speed of the user by 60%<br/>Reduces the first incoming damage by 25%<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -549,7 +549,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Cyclone is available during use<br/>Cyclone gives the user invulnerability for 1.5 sec<br/>Increases the defense of the user by 400%<br/>Increases the movement speed of the user by 60%<br/>Reduces the first incoming damage by 25%<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Cyclone is available during use<br/>Cyclone gives the user invulnerability for 1.5 sec<br/>Increases the defense of the user by 400%<br/>Increases the movement speed of the user by 60%<br/>Reduces the first incoming damage by 25%<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -581,7 +581,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Deflects 1 attack for 0.5 sec",
-        "sub_info": "Generates 3 chi on deflect<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Generates 3 chi on deflect<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -613,7 +613,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Deflects multiple attacks for 0.5 sec",
-        "sub_info": "Generates 3 chi on deflect<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Generates 3 chi on deflect<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -645,7 +645,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_3.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Deflects multiple attacks for 0.5 sec",
-        "sub_info": "Cooldown of Upward Slash is refreshed on deflect<br/>Generates 3 chi on deflect<br/>User is immune to stun, daze, knock back<br/>Removes freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
+        "sub_info": "Cooldown of Upward Slash is refreshed on deflect<br/>Generates 3 chi on deflect<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Increased number of spins<br/>Mobile<br/>Offensive defense skill",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1605,7 +1605,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_23.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Generates 4 chi over 2 sec on hitting the enemy's back<br/>Increases the movement speed of the user by 80% for 6 sec",
+        "sub_info": "Generates 4 chi over 2 sec on hitting the target's back<br/>Increases the movement speed of the user by 80% for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "4",
         "skill_info": {
@@ -1637,7 +1637,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_23.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Generates 4 chi over 2 sec on hitting the enemy's back<br/>Generates 2 additional chi on critically hitting the enemy's back<br/>Increases the movement speed of the user by 80% for 6 sec",
+        "sub_info": "Generates 4 chi over 2 sec on hitting the target's back<br/>Generates 2 additional chi on critically hitting the target's back<br/>Increases the movement speed of the user by 80% for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "4",
         "skill_info": {
@@ -1669,7 +1669,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_23.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Disables defense<br/>Generates 4 chi over 2 sec on hitting the enemy's back<br/>Generates 2 additional chi on critically hitting the enemy's back<br/>Increases the movement speed of the user by 80% for 6 sec",
+        "sub_info": "Disables defense<br/>Generates 4 chi over 2 sec on hitting the target's back<br/>Generates 2 additional chi on critically hitting the target's back<br/>Increases the movement speed of the user by 80% for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "4",
         "skill_info": {
@@ -1989,7 +1989,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_13.png",
         "main_info1": "Move behind the enemy around their right",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Maximum speed Sunder is available after use<br/>Removes freeze",
+        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2021,7 +2021,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_13.png",
         "main_info1": "Move behind the enemy around their right",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Maximum speed Sunder is available after use<br/>Removes freeze<br/>Counteroffensive is available with [Q]",
+        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze<br/>Counteroffensive is available with [Q]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2053,7 +2053,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_13.png",
         "main_info1": "Move behind the enemy around their left",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Maximum speed Sunder is available after use<br/>Removes freeze",
+        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2085,7 +2085,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_21.png",
         "main_info1": "Move behind the enemy around their left",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Maximum speed Sunder is available after use<br/>Removes freeze<br/>Counteroffensive is available with [Q]<br/>Counterattack and Counteroffensive have separate cooldowns",
+        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze<br/>Counteroffensive is available with [Q]<br/>Counterattack and Counteroffensive have separate cooldowns",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2149,7 +2149,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_47.png",
         "main_info1": "Move back 8m",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Removes freeze<br/>Used by double tapping [S]",
+        "sub_info": "Breaks the user out of freeze<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -4227,8 +4227,8 @@ var skill_data_SM = {
         "id": "27203",
         "name": "Throw - 던지기",
         "icon": "skill_icon_forcemaster_0_2.png",
-        "main_info1": "15m knock back",
-        "main_info2": "30 sec unconscious",
+        "main_info1": "Knocks back the force gripped foe 15m",
+        "main_info2": "Knocks force gripped foe unconscious for 30 sec",
         "sub_info": "Deals 11~13 damage",
         "consume_sp": null,
         "ui_sp_heal_value": null,

@@ -3301,7 +3301,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Breaks the user out of freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Breaks the user out of freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3365,7 +3365,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Breaks the user out of freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3397,7 +3397,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Immobilizes foes hit for 4 sec<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Immobilizes foes hit for 4 sec<br/>Breaks the user out of freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3429,7 +3429,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes freeze<br/>User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Breaks the user out of freeze<br/>User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3461,7 +3461,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Brands foes hit for 4 sec<br/>Immobilizes foes hit for 4 sec<br/>Removes freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit is refreshed on resist<br/>Brands foes hit for 4 sec<br/>Immobilizes foes hit for 4 sec<br/>Breaks the user out of freeze<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
