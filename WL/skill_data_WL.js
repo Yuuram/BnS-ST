@@ -2085,7 +2085,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 216~252 damage",
         "main_info2": "Marks foes hit for 4 sec",
-        "sub_info": "Increases critical by 25% for 5 sec on hit<br/>Cannot be deflected",
+        "sub_info": "Increases the critical of the user by 25% for 5 sec on hit<br/>Cannot be deflected",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2149,7 +2149,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 216~252 damage",
         "main_info2": "Marks foes hit for 4 sec",
-        "sub_info": "Raging Spirit can be instantly recast 1 more time on critical hit<br/>Increases critical by 25% for 5 sec on hit<br/>Cannot be deflected",
+        "sub_info": "Raging Spirit can be instantly recast 1 more time on critical hit<br/>Increases the critical of the user by 25% for 5 sec on hit<br/>Cannot be deflected",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3748,7 +3748,7 @@ var skill_data_WL = {
         "name": "Break Free - 벗어나기",
         "icon": "skill_icon_warlock_0_15.png",
         "main_info1": "Escape from Suppress, seized, Force Grip when used at the enemy's attack timing",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Deals 12~14 damage<br/>Move back 10m",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
