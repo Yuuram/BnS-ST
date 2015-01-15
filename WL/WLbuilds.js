@@ -4,7 +4,7 @@ var _training;
 
 function blank(){
 	(function($) {
-		$("#buildlist").animate({height:"603px"});
+		$("#buildlist").animate({height:"100%"});
 		$(document).ready(function() {
 
 		});
