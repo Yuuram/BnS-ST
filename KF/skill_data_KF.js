@@ -581,7 +581,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Counter while attacking<br/>Offensive defense skill<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 sec on hit<br/>Twin Impact increases the defense of the user by 100% for 8 sec",
+        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 sec on hit<br/>Twin Impact increases the defense of the user by 100% for 8 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -613,7 +613,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Counter while attacking<br/>Offensive defense skill<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact penetrates deflect<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 sec on hit<br/>Twin Impact increases the defense of the user by 100% for 8 sec",
+        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact penetrates deflect<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 sec on hit<br/>Twin Impact increases the defense of the user by 100% for 8 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -645,7 +645,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Counter while attacking<br/>Offensive defense skill<br/>Burning Twin Impact is used on counter<br/>Burning Twin Impact deals deals 24~70 damage<br/>Burning Twin Impact penetrates deflect<br/>Burning Twin Impact generates 3 chi<br/>Burning Twin Impact increases the critical of the user by 15% for 3 sec on hit<br/>Burning Twin Impact increases the defense of the user by 100% for 8 sec<br/>Burning Twin Impact increases the critical hit damage of the user by 10% for 3 sec on hit",
+        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Burning Twin Impact is used on counter<br/>Burning Twin Impact deals deals 24~70 damage<br/>Burning Twin Impact penetrates deflect<br/>Burning Twin Impact generates 3 chi<br/>Burning Twin Impact increases the critical of the user by 15% for 3 sec on hit<br/>Burning Twin Impact increases the defense of the user by 100% for 8 sec<br/>Burning Twin Impact increases the critical hit damage of the user by 10% for 3 sec on hit",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -837,7 +837,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_1.png",
         "main_info1": "1 sec frontal counter",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Generates additional threat on counter<br/>User is invulnerable for 1 sec on counter<br/>Immune to stun, daze for 2 sec on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
+        "sub_info": "Generates additional threat on counter<br/>User is invulnerable for 1 sec on counter<br/>User is immune to stun, daze for 2 sec on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -965,7 +965,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_6.png",
         "main_info1": "Suppress the target for 3 sec",
         "main_info2": null,
-        "sub_info": "Suppressed foe takes 10% chi damage whenever they are attacked",
+        "sub_info": "Suppressed foe takes Deals 10% chi damage whenever they are attacked",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -997,7 +997,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_6.png",
         "main_info1": "Suppress the target for 3 sec",
         "main_info2": null,
-        "sub_info": "Suppressed foe takes 10% chi damage whenever they are attacked<br/>Decreased the move movement speed of the suppressed foe by 40% for 12s",
+        "sub_info": "Suppressed foe takes Deals 10% chi damage whenever they are attacked<br/>Decreased the move movement speed of the suppressed foe by 40% for 12s",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1029,7 +1029,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_6.png",
         "main_info1": "Suppress the target for 4 sec",
         "main_info2": null,
-        "sub_info": "Suppressed foe takes 10% chi damage whenever they are attacked<br/>Decreased the move movement speed of the suppressed foe by 40% for 12s",
+        "sub_info": "Suppressed foe takes Deals 10% chi damage whenever they are attacked<br/>Decreased the move movement speed of the suppressed foe by 40% for 12s",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1061,7 +1061,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_6.png",
         "main_info1": "Suppress the target for 3 sec",
         "main_info2": null,
-        "sub_info": "Heals whoever attacks the suppressed foe 3% of their maximum health<br/>Whoever attacks the forced gripped foe generates 10% of their maximum chi<br/>Suppressed foe takes 10% chi damage whenever they are attacked",
+        "sub_info": "Heals whoever attacks the suppressed foe 3% of their maximum health<br/>Whoever attacks the forced gripped foe generates 10% of their maximum chi<br/>Suppressed foe takes Deals 10% chi damage whenever they are attacked",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1093,7 +1093,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_6.png",
         "main_info1": "Suppress the target for 3 sec",
         "main_info2": null,
-        "sub_info": "Heals the user 3% of their maximum health whenever the suppressed enemy is attacked<br/>Heals whoever attacks the suppressed foe 3% of their maximum health<br/>Whoever attacks the forced gripped foe generates 10% of their maximum chi<br/>Suppressed foe takes 10% chi damage whenever they are attacked",
+        "sub_info": "Heals the user 3% of their maximum health whenever the suppressed enemy is attacked<br/>Heals whoever attacks the suppressed foe 3% of their maximum health<br/>Whoever attacks the forced gripped foe generates 10% of their maximum chi<br/>Suppressed foe takes Deals 10% chi damage whenever they are attacked",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2405,7 +2405,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Creates a healing area that lasts for 10 sec",
         "main_info2": null,
-        "sub_info": "Heals allies within the area 20% of their health",
+        "sub_info": "Heals the user and allies within area 20% of their maximum health over 10 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2437,7 +2437,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Creates a healing area that lasts for 10 sec",
         "main_info2": null,
-        "sub_info": "Heals allies within the area 20% of their health<br/>Removes down, daze, stun, unconscious status from allies within the area",
+        "sub_info": "Heals the user and allies within area 20% of their maximum health over 10 sec<br/>Removes down, daze, stun, unconscious status from nearby allies",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5155,7 +5155,7 @@ var skill_data_KF = {
         "id": "21133",
         "name": "Backward Roll - 뒤구르기",
         "icon": "skill_icon_kungfufighter_1_10.png",
-        "main_info1": "Escape from downed, dazed, stunned status",
+        "main_info1": "Escape from downed, dazed, unconscious status",
         "main_info2": null,
         "sub_info": "User is invulnerable during use",
         "consume_sp": null,
@@ -5188,7 +5188,7 @@ var skill_data_KF = {
         "name": "Crescent Kick - 반달차기",
         "icon": "skill_icon_kungfufighter_0_57.png",
         "main_info1": "1.5 sec counter",
-        "main_info2": "Dazes foes hit for 2 sec on counter<br/>Deals 18~21 damage on counter",
+        "main_info2": "Dazes the countered foe for 2 sec on counter<br/>Deals 18~21 damage on counter",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5349,7 +5349,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_24.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "Pressure Point is available on hit<br/>Damage is multiplied by 1/2/3/4 per Pressure Point stage on the target<br/>Generates 2/3/4/6 additional chi per Pressure Point stage on the target<br/>50% chi damage to frozen foes. Breaks them out of freeze<br/>Cooldown of Palm Strike is decreased by 50% on use after evade<br/>Instantly used while Unleashed Flow<br/>Instantly used on evade",
+        "sub_info": "Pressure Point is available on hit<br/>Damage is multiplied by 1/2/3/4 per Pressure Point stage on the target<br/>Generates 2/3/4/6 additional chi per Pressure Point stage on the target<br/>Deals 50% chi damage to frozen foes. Breaks them out of freeze<br/>Cooldown of Palm Strike is decreased by 50% on use after evade<br/>Instantly used while Unleashed Flow<br/>Instantly used on evade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6309,7 +6309,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Dazes foes hit for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>50% chi damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {

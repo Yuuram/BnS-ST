@@ -3651,7 +3651,7 @@ var skill_data_WL = {
         "id": "28320",
         "name": "Backward Roll - 뒤구르기",
         "icon": "skill_icon_warlock_0_17.png",
-        "main_info1": "Escape from downed, dazed, stunned status",
+        "main_info1": "Escape from downed, dazed, unconscious status",
         "main_info2": "Move back 10m",
         "sub_info": "User is invulnerable during use",
         "consume_sp": null,
@@ -4101,7 +4101,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes<br/>20% chi damage on hit to Marked foes",
+        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes<br/>Deals 20% chi damage on hit to Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
