@@ -1925,7 +1925,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Knocs back nearby enemies 24m and knocks them unconscious for 30 sec",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables movement skills of foes hit for 8 sec<br/>Decreases the movement speed of foes hit by 30% for 8 sec<br/>Disables defense<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables movement skills of foes hit for 8 sec<br/>Decreases the movement speed of foes hit by 30% for 8 sec<br/>Breaks defense<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4581,7 +4581,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_16.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Disables defense",
+        "sub_info": "Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4613,7 +4613,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_16.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Generates 6 chi over 3 sec<br/>Disables defense",
+        "sub_info": "Generates 6 chi over 3 sec<br/>Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4645,7 +4645,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_16.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 25% for 6 sec<br/>Generates 6 chi over 3 sec<br/>Disables defense",
+        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 25% for 6 sec<br/>Generates 6 chi over 3 sec<br/>Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4741,7 +4741,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_46.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 72~140 damage",
-        "sub_info": "Generates 6 chi over 3 sec<br/>Disables defense",
+        "sub_info": "Generates 6 chi over 3 sec<br/>Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

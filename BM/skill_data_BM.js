@@ -2949,7 +2949,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Disables defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense disabled foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "sub_info": "Breaks defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2981,7 +2981,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Disables defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense disabled foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "sub_info": "Breaks defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3013,7 +3013,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 12~14 damage<br/>Disables defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense disabled foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "sub_info": "Deals 12~14 damage<br/>Breaks defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3045,7 +3045,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Max speed Stab is available on hit<br/>Max speed World Sunder is available on hit<br/>Disables defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense disabled foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "sub_info": "Max speed Stab is available on hit<br/>Max speed World Sunder is available on hit<br/>Breaks defense<br/>Causes foes hit to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5605,7 +5605,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_63.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "Disables defense<br/>Stuns defense disabled foes for 2 sec<br/>Disables defense abilities of defense disabled foes for 8 sec<br/>Generates 1 chi on critical hit<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
+        "sub_info": "Breaks defense<br/>Stuns defense broken foes for 2 sec<br/>Disables defense abilities of defense broken foes for 8 sec<br/>Generates 1 chi on critical hit<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {

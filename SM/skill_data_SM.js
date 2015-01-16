@@ -5061,7 +5061,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_7.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Disables defense<br/>Generates 5 chi on disabling defense<br/>Cannot be used on downed foes<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Breaks defense<br/>Generates 5 chi on breaking defense<br/>Cannot be used on downed foes<br/>Cures the user of Internal Bleeding",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5093,7 +5093,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_7.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Disables defense<br/>Generates 5 chi on disabling defense<br/>Disables defense abilities of defense disabled foes for 6 sec<br/>Cannot be used on downed foes<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Disables defense<br/>Generates 5 chi on disabling defense<br/>Disables defense abilities of defense broken foes for 6 sec<br/>Cannot be used on downed foes<br/>Cures the user of Internal Bleeding",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {

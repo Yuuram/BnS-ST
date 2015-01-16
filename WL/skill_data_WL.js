@@ -165,7 +165,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Heals the user 10% of their maximum health on hit<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes hit for 1 sec<br/>Disables defense<br/>Disables defense abilities of defense disabled foes for 6 sec",
+        "sub_info": "Heals the user 10% of their maximum health on hit<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes hit for 1 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -261,7 +261,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Heals the user 10% of their maximum health on hit<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes hit for 1 sec<br/>Disables defense<br/>Dazes foes hit for 3 sec on disabling defense<br/>Disables defense abilities of defense disabled foes for 6 sec",
+        "sub_info": "Heals the user 10% of their maximum health on hit<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes hit for 1 sec<br/>Breaks defense<br/>Dazes defense broken foes for 3 sec<br/>Disables defense abilities of defense broken foes for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -2469,7 +2469,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Brands foes hit for 4 sec",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Disables defense<br/>Disables defense abilities of defense disabled foes for 6 sec",
+        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2597,7 +2597,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Brands foes hit for 4 sec",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Disables defense<br/>Disables defense abilities of defense disabled foes for 6 sec<br/>Dazes defense disabled foes for 2 sec",
+        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec<br/>Dazes defense broken foes for 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
