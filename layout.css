@@ -103,6 +103,7 @@
 }
 
 .section {
+	margin-top:10px;
     color:#fff;
     font-weight:700;
     font-size:15px;
@@ -207,7 +208,7 @@ ul.tabs a.current,ul.tabs a.current:hover,ul.tabs li.current a {
 
 /* tab pane styling */
 .panes div {
-    padding:5px 15px;
+    padding:15px 15px;
     margin-right:15px;
     color:#fff;
     font-size:12px;

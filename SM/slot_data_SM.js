@@ -7936,7 +7936,7 @@ var slot_data_SM = {
 			"1": 
 			{
 				"tree_id": "27400",
-				"skill_id": "27400",
+				"skill_id": "27405",
 				"alias": "SM_27400_12",
 				"max_variation_level": "1",
 				"variation_id": "2",
@@ -7967,7 +7967,7 @@ var slot_data_SM = {
 				"train_skill_id": 
 				{
 					"0": "27400",
-					"1": null,
+					"1": "27405",
 					"2": null,
 					"3": null
 				},
@@ -7996,7 +7996,8 @@ var slot_data_SM = {
 				},
 				"parent_train": 
 				{
-					"0": "27400"
+					"0": "27400",
+					"1": "27405"
 				},
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
@@ -8020,7 +8021,7 @@ var slot_data_SM = {
 			"1": 
 			{
 				"tree_id": "27400",
-				"skill_id": "27400",
+				"skill_id": "27405",
 				"alias": "SM_27400_21",
 				"max_variation_level": "1",
 				"variation_id": "5",
@@ -8051,7 +8052,7 @@ var slot_data_SM = {
 				"train_skill_id": 
 				{
 					"0": "27400",
-					"1": null,
+					"1": "27405",
 					"2": null,
 					"3": null
 				},
@@ -8080,7 +8081,8 @@ var slot_data_SM = {
 				},
 				"parent_train": 
 				{
-					"0": "27400"
+					"0": "27400",
+					"1": "27405"
 				},
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
@@ -8104,7 +8106,7 @@ var slot_data_SM = {
 			"1": 
 			{
 				"tree_id": "27400",
-				"skill_id": "27400",
+				"skill_id": "27405",
 				"alias": "SM_27400_13",
 				"max_variation_level": "1",
 				"variation_id": "3",
@@ -8135,7 +8137,7 @@ var slot_data_SM = {
 				"train_skill_id": 
 				{
 					"0": "27400",
-					"1": null,
+					"1": "27405",
 					"2": null,
 					"3": null
 				},
@@ -8164,7 +8166,8 @@ var slot_data_SM = {
 				},
 				"parent_train": 
 				{
-					"0": "27400"
+					"0": "27400",
+					"1": "27405"
 				},
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
@@ -8188,7 +8191,7 @@ var slot_data_SM = {
 			"1": 
 			{
 				"tree_id": "27400",
-				"skill_id": "27400",
+				"skill_id": "27405",
 				"alias": "SM_27400_22",
 				"max_variation_level": "1",
 				"variation_id": "6",
@@ -8219,7 +8222,7 @@ var slot_data_SM = {
 				"train_skill_id": 
 				{
 					"0": "27400",
-					"1": null,
+					"1": "27405",
 					"2": null,
 					"3": null
 				},
@@ -8248,7 +8251,8 @@ var slot_data_SM = {
 				},
 				"parent_train": 
 				{
-					"0": "27400"
+					"0": "27400",
+					"1": "27405"
 				},
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
@@ -8272,7 +8276,7 @@ var slot_data_SM = {
 			"1": 
 			{
 				"tree_id": "27400",
-				"skill_id": "27400",
+				"skill_id": "27405",
 				"alias": "SM_27400_14",
 				"max_variation_level": "1",
 				"variation_id": "4",
@@ -8303,7 +8307,7 @@ var slot_data_SM = {
 				"train_skill_id": 
 				{
 					"0": "27400",
-					"1": null,
+					"1": "27405",
 					"2": null,
 					"3": null
 				},
@@ -8332,7 +8336,8 @@ var slot_data_SM = {
 				},
 				"parent_train": 
 				{
-					"0": "27400"
+					"0": "27400",
+					"1": "27405"
 				},
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": "\"It is said this Hongmun secret is only found in legends.\"",
@@ -8356,7 +8361,7 @@ var slot_data_SM = {
 			"1": 
 			{
 				"tree_id": "27400",
-				"skill_id": "27400",
+				"skill_id": "27405",
 				"alias": "SM_27400_23",
 				"max_variation_level": "1",
 				"variation_id": "7",
@@ -8387,7 +8392,7 @@ var slot_data_SM = {
 				"train_skill_id": 
 				{
 					"0": "27400",
-					"1": null,
+					"1": "27405",
 					"2": null,
 					"3": null
 				},
@@ -8416,7 +8421,8 @@ var slot_data_SM = {
 				},
 				"parent_train": 
 				{
-					"0": "27400"
+					"0": "27400",
+					"1": "27405"
 				},
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": "\"It is said this Hongmun secret is only found in legends.\"",

@@ -5184,7 +5184,7 @@ var skill_data_SM = {
         }
     },
     "SwordMaster_Batto_Batto_LV12": {
-        "id": "27400",
+        "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
         "main_info1": "Deals 36~42 damage",
@@ -5216,7 +5216,7 @@ var skill_data_SM = {
         }
     },
     "SwordMaster_Batto_Batto_LV13": {
-        "id": "27400",
+        "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
         "main_info1": "Deals 36~42 damage",
@@ -5248,7 +5248,7 @@ var skill_data_SM = {
         }
     },
     "SwordMaster_Batto_Batto_LV14": {
-        "id": "27400",
+        "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
         "main_info1": "Deals 36~42 damage",
@@ -5280,7 +5280,7 @@ var skill_data_SM = {
         }
     },
     "SwordMaster_Batto_Batto_LV21": {
-        "id": "27400",
+        "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
         "main_info1": "Deals 12~14 damage",
@@ -5312,12 +5312,12 @@ var skill_data_SM = {
         }
     },
     "SwordMaster_Batto_Batto_LV22": {
-        "id": "27400",
+        "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Stuns foes hit for 2 sec",
-        "sub_info": "Decreases the movement speed of foes hit by 50% for 6 sec<br/>Disables charge abilities of foes hit for 6 sec<br/Draw without the stun, movement impairment is used instead while Draw is on cooldown<br/>Draw stance available",
+        "sub_info": "Decreases the movement speed of foes hit by 50% for 6 sec<br/>Disables charge abilities of foes hit for 6 sec<br/>Draw without the stun, movement impairment is used instead while Draw is on cooldown<br/>Draw stance available",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5344,12 +5344,12 @@ var skill_data_SM = {
         }
     },
     "SwordMaster_Batto_Batto_LV23": {
-        "id": "27400",
+        "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Stuns foes hit for 2 sec",
-        "sub_info": "Draw can be recast up to 2 times<br/Draw without the stun, movement impairment is used instead while Draw is on cooldown<br/>Decreases the movement speed of foes hit by 50% for 6 sec<br/>Disables charge abilities of foes hit for 6 sec<br/>Draw stance available",
+        "sub_info": "Draw can be recast up to 2 times<br/>Draw without the stun, movement impairment is used instead while Draw is on cooldown<br/>Decreases the movement speed of foes hit by 50% for 6 sec<br/>Disables charge abilities of foes hit for 6 sec<br/>Draw stance available",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {

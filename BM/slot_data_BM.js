@@ -4400,7 +4400,8 @@ var slot_data_BM = {
 				"max_variation_level": "1",
 				"variation_id": "31",
 				"tooltip_alias": "BladeMaster_Sword_turning_strike_LV31",
-				"name2_refine": "Earth Suner - 대지가르기",
+				"name2_refine": "Earth Sunder<br>대지가르기",
+				"name2_refine_en": "Earth Sunder",
 				"variation_level": 
 				{
 					"0": null,
@@ -4651,7 +4652,8 @@ var slot_data_BM = {
 				"max_variation_level": "1",
 				"variation_id": "32",
 				"tooltip_alias": "BladeMaster_Sword_turning_strike_LV32",
-				"name2_refine": "Earth Suner - 대지가르기",
+				"name2_refine": "Earth Sunder<br>대지가르기",
+				"name2_refine_en": "Earth Sunder",
 				"variation_level": 
 				{
 					"0": null,
@@ -4902,7 +4904,8 @@ var slot_data_BM = {
 				"max_variation_level": "1",
 				"variation_id": "33",
 				"tooltip_alias": "BladeMaster_Sword_turning_strike_LV33",
-				"name2_refine": "Earth Suner - 대지가르기",
+				"name2_refine": "Earth Sunder<br>대지가르기",
+				"name2_refine_en": "Earth Sunder",
 				"variation_level": 
 				{
 					"0": null,
