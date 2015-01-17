@@ -1584,7 +1584,7 @@ var slot_data_FM = {
 					"0": "22251"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
-				"complete_quest_name_refine": "Pyrodragon - 폭열신장 Part 2",
+				"complete_quest_name_refine": "Pyrodragon Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -1668,7 +1668,7 @@ var slot_data_FM = {
 					"0": "22251"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0398",
-				"complete_quest_name_refine": "Pyrodragon - 폭열신장 Part 1",
+				"complete_quest_name_refine": "Pyrodragon Part 1",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -1752,7 +1752,7 @@ var slot_data_FM = {
 					"0": "22251"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
-				"complete_quest_name_refine": "Pyrodragon - 폭열신장 Part 2",
+				"complete_quest_name_refine": "Pyrodragon Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
