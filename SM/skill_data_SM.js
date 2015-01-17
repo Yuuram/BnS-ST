@@ -1669,7 +1669,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_23.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Disables defense<br/>Generates 4 chi over 2 sec on hitting the target's back<br/>Generates 2 additional chi on critically hitting the target's back<br/>Increases the movement speed of the user by 80% for 6 sec",
+        "sub_info": "Breaks defense<br/>Generates 4 chi over 2 sec on hitting the target's back<br/>Generates 2 additional chi on critically hitting the target's back<br/>Increases the movement speed of the user by 80% for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "4",
         "skill_info": {
@@ -2949,7 +2949,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of the user's maximum health that lasts for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3171,7 +3171,7 @@ var skill_data_SM = {
         "id": "27136",
         "name": "Break Free - 벗어나기",
         "icon": "skill_icon_swordmaster_2_9.png",
-        "main_info1": "Escape from Suppress, seized, Force Grip when used at the enemy's attack timing",
+        "main_info1": "Escape from suppressed, seized, force gripped status when used at the enemy's attack timing",
         "main_info2": "Deals 31~36 damage",
         "sub_info": "User is invulnerable during use",
         "consume_sp": null,
@@ -4357,7 +4357,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Downs foes hit for 2 sec",
-        "sub_info": "Decreases the movement speed of foes hit by 30% for 6 sec<br/>Disables charge abilities of foes hit for 6 sec<br/>Causes foes hit to bleed (1 stack)<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec",
+        "sub_info": "Decreases the movement speed of foes hit by 30% for 6 sec<br/>Disables charge abilities of foes hit for 6 sec<br/>Causes foes hit to bleed (1 stack)<br/>Foes hit suffer from Internal Bleeding for 12 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -4389,7 +4389,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Stuns foes hit for 2 sec<br/>Pulls foes",
-        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of the target by 60% for 6 sec<br/>Causes foes hit to bleed (1 stack)<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec",
+        "sub_info": "Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of the target by 60% for 6 sec<br/>Causes foes hit to bleed (1 stack)<br/>Foes hit suffer from Internal Bleeding for 12 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -4453,7 +4453,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Deals 12~14 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 2 chi per hit<br/>Generates 1 additional chi on critical hit<br/>Soulblade Tempest can be recast up to 2 times<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per hit<br/>Generates 1 additional chi on critical hit<br/>Soulblade Tempest can be recast up to 2 times<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4485,7 +4485,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Deals 12~14 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 2 chi per hit<br/>Generates 1 additional chi on critical hit<br/>Soulblade Tempest can be recast up to 4 times<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per hit<br/>Generates 1 additional chi on critical hit<br/>Soulblade Tempest can be recast up to 4 times<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4549,7 +4549,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Deals 90~105 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Sends out 6 blades at once<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Sends out 6 blades at once<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "6",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4581,7 +4581,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Deals 90~105 damage over 5 hits",
         "main_info2": "Deals 60~70 explosive damage",
-        "sub_info": "Sends out 6 blades at once<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Sends out 6 blades at once<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "6",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5093,7 +5093,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_7.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Disables defense<br/>Generates 5 chi on disabling defense<br/>Disables defense abilities of defense broken foes for 6 sec<br/>Cannot be used on downed foes<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Breaks defense<br/>Generates 5 chi on disabling defense<br/>Disables defense abilities of defense broken foes for 6 sec<br/>Cannot be used on downed foes<br/>Cures the user of Internal Bleeding",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {

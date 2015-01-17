@@ -1093,7 +1093,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 144~168 damage over 3 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1157,7 +1157,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 144~168 damage over 3 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Heals an additional 25% of the damage dealt to Branded foes<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Heals an additional 25% of the damage dealt to Branded foes<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1221,7 +1221,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 192~224 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Cooldown of Mantra is refreshed on hit<br/>Heals the user 25% of the damage dealt<br/>Heals an additional 25% of the damage dealt to Branded foes<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Cooldown of Mantra is refreshed on hit<br/>Heals the user 25% of the damage dealt<br/>Heals an additional 25% of the damage dealt to Branded foes<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2437,7 +2437,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Brands foes hit for 4 sec",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Disables defense",
+        "sub_info": "Decreases the movement speed of foes hit by 40% for 4 sec<br/>Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {

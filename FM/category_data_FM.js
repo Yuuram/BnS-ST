@@ -197,7 +197,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_1.png\' class=\'icon_in_description\' /> 중력장 사용 후  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_1.png\' class=\'icon_in_description\' /> After using Gravity Field  "
 	},
 	"22300": 
 	{
@@ -311,7 +311,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22136": 
 	{
@@ -336,7 +336,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, unconscious  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"22237": 
 	{
@@ -366,7 +366,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22117": 
 	{
@@ -391,7 +391,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> Using qinggong  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"22243": 
 	{
@@ -450,7 +450,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22380": 
 	{
@@ -520,7 +520,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22265": 
 	{
@@ -555,7 +555,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 한기 계열 무공 치명타 시  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On criticall hit with a Frost spell  "
 	},
 	"22381": 
 	{
@@ -584,7 +584,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 화기 계열 무공 치명타 시  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit with a Flame spell  "
 	},
 	"22141": 
 	{
@@ -641,13 +641,13 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22110": 
 	{
 		"skill_id": "22110",
 		"tree_id": "22110",
-		"name2_refine": "Glacier Palm - 한빙장<br>한빙면장",
+		"name2_refine": "Glacier Palm<br>한빙장",
 		"name2_refine_en": "Glacier Palm",
 		"pc_level": "24",
 		"pc_mastery_level": "0",
@@ -678,7 +678,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22221": 
 	{
@@ -739,7 +739,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22371": 
 	{
@@ -875,7 +875,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22250": 
 	{
@@ -907,7 +907,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22260": 
 	{
@@ -939,7 +939,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_30.png\' class=\'icon_in_description\' /> Crystallize - 결빙공 중  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_30.png\' class=\'icon_in_description\' /> Using Crystallize  "
 	},
 	"22345": 
 	{
@@ -992,7 +992,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22125": 
 	{
@@ -1049,7 +1049,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_2.png\' class=\'icon_in_description\' /> 염옥 3 중첩  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_2.png\' class=\'icon_in_description\' /> 3 Flame Orbs  "
 	},
 	"22392": 
 	{
@@ -1074,7 +1074,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_3.png\' class=\'icon_in_description\' /> 빙옥 3 중첩  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_3.png\' class=\'icon_in_description\' /> 3 Frost Orbs  "
 	},
 	"22394": 
 	{
@@ -1104,14 +1104,14 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 염옥, 빙옥 3 중첩  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 3 Flame, Frost Orbs  "
 	},
 	"22742": 
 	{
 		"skill_id": "22742",
 		"tree_id": "1",
-		"name2_refine": "Awakened Flame Dragon Blast<br>각성 쌍룡파",
-		"name2_refine_en": "Awakened Flame Dragon Blast",
+		"name2_refine": "Awakened Twin Dragon Blast<br>각성 쌍룡파",
+		"name2_refine_en": "Awakened Twin Dragon Blast",
 		"pc_level": "45",
 		"pc_mastery_level": null,
 		"complete_quest": null,
@@ -1129,6 +1129,6 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 염옥, 빙옥 1 중첩  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 1 Flame, Frost Orbs  "
 	}
 };

@@ -1381,7 +1381,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_6.png",
         "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Sword Barrier is available during use<br/>Lying Block learned<br/>Sword Barrier protects the user and nearby allies during use<br/>Heals the user 2% of their maximum health per block up to 3 times<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block",
+        "sub_info": "Sword Barrier is available during use<br/>Lying Block learned<br/>User and allies within the Sword Barrier are invulnerable<br/>Heals the user 2% of their maximum health per block up to 3 times<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2245,7 +2245,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of the user's maximum health that lasts for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -4099,7 +4099,7 @@ var skill_data_BM = {
         "id": "20153",
         "name": "Break Free - 벗어나기",
         "icon": "skill_icon_blademaster_1_9.png",
-        "main_info1": "Escape from Suppress, seized, Force Grip when used at the enemy's attack timing",
+        "main_info1": "Escape from suppressed, seized, force gripped status when used at the enemy's attack timing",
         "main_info2": "Deals 31~36 damage",
         "sub_info": null,
         "consume_sp": null,
@@ -5477,7 +5477,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes hit by 50% for 8 sec on hit<br/>Disables charge abilities of foes hit for 6 sec<br/>Causes foes hit to suffer from Internal Bleeding for 12 sec<br/>Extends the duration of the target's status effect up to 2 sec",
+        "sub_info": "Decreases the movement speed of foes hit by 50% for 8 sec on hit<br/>Disables charge abilities of foes hit for 6 sec<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Extends the duration of the target's status effect up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -5893,7 +5893,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_58.png",
         "main_info1": "User and allies in the barrier are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Reduces incoming damage to user and nearby allies by 15%<br/>Heals the user/ally 1% of their maximum health on resist",
+        "sub_info": "Reduces incoming damage to user and nearby allies by 15%<br/>Heals the user or allies 1% of their maximum health on resist",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {

@@ -1157,7 +1157,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_64.png",
         "main_info1": "Deals 72~84 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1189,7 +1189,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_64.png",
         "main_info1": "Deals 72~84 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1317,7 +1317,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 90~105 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Applies 1 stack of Deadly Poison to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1349,7 +1349,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 90~105 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to dazed, stunned, seized, force gripped foes<br/>Shadow Slash can be recast 1 more time on critical hit",
+        "sub_info": "Applies 1 stack of Deadly Poison to dazed, stunned, seized, force gripped foes<br/>Shadow Slash can be recast 1 more time on critical hit",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1381,7 +1381,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 90~105 damage",
         "main_info2": null,
-        "sub_info": "Deals an additional 60~70 damage to seized, force gripped foes<br/>Applies Deadly Poison (1 stack) to dazed, stunned, seized, force gripped foes<br/>Shadow Slash can be recast 1 more time on critical hit",
+        "sub_info": "Deals an additional 60~70 damage to seized, force gripped foes<br/>Applies 1 stack of Deadly Poison to dazed, stunned, seized, force gripped foes<br/>Shadow Slash can be recast 1 more time on critical hit",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1413,7 +1413,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 90~105 damage",
         "main_info2": null,
-        "sub_info": "Deals an additional 60~70 damage to seized, force gripped foes<br/>Applies Deadly Poison (1 stack) to dazed, stunned, seized, force gripped foes<br/>Shadow Slash can be recast 1 more time on critical hit<br/>Guaranteed critical hit to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Deals an additional 60~70 damage to seized, force gripped foes<br/>Applies 1 stack of Deadly Poison to dazed, stunned, seized, force gripped foes<br/>Shadow Slash can be recast 1 more time on critical hit<br/>Guaranteed critical hit to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1573,7 +1573,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec<br/>Applies Deadly Poison (1 stack) on down",
+        "sub_info": "Downs foes hit for 3 sec<br/>Applies 1 stack of Deadly Poison on down",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1605,7 +1605,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec<br/>Applies Deadly Poison (1 stack) on down<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 40% for 6 sec",
+        "sub_info": "Downs foes hit for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 40% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1637,7 +1637,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec<br/>Applies Deadly Poison (1 stack) on down<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 40% for 6 sec",
+        "sub_info": "Downs foes hit for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 40% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2085,7 +2085,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_60.png",
         "main_info1": "Deals 75~88 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Heals the user 20% of the damage dealt<br/>User is invulnerable during use during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable during use for 1 sec after use",
+        "sub_info": "Charge to the target<br/>Heals the user 20% of the damage dealt<br/>User is invulnerable during use during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable for 1 sec after use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2117,7 +2117,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_60.png",
         "main_info1": "Deals 75~88 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Heals the user 50% of the damage dealt<br/>User is invulnerable during use during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable during use for 1 sec after use",
+        "sub_info": "Charge to the target<br/>Heals the user 50% of the damage dealt<br/>User is invulnerable during use during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable for 1 sec after use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2501,7 +2501,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_41.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2533,7 +2533,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_41.png",
         "main_info1": "Deals 105~123 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2565,7 +2565,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_41.png",
         "main_info1": "Deals 147~172 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2597,7 +2597,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_41.png",
         "main_info1": "Deals 147~172 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit<br/>Applies Deadly Poison (2 stacks) to foes hit on critical hit",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Applies 2 stacks of Deadly Poison on critical hit",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2629,7 +2629,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_59.png",
         "main_info1": "Deals 24~28 damage up to 5 foes",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit<br/>Deals 36~42 damage over 8 sec<br/>Disables defense abilities of foes hit for 8 sec",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Deals 36~42 damage over 8 sec<br/>Disables defense abilities of foes hit for 8 sec",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2661,7 +2661,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_59.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit<br/>Decreases the movement speed of foes hit by 40% for 6 sec",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Decreases the movement speed of foes hit by 40% for 6 sec",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2693,7 +2693,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_59.png",
         "main_info1": "Deals 60~70 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3141,7 +3141,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_11.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit<br/>Confines foes hit for 15 sec<br/>Confine decreases the movement speed of the foe by 30%",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Confines foes hit for 15 sec<br/>Confine decreases the movement speed of the foe by 30%",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -3301,7 +3301,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, unconscious status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies Deadly Poison (1 stack) to foes hit<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies Deadly Poison (1 stack) to foes hit<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3365,7 +3365,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies Deadly Poison (1 stack) to foes hit<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3397,7 +3397,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Applies Deadly Poison (1 stack) to foes hit<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3429,7 +3429,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>User is immune to daze, stun for 5 sec<br/>Applies Deadly Poison (1 stack) to foes hit<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>User is immune to daze, stun for 5 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes hit for 5 sec<br/>Decreases the movement speed of foes hit by 50% for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3877,7 +3877,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_32.png",
         "main_info1": "Deals 84~98 damage",
         "main_info2": null,
-        "sub_info": "downs foes hit for 2 sec<br/>Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use<br/>Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "downs foes hit for 2 sec<br/>Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use<br/>Applies 1 stack of Deadly Poison",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4069,7 +4069,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_52.png",
         "main_info1": "Restrains dazed, stunned foes for 3 sec",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4259,9 +4259,9 @@ var skill_data_AS = {
         "id": "25044",
         "name": "Lotus - 연화",
         "icon": "skill_icon_assassin_0_45.png",
-        "main_info1": "Escape from Suppress, seized, Force Grip when used at the enemy's attack timing",
+        "main_info1": "Escape from suppressed, seized, force gripped status when used at the enemy's attack timing",
         "main_info2": "Deals 31~36 damage",
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4389,7 +4389,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_1.png",
         "main_info1": "Deals 8~10 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit<br/>Cannot be deflected",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -4421,7 +4421,7 @@ var skill_data_AS = {
         "icon": "skill_icon_swordmaster_2_20.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "Applies Deadly Poison (1 stack) to foes hit",
+        "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4709,7 +4709,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_21.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Applies Deadly Poison (1 stack) to foes hit on stun",
+        "sub_info": "Deals 18~21 damage<br/>Applies 1 stack of Deadly Poison on stun",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4741,7 +4741,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_21.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Applies Deadly Poison (1 stack) to foes hit on stun",
+        "sub_info": "Deals 18~21 damage<br/>Applies 1 stack of Deadly Poison on stun",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4773,7 +4773,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_21.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Applies Deadly Poison (1 stack) to foes hit on stun<br/>Ignores defense",
+        "sub_info": "Deals 18~21 damage<br/>Applies 1 stack of Deadly Poison on stun<br/>Ignores defense",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {

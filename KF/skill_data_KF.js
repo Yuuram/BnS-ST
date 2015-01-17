@@ -5507,7 +5507,7 @@ var skill_data_KF = {
         "id": "21166",
         "name": "Rising Strike - 비상격",
         "icon": "skill_icon_kungfufighter_1_21.png",
-        "main_info1": "Escape from Suppress, seized, Force Grip when used at the enemy's attack timing",
+        "main_info1": "Escape from suppressed, seized, force gripped status when used at the enemy's attack timing",
         "main_info2": "Deals 31~36 damage",
         "sub_info": null,
         "consume_sp": null,
@@ -6213,7 +6213,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of the target by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of the target by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of the user's maximum health that lasts for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {

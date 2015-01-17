@@ -7896,26 +7896,6 @@ var data_skill_tooltip = {
                 "skill-modify-diff-repeat-count": "1",
                 "is_public": "0",
                 "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv1",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
             }
         },
         "sub": {
@@ -7990,26 +7970,6 @@ var data_skill_tooltip = {
                 "tooltip-group": "M2",
                 "ect-order": "TCE",
                 "effect-attribute": "E_pull",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv11",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
                 "effect-arg-1": null,
                 "effect-arg-2": null,
                 "effect-arg-3": null,
@@ -8112,26 +8072,6 @@ var data_skill_tooltip = {
                 "skill-modify-diff-repeat-count": "1",
                 "is_public": "0",
                 "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv12",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
             }
         },
         "sub": {
@@ -8206,26 +8146,6 @@ var data_skill_tooltip = {
                 "tooltip-group": "M2",
                 "ect-order": "TCE",
                 "effect-attribute": "E_pull",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv13",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
                 "effect-arg-1": null,
                 "effect-arg-2": null,
                 "effect-arg-3": null,
@@ -8334,26 +8254,6 @@ var data_skill_tooltip = {
                 "tooltip-group": "M2",
                 "ect-order": "TCE",
                 "effect-attribute": "E_pull",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv14",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
                 "effect-arg-1": null,
                 "effect-arg-2": null,
                 "effect-arg-3": null,
@@ -8496,26 +8396,6 @@ var data_skill_tooltip = {
                 "skill-modify-diff-repeat-count": "1",
                 "is_public": "0",
                 "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv21",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
             }
         },
         "sub": {
@@ -8590,26 +8470,6 @@ var data_skill_tooltip = {
                 "tooltip-group": "M2",
                 "ect-order": "TCE",
                 "effect-attribute": "E_pull",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv22",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
                 "effect-arg-1": null,
                 "effect-arg-2": null,
                 "effect-arg-3": null,
@@ -8718,26 +8578,6 @@ var data_skill_tooltip = {
                 "tooltip-group": "M2",
                 "ect-order": "TCE",
                 "effect-attribute": "E_pull",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "ForceMaster_Deal_magnetic_catch_Lv23",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
                 "effect-arg-1": null,
                 "effect-arg-2": null,
                 "effect-arg-3": null,
@@ -9085,26 +8925,6 @@ var data_skill_tooltip = {
             }
         },
         "m2": {
-            "0": {
-                "skill": "ForceMaster_Deal_magnetic_air_hold_Lv1",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            }
         },
         "sub": {
             "0": {
@@ -9195,26 +9015,6 @@ var data_skill_tooltip = {
             }
         },
         "m2": {
-            "0": {
-                "skill": "ForceMaster_Deal_magnetic_air_hold_Lv11",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            }
         },
         "sub": {
             "0": {
@@ -9305,26 +9105,6 @@ var data_skill_tooltip = {
             }
         },
         "m2": {
-            "0": {
-                "skill": "ForceMaster_Deal_magnetic_air_hold_Lv12",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            }
         },
         "sub": {
             "0": {
@@ -9435,26 +9215,6 @@ var data_skill_tooltip = {
             }
         },
         "m2": {
-            "0": {
-                "skill": "ForceMaster_Deal_magnetic_air_hold_Lv13",
-                "tooltip-group": "M2",
-                "ect-order": "TCE",
-                "effect-attribute": "E_action_disable",
-                "effect-arg-1": null,
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            }
         },
         "sub": {
             "0": {
