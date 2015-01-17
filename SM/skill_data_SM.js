@@ -5151,6 +5151,38 @@ var skill_data_SM = {
             }
         }
     },
+	"SwordMaster_Batto_Batto_LV1": {
+        "id": "27405",
+        "name": "Draw - 발도",
+        "icon": "skill_icon_swordmaster_1_19.png",
+        "main_info1": "Draw not learned",
+        "main_info2": null,
+        "sub_info": null,
+        "consume_sp": "1",
+        "ui_sp_heal_value": null,
+        "skill_info": {
+            "0": {
+                "name": "Range",
+                "type": "meter",
+                "value": "3m"
+            },
+            "1": {
+                "name": "Area",
+                "type": "range_0",
+                "value": "Target"
+            },
+            "2": {
+                "name": "Cast Time",
+                "type": "casting_time",
+                "value": "Instant"
+            },
+            "3": {
+                "name": "Cooldown",
+                "type": "recycle_time",
+                "value": "Instant"
+            }
+        }
+    },
     "SwordMaster_Batto_Batto_LV11": {
         "id": "27405",
         "name": "Draw - 발도",
