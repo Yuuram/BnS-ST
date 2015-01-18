@@ -379,7 +379,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_2.png",
         "main_info1": "Deals 14~17 damage up to 5 foes",
         "main_info2": null,
-        "sub_info": "Heals 2% of damage dealt per enemy hit<br/>Applies 1 Poison stack per hit<br/>Decreases Defense by 10% per Poison stack",
+        "sub_info": "Heals the user 2% of the damage dealt per foe hit<br/>Applies 1 Poison stack per hit<br/>Decreases Defense by 10% per Poison stack",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -411,7 +411,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_2.png",
         "main_info1": "Deals 14~17 damage up to 5 foes",
         "main_info2": null,
-        "sub_info": "Heals 2% of damage dealt per enemy hit<br/>Heals additional 2% of maximum health per consecutive hit<br/>Applies 1 Poison stack per hit<br/>Decreases Defense by 10% per Poison stack",
+        "sub_info": "Heals the user 2% of the damage dealt per foe hit<br/>Heals additional 2% of maximum health per consecutive hit<br/>Applies 1 Poison stack per hit<br/>Decreases Defense by 10% per Poison stack",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -667,7 +667,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_8.png",
         "main_info1": "8 sec Root",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Decreases movement speed by 40%",
+        "sub_info": "Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -699,7 +699,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_8.png",
         "main_info1": "8 sec Root",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Cooldown refreshed on Counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases movement speed by 40%",
+        "sub_info": "Cooldown refreshed on Counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -731,7 +731,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_8.png",
         "main_info1": "8 sec Root",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Spreads nearby the enemy<br/>Cooldown refreshed on Counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases movement speed by 40%",
+        "sub_info": "Spreads nearby the foe<br/>Cooldown refreshed on Counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -763,7 +763,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_8.png",
         "main_info1": "Creates an Ivy field for 10 sec",
         "main_info2": "Deals 23~27 damage per hit",
-        "sub_info": "Spreads nearby the enemy<br/>Applies Ivy per hit<br/>8 sec Root during Ivy<br/>Deals 40% chi damage over 8 sec during Ivy<br/>Decreases movement speed by 40% during Ivy<br/>Seals offensive defense skills within area",
+        "sub_info": "Spreads nearby the foe<br/>Applies Ivy per hit<br/>8 sec Root during Ivy<br/>Deals 40% chi damage over 8 sec during Ivy<br/>Decreases the movement speed of foes hit by 40% during Ivy<br/>Seals offensive defense skills within area",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -795,7 +795,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_8.png",
         "main_info1": "8 sec Root",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Cooldown refreshed on Counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases movement speed by 40%",
+        "sub_info": "Cooldown refreshed on Counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -827,7 +827,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_8.png",
         "main_info1": "Creates an Ivy field for 10 sec",
         "main_info2": "Deals 23~27 damage per hit",
-        "sub_info": "Applies Ivy per hit<br/>8 sec Root during Ivy<br/>Deals 40% chi damage over 8 sec during Ivy<br/>Decreases movement speed by 40% during Ivy<br/>Seals offensive defense skills within area",
+        "sub_info": "Applies Ivy per hit<br/>8 sec Root during Ivy<br/>Deals 40% chi damage over 8 sec during Ivy<br/>Decreases the movement speed of foes hit by 40% during Ivy<br/>Seals offensive defense skills within area",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -859,7 +859,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_39.png",
         "main_info1": "8 sec Root",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases movement speed by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -891,7 +891,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_39.png",
         "main_info1": "8 sec Root",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cannot be deflected<br/>Increased projectile speed<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases movement speed by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cannot be deflected<br/>Increased projectile speed<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -923,7 +923,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_39.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases movement speed by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -955,7 +955,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_39.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 12 sec if it misses<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases movement speed by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison<br/>Cooldown refreshed on Counter with Dandelion<br/>Cooldown decreased by 12 sec if it misses<br/>Cooldown decreased by 16 sec on hitting Downed, Dominated foes<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -986,7 +986,7 @@ var skill_data_SU = {
         "name": "Siphon - 흡수",
         "icon": "skill_icon_summon_0_9.png",
         "main_info1": "Deals 19~22 damage",
-        "main_info2": "Heals 100% of damage dealt",
+        "main_info2": "Heals the user 100% of the damage dealt",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1018,8 +1018,8 @@ var skill_data_SU = {
         "name": "Siphon - 흡수",
         "icon": "skill_icon_summon_0_9.png",
         "main_info1": "Deals 19~22 damage",
-        "main_info2": "Heals 100% of damage dealt",
-        "sub_info": "Heals 200% of damage dealt to Stunned, Dazed, seized, force gripped foes",
+        "main_info2": "Heals the user 100% of the damage dealt",
+        "sub_info": "Heals the user 200% of the damage dealt to Stunned, Dazed, seized, force gripped foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1050,8 +1050,8 @@ var skill_data_SU = {
         "name": "Siphon - 흡수",
         "icon": "skill_icon_summon_0_9.png",
         "main_info1": "Deals 19~22 damage",
-        "main_info2": "Heals 100% of damage dealt",
-        "sub_info": "Frontal Block when used at enemy projectile impact<br/>Heals 5% of maximum health on Blocking enemy projectile<br/>Heals 200% of damage dealt to Stunned, Dazed, seized, force gripped foes",
+        "main_info2": "Heals the user 100% of the damage dealt",
+        "sub_info": "Frontal Block when used at foe projectile impact<br/>Heals 5% of maximum health on Blocking foe projectile<br/>Heals the user 200% of the damage dealt to Stunned, Dazed, seized, force gripped foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1082,8 +1082,8 @@ var skill_data_SU = {
         "name": "Siphon - 흡수",
         "icon": "skill_icon_summon_0_9.png",
         "main_info1": "Deals 19~22 damage",
-        "main_info2": "Heals 100% of damage dealt",
-        "sub_info": "Can be instantly used on critical hit<br/>Frontal Block when used at enemy projectile impact<br/>Heals 5% of maximum health on Blocking enemy projectile<br/>Heals 200% of damage dealt to Stunned, Dazed, seized, force gripped foes",
+        "main_info2": "Heals the user 100% of the damage dealt",
+        "sub_info": "Can be instantly used on critical hit<br/>Frontal Block when used at foe projectile impact<br/>Heals 5% of maximum health on Blocking foe projectile<br/>Heals the user 200% of the damage dealt to Stunned, Dazed, seized, force gripped foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1114,8 +1114,8 @@ var skill_data_SU = {
         "name": "Siphon - 흡수",
         "icon": "skill_icon_summon_0_9.png",
         "main_info1": "Deals 96~112 damage over 5 sec",
-        "main_info2": "Heals 100% of damage dealt",
-        "sub_info": "Can be instantly used on critical hit<br/>Frontal Block when used at enemy projectile impact<br/>Heals 5% of maximum health on Blocking enemy projectile<br/>Heals 200% of damage dealt to Stunned, Dazed, seized, force gripped foes",
+        "main_info2": "Heals the user 100% of the damage dealt",
+        "sub_info": "Can be instantly used on critical hit<br/>Frontal Block when used at foe projectile impact<br/>Heals 5% of maximum health on Blocking foe projectile<br/>Heals the user 200% of the damage dealt to Stunned, Dazed, seized, force gripped foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1146,7 +1146,7 @@ var skill_data_SU = {
         "name": "Thorn Vine - 가시덩굴",
         "icon": "skill_icon_summon_0_40.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 12~14 damage on hitting the enemy's back",
+        "main_info2": "Deals an additional 12~14 damage on hitting the foe's back",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1178,7 +1178,7 @@ var skill_data_SU = {
         "name": "Thorn Vine - 가시덩굴",
         "icon": "skill_icon_summon_0_40.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 12~14 damage on hitting the enemy's back",
+        "main_info2": "Deals an additional 12~14 damage on hitting the foe's back",
         "sub_info": "Deals an additional 6~7 damage to foes with 5 Poison stacks, Ivy Poison",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1210,7 +1210,7 @@ var skill_data_SU = {
         "name": "Thorn Vine - 가시덩굴",
         "icon": "skill_icon_summon_0_40.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 12~14 damage on hitting the enemy's back",
+        "main_info2": "Deals an additional 12~14 damage on hitting the foe's back",
         "sub_info": "Deals an additional 6~7 damage to foes with 5 Poison stacks, Ivy Poison<br/>Can be used up to 2 consecutive times",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1242,7 +1242,7 @@ var skill_data_SU = {
         "name": "Thorn Vine - 가시덩굴",
         "icon": "skill_icon_summon_0_40.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 12~14 damage on hitting the enemy's back",
+        "main_info2": "Deals an additional 12~14 damage on hitting the foe's back",
         "sub_info": "Applies Ivy Poison<br/>Deals 72~84 damage over 10 sec during Ivy Poison",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1691,7 +1691,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_10.png",
         "main_info1": "Deals 126~147 damage",
         "main_info2": null,
-        "sub_info": "Can be instantly used on critical hit<br/>Costs 2 Chi with consecutive use<br/>Cast time decreased to 1 sec during Stealth<br/>Cooldown refreshed on kill",
+        "sub_info": "Can be instantly used on critical hit<br/>Costs 2 Chi with recast<br/>Cast time decreased to 1 sec during Stealth<br/>Cooldown refreshed on kill",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1819,7 +1819,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_11.png",
         "main_info1": "Deals 38~45 damage over 5 sec",
         "main_info2": null,
-        "sub_info": "Heals 100% of damage dealt<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Generates 5 chi over 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1851,7 +1851,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_11.png",
         "main_info1": "Deals 38~45 damage over 5 sec",
         "main_info2": null,
-        "sub_info": "Heals 100% of damage dealt<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1883,7 +1883,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_11.png",
         "main_info1": "Deals 38~45 damage over 5 sec",
         "main_info2": null,
-        "sub_info": "Heals 100% of damage dealt<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1915,7 +1915,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_11.png",
         "main_info1": "Deals 38~45 damage over 5 sec to nearby foes",
         "main_info2": null,
-        "sub_info": "Heals 200% of damage dealt per enemy hit<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 200% of the damage dealt per foe hit<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1947,7 +1947,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_11.png",
         "main_info1": "Deals 38~45 damage over 5 sec to nearby foes",
         "main_info2": null,
-        "sub_info": "Heals 200% of damage dealt per enemy hit<br/>Creates a barrier equivalent to 5% of maximum health if all hits connects<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 200% of the damage dealt per foe hit<br/>Creates a barrier equivalent to 5% of maximum health if all hits connects<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Decreases user's movement speed by 40% during cast<br/>Generates 5 chi over 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1979,7 +1979,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_11.png",
         "main_info1": "Deals 38~45 damage over 5 sec",
         "main_info2": null,
-        "sub_info": "Heals 100% of damage dealt<br/>Other actions can be done while siphoning health<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Other actions can be done while siphoning health<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Generates 5 chi over 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2011,7 +2011,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_11.png",
         "main_info1": "Deals 38~45 damage over 5 sec",
         "main_info2": null,
-        "sub_info": "Heals 100% of damage dealt<br/>Doubles health regeneration from damage dealt of other skills<br/>Other actions can be done while siphoning health<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Doubles health regeneration from damage dealt of other skills<br/>Other actions can be done while siphoning health<br/>Heals nearby Cat 10% of maximum health over 5 sec<br/>Mobile during use<br/>Generates 5 chi over 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2747,7 +2747,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "Grants inside allies projectile evasion",
         "main_info2": null,
-        "sub_info": "Protects nearby allies from projectiles<br/>Immune to Stuns caused by Deflect<br/>Spreads nearby the enemy<br/>Enemies inside cannot Block, Evade",
+        "sub_info": "Protects nearby allies from projectiles<br/>Immune to Stuns caused by Deflect<br/>Spreads nearby the foe<br/>Enemies inside cannot Block, Evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2779,7 +2779,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "Grants inside allies projectile evasion",
         "main_info2": null,
-        "sub_info": "Protects nearby allies from projectiles<br/>Immune to Stuns caused by Deflect<br/>Applies up to 5 Poison stacks<br/>Spreads nearby the enemy<br/>Enemies inside cannot Block, Evade",
+        "sub_info": "Protects nearby allies from projectiles<br/>Immune to Stuns caused by Deflect<br/>Applies up to 5 Poison stacks<br/>Spreads nearby the foe<br/>Enemies inside cannot Block, Evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2811,7 +2811,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "Grants inside allies projectile evasion",
         "main_info2": null,
-        "sub_info": "Protects nearby allies from projectiles<br/>Immune to Stuns caused by Deflect<br/>Cooldown refreshed on kill with Burn Pollen<br/>Allies recover 10% Chi over 10 sec<br/>Applies up to 5 Poison stacks<br/>Spreads nearby the enemy<br/>Enemies inside cannot Block, Evade",
+        "sub_info": "Protects nearby allies from projectiles<br/>Immune to Stuns caused by Deflect<br/>Cooldown refreshed on kill with Burn Pollen<br/>Allies recover 10% Chi over 10 sec<br/>Applies up to 5 Poison stacks<br/>Spreads nearby the foe<br/>Enemies inside cannot Block, Evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2939,7 +2939,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "2 sec Counter",
         "main_info2": null,
-        "sub_info": "6 sec Stealth on Counter<br/>User is invulnerable during use for 1.5 sec on Counter<br/>Damage taken is reduced by 50% during Stealth<br/>Incoming damage of counter piercing attacks reduced by 50%<br/>Generates 4 chi on Counter",
+        "sub_info": "6 sec Stealth on Counter<br/>User is invulnerable during use for 1.5 sec on Counter<br/>User takes 50% less damage during Stealth<br/>Incoming damage of counter piercing attacks reduced by 50%<br/>Generates 4 chi on Counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2971,7 +2971,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "2 sec Counter",
         "main_info2": null,
-        "sub_info": "6 sec Stealth on Counter<br/>User is invulnerable during use for 1.5 sec on Counter<br/>Refreshes cooldown of Hornet on Counter<br/>Damage taken is reduced by 50% during Stealth<br/>Incoming damage of counter piercing attacks reduced by 50%<br/>Generates 4 chi on Counter",
+        "sub_info": "6 sec Stealth on Counter<br/>User is invulnerable during use for 1.5 sec on Counter<br/>Refreshes cooldown of Hornet on Counter<br/>User takes 50% less damage during Stealth<br/>Incoming damage of counter piercing attacks reduced by 50%<br/>Generates 4 chi on Counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3003,7 +3003,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "2 sec Counter",
         "main_info2": null,
-        "sub_info": "6 sec Stealth on Counter<br/>User is invulnerable during use for 1.5 sec on Counter<br/>Creates a barrier equivalent to 25% of maximum health during Counter<br/>Barrier removed on Counter<br/>Barrier removed on using next skill<br/>Damage taken is reduced by 50% during Stealth<br/>Incoming damage of counter piercing attacks reduced by 50%<br/>Generates 4 chi on Counter",
+        "sub_info": "6 sec Stealth on Counter<br/>User is invulnerable during use for 1.5 sec on Counter<br/>Creates a barrier equivalent to 25% of maximum health during Counter<br/>Barrier removed on Counter<br/>Barrier removed on using next skill<br/>User takes 50% less damage during Stealth<br/>Incoming damage of counter piercing attacks reduced by 50%<br/>Generates 4 chi on Counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3195,7 +3195,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_36.png",
         "main_info1": "Escape from suppressed, seized, force gripped status",
         "main_info2": "Move back 10m",
-        "sub_info": "Effect activates when used at enemy attack timing",
+        "sub_info": "Effect activates when used at foe attack timing",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3356,7 +3356,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3388,7 +3388,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3420,7 +3420,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen<br/>Cures the user of Internal Bleeding",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3452,7 +3452,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen<br/>Cures the user of Internal Bleeding",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3484,7 +3484,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen<br/>Cures the user of Internal Bleeding",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3516,7 +3516,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3548,7 +3548,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3580,7 +3580,7 @@ var skill_data_SU = {
         "main_info1": "Deals 90~105 damage over 10 sec",
         "main_info2": null,
         "sub_info": "Burns Pollen",
-        "consume_sp": "0",
+        "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
@@ -3769,7 +3769,7 @@ var skill_data_SU = {
         "id": "26200",
         "name": "Dash - 달려들기",
         "icon": "skill_icon_summon_0_6.png",
-        "main_info1": "Cat charges towards the enemy",
+        "main_info1": "Cat charges towards the foe",
         "main_info2": null,
         "sub_info": "Deals 24~28 damage",
         "consume_sp": null,
@@ -3801,7 +3801,7 @@ var skill_data_SU = {
         "id": "26200",
         "name": "Dash - 달려들기",
         "icon": "skill_icon_summon_0_6.png",
-        "main_info1": "Cat charges towards the enemy",
+        "main_info1": "Cat charges towards the foe",
         "main_info2": null,
         "sub_info": "Deals 24~28 damage<br/>Increased charge speed",
         "consume_sp": null,
@@ -3833,7 +3833,7 @@ var skill_data_SU = {
         "id": "26200",
         "name": "Dash - 달려들기",
         "icon": "skill_icon_summon_0_6.png",
-        "main_info1": "Cat charges towards the enemy",
+        "main_info1": "Cat charges towards the foe",
         "main_info2": null,
         "sub_info": "Deflects attacks during charge<br/>Deals 24~28 damage<br/>Tier1 Class1 Dash can be used during cooldown<br/>Increased charge speed",
         "consume_sp": null,
@@ -3865,7 +3865,7 @@ var skill_data_SU = {
         "id": "26200",
         "name": "Dash - 달려들기",
         "icon": "skill_icon_summon_0_6.png",
-        "main_info1": "Cat charges towards the enemy",
+        "main_info1": "Cat charges towards the foe",
         "main_info2": null,
         "sub_info": "Deflects attacks during charge<br/>Deals 24~28 damage<br/>Decreases movement speed by 20%<br/>Disables charge abilities for 8 sec<br/>Tier1 Class1 Dash can be used during cooldown<br/>Increased charge speed",
         "consume_sp": null,
@@ -3897,7 +3897,7 @@ var skill_data_SU = {
         "id": "26200",
         "name": "Dash - 달려들기",
         "icon": "skill_icon_summon_0_6.png",
-        "main_info1": "Cat charges towards the enemy",
+        "main_info1": "Cat charges towards the foe",
         "main_info2": null,
         "sub_info": "Deflects attacks during charge<br/>Deals 24~28 damage<br/>Ignores defense<br/>Stuns foes hit for 2 sec to defending foes<br/>Decreases movement speed by 20%<br/>Disables charge abilities for 8 sec<br/>Tier1 Class1 Dash can be used during cooldown<br/>Increased charge speed",
         "consume_sp": null,
@@ -3993,7 +3993,7 @@ var skill_data_SU = {
         "id": "26200",
         "name": "Dash - 달려들기",
         "icon": "skill_icon_summon_0_42.png",
-        "main_info1": "Cat charges towards the enemy",
+        "main_info1": "Cat charges towards the foe",
         "main_info2": "Deals 60~70 damage over 5 hits",
         "sub_info": "Stuns foes hit for 2 sec on hitting 2 times<br/>Tier1 Class1 Dash can be used during cooldown<br/>Increased charge speed",
         "consume_sp": null,
@@ -4025,7 +4025,7 @@ var skill_data_SU = {
         "id": "26200",
         "name": "Dash - 달려들기",
         "icon": "skill_icon_summon_0_42.png",
-        "main_info1": "Cat charges towards the enemy",
+        "main_info1": "Cat charges towards the foe",
         "main_info2": "Deals 60~70 damage over 5 hits",
         "sub_info": "Stuns foes hit for 2 sec on hitting 2 times<br/>Refreshes Stun duration to 2 sec on hitting Stunned foes<br/>Tier1 Class1 Dash can be used during cooldown<br/>Increased charge speed",
         "consume_sp": null,
@@ -4155,7 +4155,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_28.png",
         "main_info1": "Deals 37~43 damage",
         "main_info2": null,
-        "sub_info": "Move behind the enemy on critically hitting from the front with Meow~<br/>Automatically used by the Cat<br/>Applies 1 Bleed stack<br/>Deals an additional 3~4 damage to immobile foes",
+        "sub_info": "Move behind the foe on critically hitting from the front with Meow~<br/>Automatically used by the Cat<br/>Applies 1 Bleed stack<br/>Deals an additional 3~4 damage to immobile foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4347,7 +4347,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_34.png",
         "main_info1": "4 sec Down",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Decreases movement speed by 40%<br/>Disables charge abilities for 8 sec",
+        "sub_info": "Deals 18~21 damage<br/>Decreases the movement speed of foes hit by 40%<br/>Disables charge abilities for 8 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4379,7 +4379,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_34.png",
         "main_info1": "4 sec Down",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Can be used up to 2 consecutive times<br/>Cooldown increased by 12 sec if used 2 consecutive times<br/>Decreases movement speed by 40%<br/>Disables charge abilities for 8 sec",
+        "sub_info": "Deals 18~21 damage<br/>Can be used up to 2 consecutive times<br/>Cooldown increased by 12 sec if used 2 consecutive times<br/>Decreases the movement speed of foes hit by 40%<br/>Disables charge abilities for 8 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4795,7 +4795,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_18.png",
         "main_info1": "4 sec Dominate",
         "main_info2": "Deals 114~133 damage at end of Dominate",
-        "sub_info": "Throwing Chestnut Burr can be used on Dominated enemy",
+        "sub_info": "Throwing Chestnut Burr can be used on Dominated foe",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4827,7 +4827,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_18.png",
         "main_info1": "4 sec Dominate",
         "main_info2": "Deals 150~175 damage at end of Dominate",
-        "sub_info": "Throwing Chestnut Burr can be used on Dominated enemy",
+        "sub_info": "Throwing Chestnut Burr can be used on Dominated foe",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4921,7 +4921,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Damage taken is reduced by 90% for 5 sec",
+        "main_info1": "User takes 90% less damage for 5 sec",
         "main_info2": null,
         "sub_info": "Cat is immune to status effects during use<br/>Used with [Q]",
         "consume_sp": null,
@@ -4953,7 +4953,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Damage taken is reduced by 90% for 5 sec",
+        "main_info1": "User takes 90% less damage for 5 sec",
         "main_info2": null,
         "sub_info": "Cat is immune to status effects during use<br/>Heal 2% of maximum health on taking hit<br/>Used with [Q]",
         "consume_sp": null,
@@ -4985,7 +4985,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Damage taken is reduced by 90% for 8 sec",
+        "main_info1": "User takes 90% less damage for 8 sec",
         "main_info2": null,
         "sub_info": "Cat is immune to status effects during use<br/>Heal 2% of maximum health on taking hit<br/>Used with [Q]",
         "consume_sp": null,
@@ -5017,7 +5017,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Damage taken is reduced by 90% for 8 sec",
+        "main_info1": "User takes 90% less damage for 8 sec",
         "main_info2": null,
         "sub_info": "Generates 12 chi over 8 sec<br/>Cat is immune to status effects during use<br/>Heal 2% of maximum health on taking hit<br/>Used with [Q]",
         "consume_sp": null,
@@ -5049,9 +5049,9 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Damage taken is reduced by 90% for 8 sec",
+        "main_info1": "User takes 90% less damage for 8 sec",
         "main_info2": null,
-        "sub_info": "30% Chance to apply Ivy for 6 sec to attaking enemy<br/>Cat is immune to status effects during use<br/>Generates 12 chi over 8 sec<br/>Heal 2% of maximum health on taking hit<br/>Used with [Q]",
+        "sub_info": "30% Chance to apply Ivy for 6 sec to attaking foe<br/>Cat is immune to status effects during use<br/>Generates 12 chi over 8 sec<br/>Heal 2% of maximum health on taking hit<br/>Used with [Q]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5081,7 +5081,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Damage taken is reduced by 90% for 8 sec",
+        "main_info1": "User takes 90% less damage for 8 sec",
         "main_info2": null,
         "sub_info": "Taunts nearby foes for 8 sec<br/>Cat is immune to status effects during use<br/>Heal 2% of maximum health on taking hit<br/>Used with [Q]",
         "consume_sp": null,
@@ -5113,7 +5113,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Damage taken is reduced by 90% for 8 sec",
+        "main_info1": "User takes 90% less damage for 8 sec",
         "main_info2": null,
         "sub_info": "Nearby allies recover 40% Chi over 8 sec<br/>Taunts nearby foes for 8 sec<br/>Cat is immune to status effects during use<br/>Heal 2% of maximum health on taking hit<br/>Used with [Q]",
         "consume_sp": null,
@@ -6075,7 +6075,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_47.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": "Available when Spiritualized",
-        "sub_info": "Increased cast rate<br/>Increased projectile speed<br/>독 1 중첩<br/>치명타 시  독 2 중첩<br/>독 중첩 당  방어 10% 감소<br/>치명타 시  말벌 Instantly used<br/>치명타 시  밤송이, 투척밤송이 Cooldown 시간 2 sec 감소<br/>Cannot be deflected<br/>Does not generate threat",
+        "sub_info": "Increased cast rate<br/>Increased projectile speed<br/>독 1 중첩<br/>On critical hit  독 2 중첩<br/>독 중첩 당  방어 10% 감소<br/>On critical hit  말벌 Instantly used<br/>On critical hit  밤송이, 투척밤송이 Cooldown 시간 2 sec 감소<br/>Cannot be deflected<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {

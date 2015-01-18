@@ -5,7 +5,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_31.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Recovers 10% Chi per enemy hit",
+        "sub_info": "Generates 10% chi per foe hit",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -37,7 +37,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_31.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Recovers 10% Chi per enemy hit",
+        "sub_info": "Generates 10% chi per foe hit",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -69,7 +69,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_31.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Recovers 10% Chi per enemy hit",
+        "sub_info": "Generates 10% chi per foe hit",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -101,7 +101,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_31.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Recovers 10% Chi per enemy hit<br/>Guaranteed critical hit for next attack on taking hit during use<br/>Critical effect lasts 3 sec",
+        "sub_info": "Generates 10% chi per foe hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical effect lasts 3 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -133,7 +133,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_31.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Recovers 15% Chi per enemy hit<br/>Guaranteed critical hit for next attack on taking hit during use<br/>Critical effect lasts 3 sec",
+        "sub_info": "Generates 15% chi per foe hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical effect lasts 3 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {
@@ -165,7 +165,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_31.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Recovers 15% Chi per enemy hit<br/>Guaranteed critical hit for next attack on taking hit during use<br/>Critical effect lasts 3 sec<br/>Recovers Chi even when Blocked, Countered, Deflected",
+        "sub_info": "Generates 15% chi per foe hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical effect lasts 3 sec<br/>Generates chi even when blocked, countered, deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {
@@ -293,7 +293,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_39.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Heals 10% of damage dealt<br/>Skill speed accelerates on recast",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Skill speed accelerates on recast",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -325,7 +325,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_39.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Heals 10% of damage dealt<br/>Heals 25% of damage dealt at maximum speed<br/>Skill speed accelerates on recast",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 25% of the damage dealt at maximum speed<br/>Skill speed accelerates on recast",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -357,7 +357,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability",
+        "sub_info": "Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -389,7 +389,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Increases movement speed by 60% during use<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -421,7 +421,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 50~59 damage",
         "main_info2": null,
-        "sub_info": "Increases movement speed by 60% during use<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -453,7 +453,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 50~59 damage",
         "main_info2": null,
-        "sub_info": "Increases movement speed by 60% during use<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability<br/>Increases Defense by 20% for 5 sec on hit up to 10 stacks",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability<br/>Increases the defense of the user by 20% for 5 sec on hit up to 10 stacks",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -485,7 +485,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 50~59 damage",
         "main_info2": null,
-        "sub_info": "Increases movement speed by 60% during use<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability<br/>Increases Defense by 20% for 5 sec on hit up to 10 stacks",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability<br/>Increases the defense of the user by 20% for 5 sec on hit up to 10 stacks",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -517,7 +517,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Increases Defense by 400%<br/>Increases movement speed by 60% during use<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability",
+        "sub_info": "Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -549,7 +549,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Damage taken is reduced by 25% for the first hit taken<br/>Increases Defense by 400%<br/>Increases movement speed by 60% during use<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability",
+        "sub_info": "User takes 25% less damage for the first attack received<br/>Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -581,7 +581,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Deflects 1 attack within 0.5 sec after use<br/>Increases movement speed by 60% during use<br/>Increases movement speed by 30% for 3 sec on Deflect<br/>Immune to slows for 3 sec on Deflect<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability",
+        "sub_info": "Deflects 1 attack for 0.5 sec<br/>Increases the movement speed of the user by 60% during use<br/>Increases the movement speed of the user by 30% for 3 sec on deflect<br/>User is immune to slows for 3 sec on deflect<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -613,7 +613,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Deflects multiple attacks within 0.5 sec after use<br/>Decreases cooldown of Collide by 9 sec on first Deflect<br/>Removes movement skill seal on Deflect<br/>Increases movement speed by 30% for 3 sec on Deflect<br/>Immune to slows for 3 sec on Deflect<br/>Increases movement speed by 60% during use<br/>Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability",
+        "sub_info": "Deflects multiple attacks for 0.5 sec<br/>Cooldown of Collide is decreased by 9 sec on the first deflect<br/>Removes charge ability disable on deflect<br/>Increases the movement speed of the user by 30% for 3 sec on deflect<br/>User is immune to slows for 3 sec on deflect<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -645,7 +645,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_21.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Mobile during use<br/>Immune to Stun, Dazed, Knockback during use<br/>Removes all immobilize effects<br/>Offensive defense ability<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Mobile during use<br/>User is immune to daze, stun, knock back during use<br/>Breaks the user out of freeze<br/>Offensive defense ability<br/>Cures the user of Internal Bleeding",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -677,7 +677,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_40.png",
         "main_info1": "Deals 162~189 damage",
         "main_info2": null,
-        "sub_info": "Mobile during use<br/>Decreases user's movement speed by 30% during use<br/>Ignores defense<br/>Immune to Stun, Dazed, Down, Knockback, Pulls, Force Grip, Knockup during use<br/>Can be used consecutively<br/>Removes all immobilize effects<br/>Deals 39~46 damage on consecutive use",
+        "sub_info": "Mobile during use<br/>Decreases the movement speed of the user by 30% during use<br/>Ignores defense<br/>User is immune to down, daze, stun, knock back, knock up, pull, force grip during use<br/>Typhoon can be recast<br/>Breaks the user out of freeze<br/>Deals 39~46 damage on recast",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -709,7 +709,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Skill speed accelerates on recast<br/>Can be used while using Seize",
+        "sub_info": "Skill speed accelerates on recast<br/>Destroy can be used while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -741,7 +741,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Skill speed accelerates on recast<br/>Can be used while using Seize",
+        "sub_info": "Skill speed accelerates on recast<br/>Destroy can be used while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -773,7 +773,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Skill speed accelerates on recast<br/>Can be used while using Seize",
+        "sub_info": "Skill speed accelerates on recast<br/>Destroy can be used while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -805,7 +805,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 45~53 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Increases speed step by 0.3 sec<br/>Skill speed accelerates on recast<br/>Can be used while using Seize",
+        "sub_info": "Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy can be used while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -837,7 +837,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 45~53 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Costs 20 chi on consecutive use<br/>Increases speed step by 0.3 sec<br/>Skill speed accelerates on recast<br/>Can be used while using Seize",
+        "sub_info": "Costs 20 chi on recast<br/>Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy can be used while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -869,7 +869,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 45~53 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Max speed<br/>Can be used while using Seize",
+        "sub_info": "Maximum speed<br/>Destroy can be used while using Seize",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -901,7 +901,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 45~53 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Ignores defense<br/>Max speed<br/>Can be used while using Seize",
+        "sub_info": "Ignores defense<br/>Maximum speed<br/>Destroy can be used while using Seize",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -933,7 +933,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 45~53 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Heals 20% of damage dealt<br/>Costs 20 chi on consecutive use<br/>Increases speed step by 0.3 sec<br/>Skill speed accelerates on recast<br/>Can be used while using Seize",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy can be used while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -965,7 +965,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 45~53 damage",
         "main_info2": "Deals an additional 6~7 damage to Downed, Dominated foes",
-        "sub_info": "Can be used instantly for free on critical hit<br/>Heals 20% of damage dealt<br/>Costs 20 chi on consecutive use<br/>Increases speed step by 0.3 sec<br/>Skill speed accelerates on recast<br/>Can be used while using Seize",
+        "sub_info": "Destroy can be instantly recast at no cost on critical hit<br/>Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy can be used while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1093,7 +1093,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_47.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Maximum speed Destroy can be used on hit",
+        "sub_info": "Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1125,7 +1125,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_47.png",
         "main_info1": "Downs foes hit for 3 sec",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Maximum speed Destroy can be used on hit",
+        "sub_info": "Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1157,7 +1157,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_47.png",
         "main_info1": "Downs foes hit for 3 sec",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Breaks defense<br/>Disables defense abilities for 5 sec on disabling defense<br/>Maximum speed Destroy can be used on hit",
+        "sub_info": "Breaks defense<br/>Disables defense abilities of defense broken foes for 5 sec<br/>Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1189,7 +1189,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_47.png",
         "main_info1": "Deals 19~22 damage",
         "main_info2": null,
-        "sub_info": "Increases threat by 50% for 6 sec<br/>Increases Defense by 100% for 6 sec<br/>Maximum speed Destroy can be used on hit",
+        "sub_info": "User generates 50% additional threat for 6 sec<br/>Increases the defense of the user by 100% for 6 sec<br/>Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1221,7 +1221,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_47.png",
         "main_info1": "Deals 19~22 damage",
         "main_info2": null,
-        "sub_info": "Taunts Stunned, Dazed foes for 3 sec<br/>Increases threat by 50% for 6 sec<br/>Increases Defense by 100% for 6 sec<br/>Maximum speed Destroy can be used on hit",
+        "sub_info": "Taunts dazed, stunned foes for 3 sec<br/>User generates 50% additional threat for 6 sec<br/>Increases the defense of the user by 100% for 6 sec<br/>Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1251,7 +1251,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Pull - 끌어오기",
         "icon": "skill_icon_destroyer_1_42.png",
-        "main_info1": "Pulls and Dazes foes hit for 2 sec",
+        "main_info1": "Pulls foes hit and dazes them for 2 sec",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Cannot be deflected",
         "consume_sp": "10",
@@ -1283,7 +1283,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Pull - 끌어오기",
         "icon": "skill_icon_destroyer_1_42.png",
-        "main_info1": "Pulls and 3 sec Dazed",
+        "main_info1": "Pulls foes hit and dazes them for 3 sec",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Cannot be deflected",
         "consume_sp": "10",
@@ -1315,7 +1315,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Pull - 끌어오기",
         "icon": "skill_icon_destroyer_1_42.png",
-        "main_info1": "Pulls and Dazes foes hit for 2 sec",
+        "main_info1": "Pulls foes hit and dazes them for 2 sec",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Cannot be deflected",
         "consume_sp": "10",
@@ -1349,7 +1349,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1381,7 +1381,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1413,7 +1413,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1445,7 +1445,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Closes distance<br/>Decreases movement speed by 30%<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes hit by 30%<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1477,7 +1477,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Deflects attacks during charge<br/>Recovers 50% Chi on Deflect<br/>Increased charge speed<br/>Closes distance<br/>Decreases movement speed by 30%<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Deflects attacks while charging<br/>Generates 50% chi on deflect<br/>Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes hit by 30%<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1509,7 +1509,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "User is invulnerable during use<br/>Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "User is invulnerable during use<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1541,7 +1541,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "User is invulnerable for 1 sec after use<br/>User is invulnerable during use<br/>Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "User is invulnerable for 1 sec after use<br/>User is invulnerable during use<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1573,7 +1573,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1605,7 +1605,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Recovers 60% Chi over 6 sec on hitting Stunned, Dazed, seized, force gripped foes<br/>Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Generates 60% chi over 6 sec on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1637,7 +1637,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Can be used up to 2 consecutive times on critical hit<br/>Recovers 60% Chi over 6 sec on hitting Stunned, Dazed, seized, force gripped foes<br/>Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 sec on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1669,7 +1669,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Can be used up to 2 consecutive times on critical hit<br/>Recovers 60% Chi over 6 sec on hitting Stunned, Dazed, seized, force gripped foes<br/>Increased charge speed<br/>Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 sec on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1699,9 +1699,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Heals 20% of maximum health over 4 sec",
+        "sub_info": "Heals the user 20% of their maximum health over 4 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1731,9 +1731,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Recovers 20% Chi on Block<br/>Heals 20% of maximum health over 4 sec",
+        "sub_info": "Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1763,9 +1763,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Heals 1% of maximum health on Block<br/>Recovers 20% Chi on Block<br/>Heals 20% of maximum health over 4 sec",
+        "sub_info": "Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1795,9 +1795,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Refreshes cooldown of Retreat on Blocking 3 attacks<br/>Heals 1% of maximum health on Block<br/>Recovers 20% Chi on Block<br/>Heals 20% of maximum health over 4 sec",
+        "sub_info": "Cooldown of Retreat is refreshed on blocking 3 attacks<br/>Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1827,9 +1827,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Ignores defense skill seal<br/>Refreshes cooldown of Retreat on Blocking 3 attacks<br/>Heals 1% of maximum health on Block<br/>Recovers 20% Chi on Block<br/>Heals 20% of maximum health over 4 sec",
+        "sub_info": "Ignores defense ability disable<br/>Cooldown of Retreat is refreshed on blocking 3 attacks<br/>Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1859,9 +1859,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Heals 20% of maximum health over 4 sec<br/>Recovers 20% Chi on Block",
+        "sub_info": "Heals the user 20% of their maximum health over 4 sec<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1891,9 +1891,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Cooldown decreased by 1 sec on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 sec<br/>Recovers 20% Chi on Block",
+        "sub_info": "Cooldown of Iron Wall is decreased by 1 sec on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 sec<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1923,9 +1923,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Cooldown decreased by 1 sec on Block<br/>Cooldown decreased by 1 sec on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 sec<br/>Recovers 20% Chi on Block",
+        "sub_info": "Cooldown of Iron Wall is decreased by 1 sec on block<br/>Cooldown of Iron Wall is decreased by 1 sec on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 sec<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1955,9 +1955,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Damage taken is reduced by 25% for nearby allies for 3 hits<br/>Heals 20% of maximum health over 4 sec<br/>Recovers 20% Chi on Block",
+        "sub_info": "User and nearby allies take 25% less damage for 3 attacks<br/>Heals the user 20% of their maximum health over 4 sec<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1987,9 +1987,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": null,
-        "sub_info": "Increases movement speed of nearby allies by 30% for 4 sec<br/>Damage taken is reduced by 25% for nearby allies for 3 hits<br/>Heals 20% of maximum health over 4 sec<br/>Recovers 20% Chi on Block",
+        "sub_info": "Increases the movement speed of the user and nearby allies by 30% for 4 sec<br/>User and nearby allies take 25% less damage for 3 attacks<br/>Heals the user 20% of their maximum health over 4 sec<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2019,9 +2019,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "8 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 8 sec",
         "main_info2": null,
-        "sub_info": "Ignores defense skill seal<br/>Increases movement speed of nearby allies by 30% for 4 sec<br/>Damage taken is reduced by 50% for nearby allies<br/>Heals 20% of maximum health over 8 sec<br/>Recovers 20% Chi on Block",
+        "sub_info": "Ignores defense ability disable<br/>Increases the movement speed of the user and nearby allies by 30% for 4 sec<br/>User and nearby allies take 50% less damage<br/>Heals the user 20% of their maximum health over 8 sec<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2051,9 +2051,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_1_7.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Stuns foes hit for 2 sec<br/>Recovers 20% Chi on Block<br/>Heals 20% of maximum health over 4 sec<br/>Cannot be deflected",
+        "sub_info": "Stuns foes hit for 2 sec<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2083,9 +2083,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_1_7.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "3 sec Stun<br/>Recovers 20% Chi on Block<br/>Heals 20% of maximum health over 4 sec<br/>Cannot be deflected",
+        "sub_info": "Stuns foes hit for 3 sec<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2115,9 +2115,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_1_7.png",
-        "main_info1": "4 sec Frontal Block",
+        "main_info1": "Blocks attacks from the front for 4 sec",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "12m Knockback and Downs foes hit for 3 sec<br/>Downs foes hit for 3 sec to foes that resist Knockback<br/>Downs foes hit for 3 sec to foes can be chained with Knockback<br/>Recovers 20% Chi on Block<br/>Heals 20% of maximum health over 4 sec<br/>Cannot be deflected",
+        "sub_info": "Knocks back foes hit 12m and downs them for 3 sec<br/>Downs foes that resist knock back for 3 sec<br/>Downs foes that can be chained with knock back for 3 sec<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2213,7 +2213,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": "Deals 84~98 damage over 8 sec",
-        "sub_info": "Recovers 10% Chi per enemy hit",
+        "sub_info": "Generates 10% chi per foe hit",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2245,7 +2245,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": "Deals 84~98 damage over 8 sec",
-        "sub_info": "Recovers 10% Chi per enemy hit",
+        "sub_info": "Generates 10% chi per foe hit",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2276,8 +2276,8 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec<br/>Stacks Deals 21~25 damage starting from the second hit",
-        "sub_info": "Recovers 10% Chi per enemy hit",
+        "main_info2": "Deals 84~98 damage over 8 sec<br/>Deals an additional 21~25 damage per consecutive hit",
+        "sub_info": "Generates 10% chi per foe hit",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2309,7 +2309,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": "Deals 84~98 damage over 8 sec",
-        "sub_info": "Decreases movement speed by 40%<br/>Doubles health regeneration from damage dealt within area",
+        "sub_info": "Decreases the movement speed of foes hit by 40%<br/>Doubles healing from damage dealt within the area",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2341,7 +2341,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": "Deals 84~98 damage over 8 sec",
-        "sub_info": "Decreases movement speed by 40%<br/>Increases Defense by 200% within area<br/>Doubles health regeneration from damage dealt within area",
+        "sub_info": "Decreases the movement speed of foes hit by 40%<br/>Increases the defense of the user by 200% while within the area<br/>Doubles healing from damage dealt within the area",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2373,7 +2373,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": "Deals 84~98 damage over 8 sec",
-        "sub_info": "Decreases movement speed by 40%<br/>Immune to Stun, Dazed, Down, Knockback<br/>Increases Defense by 200% within area<br/>Doubles health regeneration from damage dealt within area",
+        "sub_info": "Decreases the movement speed of foes hit by 40%<br/>User is immune to down, daze, stun, knock back while within the area<br/>Increases the defense of the user by 200% while within the area<br/>Doubles healing from damage dealt within the area",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2404,7 +2404,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals an additional 54~63 damage to Downed, Dominated foes on first hit<br/>Deals 84~98 damage over 8 sec",
+        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Deals 84~98 damage over 8 sec",
         "sub_info": null,
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2436,8 +2436,8 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals an additional 54~63 damage to Downed, Dominated foes on first hit<br/>Deals 84~98 damage over 8 sec",
-        "sub_info": "Deals an additional 6~7 damage per hit within area",
+        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Deals 84~98 damage over 8 sec",
+        "sub_info": "All attacks dealt while within the area deal an additional 6~7 damage",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2468,8 +2468,8 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals an additional 54~63 damage to Downed, Dominated foes on first hit<br/>Deals 84~98 damage over 8 sec",
-        "sub_info": "Max speed Destroy, Fury can be used within area<br/>Deals an additional 6~7 damage per hit within area",
+        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Deals 84~98 damage over 8 sec",
+        "sub_info": "Maximum speed Destroy, Fury is available while within the area<br/>All attacks dealt while within the area deal an additional 6~7 damage",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2501,7 +2501,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_44.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Removes Stun, Dazed, Down, Unconscious from allies",
+        "sub_info": "Removes down, daze, stun, unconscious status from nearby allies",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2533,7 +2533,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_44.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Heals allies 5% of maximum health<br/>Removes Stun, Dazed, Down, Unconscious from allies",
+        "sub_info": "Heals the user and allies within the area 5% of their maximum health<br/>Removes down, daze, stun, unconscious status from nearby allies",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2565,7 +2565,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_44.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Decreases Meditation time of allies by 6 sec<br/>Meditating allies within area are immune to damage and control effects<br/>Heals allies 5% of maximum health<br/>Removes Stun, Dazed, Down, Unconscious from allies",
+        "sub_info": "Decreases the meditaion time of meditating allies by 6 sec<br/>Meditating allies within the area are invulnerable<br/>Heals the user and allies within the area 5% of their maximum health<br/>Removes down, daze, stun, unconscious status from nearby allies",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2629,7 +2629,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_5.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 23~27 damage<br/>Decreases movement speed by 30%",
+        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes hit by 30%",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2661,7 +2661,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_5.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 23~27 damage<br/>Decreases movement speed by 30%<br/>Disables charge abilities of foes hit for 6 sec",
+        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes hit by 30%<br/>Disables charge abilities of foes hit for 6 sec",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2693,7 +2693,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_5.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 23~27 damage<br/>Decreases movement speed by 30%<br/>Disables charge abilities of foes hit for 6 sec<br/>Ignores defense",
+        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes hit by 30%<br/>Disables charge abilities of foes hit for 6 sec<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2725,7 +2725,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_5.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 23~27 damage<br/>Decreases movement speed by 30%<br/>Disables charge abilities of foes hit for 6 sec<br/>Ignores defense",
+        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes hit by 30%<br/>Disables charge abilities of foes hit for 6 sec<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2755,7 +2755,7 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Catapult - 쳐올리기",
         "icon": "skill_icon_destroyer_0_23.png",
-        "main_info1": "Knockup",
+        "main_info1": "Knocks up foes hit",
         "main_info2": null,
         "sub_info": "Deals 30~35 damage",
         "consume_sp": "20",
@@ -2787,9 +2787,9 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Catapult - 쳐올리기",
         "icon": "skill_icon_destroyer_0_23.png",
-        "main_info1": "Knockup",
+        "main_info1": "Knocks up foes hit",
         "main_info2": null,
-        "sub_info": "Cooldown refreshed on critical hit with Abyss<br/>Deals 30~35 damage",
+        "sub_info": "Cooldown of Catapult is refreshed on critical hit with Abyss<br/>Deals 30~35 damage",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2819,9 +2819,9 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Catapult - 쳐올리기",
         "icon": "skill_icon_destroyer_0_23.png",
-        "main_info1": "Knockup",
+        "main_info1": "Knocks up foes hit",
         "main_info2": null,
-        "sub_info": "Cooldown refreshed on critical hit with Abyss<br/>Deals 30~35 damage",
+        "sub_info": "Cooldown of Catapult is refreshed on critical hit with Abyss<br/>Deals 30~35 damage",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2851,7 +2851,7 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Catapult - 쳐올리기",
         "icon": "skill_icon_destroyer_0_23.png",
-        "main_info1": "Knockup",
+        "main_info1": "Knocks up foes hit",
         "main_info2": null,
         "sub_info": "Deals 54~63 damage",
         "consume_sp": "20",
@@ -2883,9 +2883,9 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Catapult - 쳐올리기",
         "icon": "skill_icon_destroyer_0_23.png",
-        "main_info1": "Knockup",
+        "main_info1": "Knocks up foes hit",
         "main_info2": null,
-        "sub_info": "Deals 54~63 damage<br/>Decreases Defense by 20% for 5 sec",
+        "sub_info": "Deals 54~63 damage<br/>Decreases the defense of foes hit by 20% for 5 sec",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2915,9 +2915,9 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Catapult - 쳐올리기",
         "icon": "skill_icon_destroyer_0_23.png",
-        "main_info1": "Knockup",
+        "main_info1": "Knocks up foes hit",
         "main_info2": null,
-        "sub_info": "Deals 54~63 damage<br/>Closes distance<br/>Decreases Defense by 20% for 5 sec",
+        "sub_info": "Deals 54~63 damage<br/>Charge to the target<br/>Decreases the defense of foes hit by 20% for 5 sec",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2947,7 +2947,7 @@ var skill_data_DE = {
         "id": "24081",
         "name": "Reversal - 천지뒤집기",
         "icon": "skill_icon_destroyer_1_22.png",
-        "main_info1": "Knockup seized enemy",
+        "main_info1": "Knocks up the seized foe",
         "main_info2": null,
         "sub_info": "Deals 54~63 damage",
         "consume_sp": "20",
@@ -2981,7 +2981,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3013,7 +3013,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3045,7 +3045,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3077,7 +3077,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3109,7 +3109,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3141,7 +3141,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3173,7 +3173,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "On critical hit  Catapult - 쳐올리기 Cooldown 시간 s기화<br/>Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "On critical hit  Catapult - 쳐올리기 Cooldown 시간 s기화<br/>Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3205,7 +3205,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "적 처치 시  모든 무공 Cooldown 시간 s기화<br/>On critical hit  Catapult - 쳐올리기 Cooldown 시간 s기화<br/>Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "적 처치 시  모든 무공 Cooldown 시간 s기화<br/>On critical hit  Catapult - 쳐올리기 Cooldown 시간 s기화<br/>Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3237,7 +3237,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3269,7 +3269,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3301,7 +3301,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Downs foes hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Ends Airborne<br/>Deals 82~95 damage<br/>Increases Evade Chance by 100% during use<br/>Ignores defense",
+        "sub_info": "Ends the target's airborne status<br/>Deals 82~95 damage<br/>Increases the evade chance of the user by 100% during use<br/>Ignores defense",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3329,11 +3329,11 @@ var skill_data_DE = {
     },
     "Destroyer_Protection_Wrath_Lv1": {
         "id": "24090",
-        "name": "Rage - 분노",
+        "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "4 sec Rage",
+        "main_info1": "User is Enraged for 4 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 120% Chi during Rage<br/>Decreases user's Defense by 100%",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3355,17 +3355,17 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
     "Destroyer_Protection_Wrath_1000": {
         "id": "24090",
-        "name": "Rage - 분노",
+        "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "4 sec Rage",
+        "main_info1": "User is Enraged for 4 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 120% Chi during Rage<br/>Decreases user's Defense by 100%<br/>Immune to Stun, Dazed, Knockback during Rage",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3387,17 +3387,17 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
     "Destroyer_Protection_Wrath_2000": {
         "id": "24090",
-        "name": "Rage - 분노",
+        "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "4 sec Rage",
+        "main_info1": "User is Enraged for 4 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 120% Chi during Rage<br/>Decreases user's Defense by 100%<br/>Immune to Stun, Dazed, Knockback during Rage<br/>Increases Critical Hit Chance by 100% during Rage",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3419,17 +3419,17 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
     "Destroyer_Protection_Wrath_3000": {
         "id": "24090",
-        "name": "Rage - 분노",
+        "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "4 sec Rage",
+        "main_info1": "User is Enraged for 4 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 120% Chi during Rage<br/>Decreases user's Defense by 100%<br/>Immune to Stun, Dazed, Knockback during Rage<br/>Increases Critical Hit Chance by 100% during Rage<br/>Increases Critical Hit Damage by 5% during Rage",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3451,17 +3451,17 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
     "Destroyer_Protection_Wrath_4000": {
         "id": "24090",
-        "name": "Rage - 분노",
+        "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "6 sec Rage",
+        "main_info1": "User is Enraged for 6 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 180% Chi during Rage<br/>Decreases user's Defense by 100%<br/>Immune to Stun, Dazed, Knockback during Rage<br/>Increases Critical Hit Chance by 100% during Rage<br/>Increases Critical Hit Damage by 5% during Rage",
+        "sub_info": "User is invulnerable on use<br/>Generates 180% chi over 6 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3483,17 +3483,17 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
     "Destroyer_Protection_Wrath_5000": {
         "id": "24090",
-        "name": "Rage - 분노",
+        "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "6 sec Rage",
+        "main_info1": "User is Enraged for 6 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 180% Chi during Rage<br/>Decreases user's Defense by 100%<br/>Immune to Stun, Dazed, Knockback during Rage<br/>Increases Critical Hit Chance by 100% during Rage<br/>Increases Critical Hit Damage by 5% during Rage<br/>Refreshes cooldown of Pulverize",
+        "sub_info": "User is invulnerable on use<br/>Generates 180% chi over 6 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged<br/>Cooldown of Annihilate is refreshed on use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3515,7 +3515,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
@@ -3523,9 +3523,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "5 sec Adamant",
+        "main_info1": "User is Adamant for 6 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 150% Chi during Adamant<br/>Increases Defense by 400% during Adamant<br/>Immune to Stun, Dazed, Knockback during Adamant<br/>Ignores slow, movement seal during Adamant",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3547,7 +3547,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
@@ -3555,9 +3555,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "5 sec Adamant",
+        "main_info1": "User is Adamant for 6 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 150% Chi during Adamant<br/>Recovers 100% Chi on taking hit during Adamant<br/>Increases Defense by 400% during Adamant<br/>Immune to Stun, Dazed, Knockback during Adamant<br/>Ignores slow, movement seal during Adamant",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3579,7 +3579,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m"
+                "value": "1 min"
             }
         }
     },
@@ -3587,9 +3587,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "5 sec Adamant",
+        "main_info1": "User is Adamant for 6 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 150% Chi during Adamant<br/>Recovers 100% Chi on taking hit during Adamant<br/>Increases Defense by 400% during Adamant<br/>Immune to Stun, Dazed, Knockback during Adamant<br/>Ignores slow, movement seal during Adamant<br/>Escape from Stun, Dazed",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant<br/>Escape from dazed, stunned status",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3611,7 +3611,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m 30 sec"
+                "value": "1 min 30 sec"
             }
         }
     },
@@ -3619,9 +3619,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "5 sec Adamant",
+        "main_info1": "User is Adamant for 6 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Recovers 150% Chi during Adamant<br/>Recovers 100% Chi on taking hit during Adamant<br/>Increases Defense by 400% during Adamant<br/>Immune to Stun, Dazed, Knockback during Adamant<br/>Ignores slow, movement seal during Adamant<br/>Escape from Stun, Dazed<br/>Refreshes cooldown of Iron Wall",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant<br/>Escape from dazed, stunned status<br/>Cooldown of Iron Wall is refreshed on use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3643,7 +3643,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1m 30 sec"
+                "value": "1 min 30 sec"
             }
         }
     },
@@ -3717,7 +3717,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_19.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 30~35 damage over 2 hits",
-        "sub_info": "Heals 50% of damage dealt",
+        "sub_info": "Heals the user 50% of the damage dealt",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3749,7 +3749,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_19.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 30~35 damage over 2 hits",
-        "sub_info": "Heals 50% of damage dealt<br/>Recovers 30% Chi on Resist",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 30% chi on resist",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3781,7 +3781,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_19.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 30~35 damage over 2 hits",
-        "sub_info": "Heals 50% of damage dealt<br/>Recovers 30% Chi on Resist<br/>Heals 5% of maximum health on Resist",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 30% chi on resist<br/>Heals the user 5% of their maximum health on resist",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3812,7 +3812,7 @@ var skill_data_DE = {
         "name": "Inflaming Wheel - 격화륜",
         "icon": "skill_icon_destroyer_1_32.png",
         "main_info1": "Deals 24~28 damage",
-        "main_info2": "Deals an additional 72~84 damage to Stunned, Dazed foes",
+        "main_info2": "Deals an additional 72~84 damage to dazed, stunned foes",
         "sub_info": null,
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -3844,8 +3844,8 @@ var skill_data_DE = {
         "name": "Inflaming Wheel - 격화륜",
         "icon": "skill_icon_destroyer_1_32.png",
         "main_info1": "Deals 24~28 damage",
-        "main_info2": "Deals an additional 72~84 damage to Stunned, Dazed foes",
-        "sub_info": "Can be used 1 more time after use",
+        "main_info2": "Deals an additional 72~84 damage to dazed, stunned foes",
+        "sub_info": "Inflaming Wheel can be recast 1 more time after use",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3876,8 +3876,8 @@ var skill_data_DE = {
         "name": "Inflaming Wheel - 격화륜",
         "icon": "skill_icon_destroyer_1_32.png",
         "main_info1": "Deals 60~70 damage",
-        "main_info2": "Deals an additional 72~84 damage to Stunned, Dazed foes",
-        "sub_info": "Can be used 1 more time after use",
+        "main_info2": "Deals an additional 72~84 damage to dazed, stunned foes",
+        "sub_info": "Inflaming Wheel can be recast 1 more time after use",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3907,9 +3907,9 @@ var skill_data_DE = {
         "id": "24091",
         "name": "Inflaming Wheel - 격화륜",
         "icon": "skill_icon_destroyer_1_32.png",
-        "main_info1": "Knockup Stunned, Dazed foes",
+        "main_info1": "Knocks up dazed, stunned foes",
         "main_info2": "Deals 24~28 damage",
-        "sub_info": "Deals an additional 72~84 damage to Stunned, Dazed foes",
+        "sub_info": "Deals an additional 72~84 damage to dazed, stunned foes",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3939,9 +3939,9 @@ var skill_data_DE = {
         "id": "24091",
         "name": "Inflaming Wheel - 격화륜",
         "icon": "skill_icon_destroyer_1_32.png",
-        "main_info1": "Knockup Stunned, Dazed foes",
+        "main_info1": "Knocks up dazed, stunned foes",
         "main_info2": "Deals 24~28 damage",
-        "sub_info": "Deals an additional 72~84 damage to Stunned, Dazed foes<br/>0.5 sec Deflect",
+        "sub_info": "Deals an additional 72~84 damage to dazed, stunned foes<br/>Deflects multiple attacks for 0.5 sec",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3972,7 +3972,7 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 30~35 damage to Stunned, Dazed, seized, force gripped foes",
+        "main_info2": "Deals an additional 30~35 damage to dazed, stunned, seized, force gripped foes",
         "sub_info": null,
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -4004,7 +4004,7 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 78~91 damage to Stunned, Dazed, seized, force gripped foes",
+        "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "sub_info": null,
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -4036,8 +4036,8 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 78~91 damage to Stunned, Dazed, seized, force gripped foes",
-        "sub_info": "Closes distance",
+        "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Charge to the target",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4068,8 +4068,8 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 78~91 damage to Stunned, Dazed, seized, force gripped foes",
-        "sub_info": "Can be used up to 2 consecutive times on critical hit on Stunned, Dazed, seized, force gripped foes<br/>Closes distance",
+        "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Annihilate can be recast up to 2 times on critical hit to dazed, stunned, seized, force gripped foes<br/>Charge to the target",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4100,8 +4100,8 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 78~91 damage to Stunned, Dazed, seized, force gripped foes",
-        "sub_info": "Cooldown refreshed on kill<br/>Can be used up to 2 consecutive times on critical hit on Stunned, Dazed, seized, force gripped foes<br/>Closes distance",
+        "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Cooldown of Annihilate is refreshed on kill<br/>Annihilate can be recast up to 2 times on critical hit to dazed, stunned, seized, force gripped foes<br/>Charge to the target",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4132,8 +4132,8 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Heals 100% of damage dealt",
-        "sub_info": "Heals 150% of damage dealt on hitting Stunned, Dazed, seized, force gripped foes",
+        "main_info2": "Heals the user 100% of the damage dealt",
+        "sub_info": "Heals the user 150% of the damage dealt on hitting dazed, stunned, seized, force gripped foes",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4164,8 +4164,8 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Heals 100% of damage dealt",
-        "sub_info": "Heals 150% of damage dealt on hitting Stunned, Dazed, seized, force gripped foes<br/>Recovers 100% Chi over 5 sec",
+        "main_info2": "Heals the user 100% of the damage dealt",
+        "sub_info": "Heals the user 150% of the damage dealt on hitting dazed, stunned, seized, force gripped foes<br/>Generates 100% chi over 5 sec",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4196,8 +4196,8 @@ var skill_data_DE = {
         "name": "Annihilate - 분쇄",
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Heals 100% of damage dealt",
-        "sub_info": "Heals 150% of damage dealt on hitting Stunned, Dazed, seized, force gripped foes<br/>Heals 2% of maximum health over 5 sec on hit<br/>Recovers 100% Chi over 5 sec",
+        "main_info2": "Heals the user 100% of the damage dealt",
+        "sub_info": "Heals the user 150% of the damage dealt on hitting dazed, stunned, seized, force gripped foes<br/>Heals the user 2% of their maximum health over 5 sec on hit<br/>Generates 100% chi over 5 sec",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4227,9 +4227,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "4 sec Seize",
+        "main_info1": "Seize the target for 4 sec",
         "main_info2": null,
-        "sub_info": "Frontal Block duing use<br/>Frontal Block not applied to large foes",
+        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4259,9 +4259,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Frontal Block duing use<br/>Frontal Block not applied to large foes",
+        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4291,9 +4291,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Decreases Defense by 10% per hit<br/>Defense reduction stacks up to 5 times<br/>Frontal Block duing use<br/>Frontal Block not applied to large foes",
+        "sub_info": "Decreases the defense of the seized foe by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4323,9 +4323,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Decreases Defense by 10% per hit<br/>Defense reduction stacks up to 5 times<br/>10% Chi damage per hit<br/>Frontal Block duing use<br/>Frontal Block not applied to large foes",
+        "sub_info": "Decreases the defense of the seized foe by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Seized foe takes 10% chi damage whenever they are attacked<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4355,9 +4355,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Closes distance<br/>Decreases Defense by 10% per hit<br/>Defense reduction stacks up to 5 times<br/>10% Chi damage per hit<br/>Frontal Block duing use<br/>Frontal Block not applied to large foes",
+        "sub_info": "Charge to the target<br/>Decreases the defense of the seized foe by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Seized foe takes 10% chi damage whenever they are attacked<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4387,9 +4387,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Frontal Block duing use<br/>Frontal Block not applied to large foes<br/>Recovers 20% Chi on hitting the enemy",
+        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized foe generates 20% of their maximum chi",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4419,9 +4419,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Frontal Block duing use<br/>Frontal Block not applied to large foes<br/>Recovers 20% Chi on hitting the enemy<br/>Increases Critical by 5% on hitting the enemy<br/>Critical increase stacks up to 10 times<br/>Critical increase effect ends on critical hit",
+        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized foe generates 20% of their maximum chi<br/>Increases the critical of whoever attacks the seized foe by 5%<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4451,9 +4451,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Frontal Block duing use<br/>Frontal Block not applied to large foes<br/>Recovers 20% Chi on hitting the enemy<br/>Increases Critical by 5% on hitting the enemy<br/>Critical increase stacks up to 10 times<br/>Critical increase effect ends on critical hit<br/>Recovers 150% Chi over 5 sec on critically hitting the enemy",
+        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized foe generates 20% of their maximum chi<br/>Increases the critical of whoever attacks the seized foe by 5%<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit<br/>Whoever critically hits the seized foe generates 150% chi over 5 sec",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4483,9 +4483,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Frontal Block duing use<br/>Frontal Block not applied to large foes<br/>Recovers 20% Chi on hitting the enemy<br/>Damage taken is reduced by 10%",
+        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized foe generates 20% of their maximum chi<br/>User takes 10% less damage",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4515,9 +4515,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Frontal Block duing use<br/>Recovers 60% Chi over 6 sec<br/>Frontal Block not applied to large foes<br/>Recovers 20% Chi on hitting the enemy<br/>Heals 3% of maximum health on disabling defense<br/>Damage taken is reduced by 10%",
+        "sub_info": "Blocks attacks from the front during use<br/>Generates 60% chi over 6 sec<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized foe generates 20% of their maximum chi<br/>Heals the user 3% of their maximum health on breaking defense<br/>User takes 10% less damage",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4547,9 +4547,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "6 sec Seize",
+        "main_info1": "Seize the target for 6 sec",
         "main_info2": null,
-        "sub_info": "Heals 12% of maximum health over 6 sec<br/>Frontal Block duing use<br/>Frontal Block not applied to large foes<br/>Recovers 20% Chi on hitting the enemy<br/>Damage taken is reduced by 10%",
+        "sub_info": "Heals the user 12% of their maximum health over 6 sec<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized foe generates 20% of their maximum chi<br/>User takes 10% less damage",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4613,7 +4613,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_59.png",
         "main_info1": "Dazes foes hit for 2 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Recovers 30% Chi on critical hit",
+        "sub_info": "Generates 30% chi on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4643,9 +4643,9 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "3 sec Dazed",
+        "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Recovers 30% Chi on critical hit",
+        "sub_info": "Generates 30% chi on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4675,9 +4675,9 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "3 sec Dazed",
+        "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Recovers 30% Chi on critical hit<br/>Decreases movement speed by 40%",
+        "sub_info": "Generates 30% chi on critical hit<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4707,9 +4707,9 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "3 sec Dazed",
+        "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Recovers 30% Chi on critical hit<br/>Decreases movement speed by 40%<br/>Can be used 1 more time on miss",
+        "sub_info": "Generates 30% chi on critical hit<br/>Decreases the movement speed of foes hit by 40%<br/>Knee Kick can be recast 1 more time on miss",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4739,9 +4739,9 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "3 sec Dazed",
+        "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Recovers 30% Chi on critical hit",
+        "sub_info": "Generates 30% chi on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4771,9 +4771,9 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "3 sec Dazed",
+        "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Recovers 30% Chi on critical hit<br/>Maximum speed Destroy can be used on hit",
+        "sub_info": "Generates 30% chi on critical hit<br/>Maximum speed Destroy is available on hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4803,9 +4803,9 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "3 sec Dazed",
+        "main_info1": "Dazes foes hit for 3 sec",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Recovers 30% Chi on critical hit<br/>Closes distance<br/>Maximum speed Destroy can be used on hit",
+        "sub_info": "Generates 30% chi on critical hit<br/>Charge to the target<br/>Maximum speed Destroy is available on hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4837,7 +4837,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Ends Seize",
+        "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4869,7 +4869,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Ends Seize<br/>Decreases Defense by 50%",
+        "sub_info": "Decreases the defense of the seized foe by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4901,7 +4901,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Ends Seize<br/>Decreases Defense by 50%<br/>Decreases Regeneration by 20%",
+        "sub_info": "Decreases the defense of the seized foe by 50%<br/>Decreases the healing of the seized foe by 20%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4933,7 +4933,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Ends Seize<br/>Decreases Defense by 50%<br/>Decreases Regeneration by 20%<br/>Guaranteed critical hit for next attack",
+        "sub_info": "Decreases the defense of the seized foe by 50%<br/>Decreases the healing of the seized foe by 20%<br/>Next attack has guaranteed critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4965,7 +4965,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Ends Seize<br/>Decreases Defense by 50%<br/>Decreases Regeneration by 20%<br/>Guaranteed critical hit for next attack<br/>Refreshes cooldown of Seize on kill",
+        "sub_info": "Decreases the defense of the seized foe by 50%<br/>Decreases the healing of the seized foe by 20%<br/>Next attack has guaranteed critical hit<br/>Cooldown of Seize is refreshed on kill",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4997,7 +4997,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Ends Seize<br/>Decreases Defense by 50%",
+        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Decreases the defense of the seized foe by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5029,7 +5029,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Ends Seize<br/>Decreases Defense by 50%<br/>Decreases movement speed by 40%",
+        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Decreases the defense of the seized foe by 50%<br/>Decreases the movement speed of the seized foe by 40%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5061,7 +5061,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Seals defense disable skills for 5 sec<br/>Ends Seize<br/>Decreases Defense by 50%<br/>Decreases movement speed by 40%",
+        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Disables defense abilities of the seized foe for 5 sec<br/>Decreases the defense of the seized foe by 50%<br/>Decreases the movement speed of the seized foe by 40%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5093,7 +5093,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Heals 50% of damage dealt<br/>Downs foes hit for 3 sec",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Downs foes hit for 3 sec",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5125,7 +5125,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Heals 50% of damage dealt<br/>Downs foes hit for 3 sec",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Downs foes hit for 3 sec",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5157,7 +5157,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec<br/>Deals 18~21 damage<br/>Heals 50% of damage dealt",
+        "sub_info": "Downs foes hit for 3 sec<br/>Deals 18~21 damage<br/>Heals the user 50% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5189,7 +5189,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec<br/>Deals 18~21 damage<br/>Heals 100% of damage dealt",
+        "sub_info": "Downs foes hit for 3 sec<br/>Deals 18~21 damage<br/>Heals the user 100% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5221,7 +5221,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec<br/>Deals 18~21 damage<br/>Heals 100% of damage dealt<br/>Recovers 20% Chi on Resist<br/>Heals 3% of maximum health on Resist",
+        "sub_info": "Downs foes hit for 3 sec<br/>Deals 18~21 damage<br/>Heals the user 100% of the damage dealt<br/>Generates 20% chi on resist<br/>Heals the user 3% of their maximum health on resist",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5253,7 +5253,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "3 sec Dazed to nearby foes<br/>Downs foes hit for 3 sec to seized enemy<br/>Applies 12 sec Internal Bleeding to seized enemy",
+        "sub_info": "Dazes nearby foes for 3 sec<br/>Downs the seized foe for 3 sec<br/>Applies 12 sec Internal Bleeding to seized foe",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5285,7 +5285,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "3 sec Dazed to nearby foes<br/>Downs foes hit for 3 sec to seized enemy<br/>Applies 12 sec Internal Bleeding to seized enemy",
+        "sub_info": "Dazes nearby foes for 3 sec<br/>Downs the seized foe for 3 sec<br/>Applies 12 sec Internal Bleeding to seized foe",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5317,7 +5317,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "3 sec Dazed to nearby foes<br/>Downs foes hit for 3 sec to seized enemy<br/>Applies 12 sec Internal Bleeding to seized enemy",
+        "sub_info": "Dazes nearby foes for 3 sec<br/>Downs the seized foe for 3 sec<br/>Applies 12 sec Internal Bleeding to seized foe",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5347,9 +5347,9 @@ var skill_data_DE = {
         "id": "24150",
         "name": "Throw - 던지기",
         "icon": "skill_icon_destroyer_0_63.png",
-        "main_info1": "Throw up to 15m",
+        "main_info1": "Throws the seized foe up to 15m",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec to nearby foes<br/>Deals 54~63 damage<br/>Decreases movement speed by 40% to nearby foes",
+        "sub_info": "Downs nearby foes for 3 sec<br/>Deals 54~63 damage<br/>Decreases the movement speed of foes hit by 40%",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5379,9 +5379,9 @@ var skill_data_DE = {
         "id": "24150",
         "name": "Throw - 던지기",
         "icon": "skill_icon_destroyer_0_63.png",
-        "main_info1": "Throw up to 15m",
+        "main_info1": "Throws the seized foe up to 15m",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "Downs foes hit for 3 sec to nearby foes<br/>Decreases movement speed by 30% for 6 sec to nearby foes<br/>Disables charge abilities of foes hit for 6 sec",
+        "sub_info": "Downs nearby foes for 3 sec<br/>Decreases the movement speed of foes hit by 30%<br/>Disables charge abilities of foes hit for 6 sec",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5411,9 +5411,9 @@ var skill_data_DE = {
         "id": "24150",
         "name": "Throw - 던지기",
         "icon": "skill_icon_destroyer_0_63.png",
-        "main_info1": "Throw up to 15m",
+        "main_info1": "Throws the seized foe up to 15m",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "30 sec Unconscious to thrown enemy<br/>Downs foes hit for 3 sec to nearby foes<br/>Decreases movement speed by 30% for 6 sec to nearby foes<br/>Disables charge abilities of foes hit for 6 sec",
+        "sub_info": "Knocks the thrown foe unconscious for 30 sec<br/>Downs nearby foes for 3 sec<br/>Decreases the movement speed of foes hit by 30%<br/>Disables charge abilities of foes hit for 6 sec",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5443,9 +5443,9 @@ var skill_data_DE = {
         "id": "24150",
         "name": "Throw - 던지기",
         "icon": "skill_icon_destroyer_0_63.png",
-        "main_info1": "Throw to targeted area",
+        "main_info1": "Throws the seized foe to the target",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "30 sec Unconscious to thrown enemy<br/>Downs foes hit for 3 sec to nearby foes<br/>Decreases movement speed by 30% for 6 sec to nearby foes<br/>Disables charge abilities of foes hit for 6 sec",
+        "sub_info": "Knocks the thrown foe unconscious for 30 sec<br/>Downs nearby foes for 3 sec<br/>Decreases the movement speed of foes hit by 30%<br/>Disables charge abilities of foes hit for 6 sec",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5475,9 +5475,9 @@ var skill_data_DE = {
         "id": "24150",
         "name": "Throw - 던지기",
         "icon": "skill_icon_destroyer_0_63.png",
-        "main_info1": "Throw to targeted area",
+        "main_info1": "Throws the seized foe to the target",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "30 sec Unconscious to thrown enemy<br/>Downs foes hit for 3 sec to nearby foes<br/>Decreases movement speed by 30% for 6 sec to nearby foes<br/>Disables charge abilities of foes hit for 6 sec",
+        "sub_info": "Knocks the thrown foe unconscious for 30 sec<br/>Downs nearby foes for 3 sec<br/>Decreases the movement speed of foes hit by 30%<br/>Disables charge abilities of foes hit for 6 sec",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5701,7 +5701,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases movement speed by 30% for 6 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5733,7 +5733,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases movement speed by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of the user's maximum health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of the user's maximum health that lasts for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5893,7 +5893,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_46.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "Increases movement speed by 30%<br/>User is invulnerable during use",
+        "sub_info": "Increases the movement speed of the user by 30%<br/>User is invulnerable during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5925,7 +5925,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_46.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "Recovers 30% Chi on Resist<br/>Increases movement speed by 30%<br/>User is invulnerable during use",
+        "sub_info": "Generates 30% chi on resist<br/>Increases the movement speed of the user by 30%<br/>User is invulnerable during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5957,7 +5957,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_46.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 1 sec after use<br/>Recovers 30% Chi on Resist<br/>Increases movement speed by 30%<br/>User is invulnerable during use",
+        "sub_info": "User is invulnerable for 1 sec after use<br/>Generates 30% chi on resist<br/>Increases the movement speed of the user by 30%<br/>User is invulnerable during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5989,7 +5989,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Closes distance<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Charge to the target<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6021,7 +6021,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Stuns foes hit for 2 sec",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Closes distance<br/>Ignores defense on use during Dash Jump, Glide<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6051,9 +6051,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "3 sec Stun",
+        "main_info1": "Stuns foes hit for 3 sec",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Closes distance<br/>Ignores defense on use during Dash Jump, Glide<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6083,9 +6083,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "3 sec Stun",
+        "main_info1": "Stuns foes hit for 3 sec",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Closes distance<br/>Decreases movement speed by 40%<br/>Ignores defense on use during Dash Jump, Glide<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes hit by 40%<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6115,9 +6115,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "3 sec Stun",
+        "main_info1": "Stuns foes hit for 3 sec",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Closes distance<br/>Decreases movement speed by 40%<br/>Ignores defense on use during Dash Jump, Glide<br/>Extends Stun, Dazed, Down by 2 sec",
+        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes hit by 40%<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the target's downed, dazed, stunned status up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6147,9 +6147,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Pulls",
+        "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Closes distance<br/>Cannot be deflected<br/>Ignores defense on use during Dash Jump, Glide",
+        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignores defense when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6179,9 +6179,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Pulls",
+        "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Closes distance<br/>Cannot be deflected<br/>Ignores defense on use during Dash Jump, Glide",
+        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignores defense when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6211,9 +6211,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Pulls",
+        "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Closes distance<br/>Can be used up to 2 consecutive times on critical hit<br/>Cannot be deflected<br/>Ignores defense on use during Dash Jump, Glide",
+        "sub_info": "Charge to the target<br/>Earthquake can be recast up to 2 times on critical hit<br/>Cannot be deflected<br/>Ignores defense when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6245,7 +6245,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Closes distance<br/>Ignores defense on use during Dash Jump, Glide",
+        "sub_info": "Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6277,7 +6277,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Heals 50% of damage dealt per enemy hit<br/>Recovers 20% Chi per enemy hit<br/>Closes distance<br/>Ignores defense on use during Dash Jump, Glide",
+        "sub_info": "Heals the user 50% of the damage dealt per foe hit<br/>Generates 20% chi per foe hit<br/>Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
@@ -6309,7 +6309,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Decreases cooldown of Iron Wall by 15 sec on Resist<br/>Heals 50% of damage dealt per enemy hit<br/>Recovers 20% Chi per enemy hit<br/>Closes distance<br/>Ignores defense on use during Dash Jump, Glide",
+        "sub_info": "Cooldown of Iron Wall is decreased by 15 sec on resist<br/>Heals the user 50% of the damage dealt per foe hit<br/>Generates 20% chi per foe hit<br/>Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
@@ -6371,9 +6371,9 @@ var skill_data_DE = {
         "id": "24201",
         "name": "Cleave - 둥치가르기",
         "icon": "skill_icon_destroyer_1_38.png",
-        "main_info1": "Escape from Seize, Force Grip",
+        "main_info1": "Escape from seized, force gripped status when used at the target's attack timing",
         "main_info2": "Deals 24~28 damage",
-        "sub_info": "Effect activates when used at enemy attack timing",
+        "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6435,9 +6435,9 @@ var skill_data_DE = {
         "id": "24207",
         "name": "Shove - 밀쳐내기",
         "icon": "skill_icon_destroyer_1_37.png",
-        "main_info1": "Escape from Dominate",
+        "main_info1": "Escape from suppressed status when used at the target's attack timing",
         "main_info2": "Deals 24~28 damage",
-        "sub_info": "Effect activates when used at the enemiy attack timing",
+        "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6467,9 +6467,9 @@ var skill_data_DE = {
         "id": "24220",
         "name": "Reprisal - 보복",
         "icon": "skill_icon_destroyer_0_52.png",
-        "main_info1": "1.2 sec Counter up to 8m",
+        "main_info1": "1.2 sec counter from attacks up to 8m away",
         "main_info2": null,
-        "sub_info": "Downs foes hit for 3 sec on Counter<br/>Deals 12~14 damage on Counter",
+        "sub_info": "Downs the countered foe for 3 sec on counter<br/>Deals 12~14 damage on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6499,9 +6499,9 @@ var skill_data_DE = {
         "id": "24230",
         "name": "Rising Hurricane - 기상광풍",
         "icon": "skill_icon_destroyer_1_9.png",
-        "main_info1": "다운 상태 Escape - 탈출",
-        "main_info2": null,
-        "sub_info": "Deals 12~14 damage<br/>User becomes Downed for 1 sec on taking hit during use",
+        "main_info1": "Escape from downed status",
+        "main_info2": "Deals 12~14 damage",
+        "sub_info": "User is downed for 1 sec if they are attacked during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6531,9 +6531,9 @@ var skill_data_DE = {
         "id": "24240",
         "name": "Backward Roll - 뒤구르기",
         "icon": "skill_icon_destroyer_1_27.png",
-        "main_info1": "다운, 그로기, 혼절 상태 Escape - 탈출",
-        "main_info2": "4m 뒤로 이동",
-        "sub_info": "User is invulnerable during use<br/>While Downed, Dazed, Unconscious  사용 가능",
+        "main_info1": "Escape from downed, dazed, unconscious status",
+        "main_info2": "Move back 4m",
+        "sub_info": "User is invulnerable during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6563,7 +6563,7 @@ var skill_data_DE = {
         "id": "24250",
         "name": "Rescue - 구조",
         "icon": "skill_icon_destroyer_1_6.png",
-        "main_info1": "Rescue Incapacitated allies for 8 sec",
+        "main_info1": "Rescue incapacitated allies for 8 sec",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -6595,7 +6595,7 @@ var skill_data_DE = {
         "id": "24251",
         "name": "Put Down - 내려놓기",
         "icon": "skill_icon_destroyer_1_8.png",
-        "main_info1": "Places Rescuing ally on the ground",
+        "main_info1": "Places the rescuing ally on the ground",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -6627,7 +6627,7 @@ var skill_data_DE = {
         "id": "24252",
         "name": "Escape - 탈출",
         "icon": "skill_icon_destroyer_1_13.png",
-        "main_info1": "Move forward 15m with Rescuing ally",
+        "main_info1": "Move forward 15m with the rescuing ally",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -6725,7 +6725,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_10.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": null,
-        "sub_info": "Increases Critical by 5%<br/>Critical increase stacks up to 10 times<br/>Critical increase effect ends on critical hit",
+        "sub_info": "Increases Critical by 5%<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {
@@ -6757,7 +6757,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_10.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": null,
-        "sub_info": "Increases Critical by 5%<br/>Critical increase stacks up to 10 times<br/>Defense reduction stacks up to 5 times<br/>Critical increase effect ends on critical hit<br/>Decreases Defense by 10% on critical hit",
+        "sub_info": "Increases Critical by 5%<br/>Critical increase stacks up to 10 times<br/>Defense reduction stacks up to 5 times<br/>Critical increase stacks resets on critical hit<br/>Decreases the defense of foes hit by 10% on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {
@@ -6789,7 +6789,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_10.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": null,
-        "sub_info": "Heals 100% of damage dealt",
+        "sub_info": "Heals the user 100% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {
@@ -6821,7 +6821,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_10.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": null,
-        "sub_info": "Heals 100% of damage dealt<br/>Increases threat by 20%<br/>Threat increase stacks up to 5 times",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Generates 20% additional threat<br/>Threat increase stacks up to 5 times",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {
@@ -6853,7 +6853,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_47.png",
         "main_info1": "Deals 60~70 damage<br/>Available when Spiritualized",
         "main_info2": null,
-        "sub_info": "Maximum speed<br/>피격된 적 만큼 내력 15% 회복<br/>사용 중 피격 시  다음 무공 치명 확률 100%<br/>치명 효과 발동시 3 sec간 지속<br/>Does not generate threat",
+        "sub_info": "Maximum speed<br/>Generates 15% chi per foe hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit bonus lasts for 3 sec<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {

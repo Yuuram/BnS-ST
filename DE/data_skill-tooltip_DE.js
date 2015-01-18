@@ -17209,26 +17209,6 @@ var data_skill_tooltip = {
             }
         },
         "sub": {
-            "0": {
-                "skill": "Destroyer_Catch_HeadButt_Lv1",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            }
         },
         "condition": {
             "0": {
@@ -17278,26 +17258,6 @@ var data_skill_tooltip = {
         },
         "sub": {
             "0": {
-                "skill": "Destroyer_Catch_HeadButt_1000",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
                 "skill": "Destroyer_Catch_HeadButt_1000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -17369,26 +17329,6 @@ var data_skill_tooltip = {
                 "skill": "Destroyer_Catch_HeadButt_2000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "Destroyer_Catch_HeadButt_2000",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
                 "effect-attribute": "E_stat_down",
                 "effect-arg-1": "UI.CharacterInfo.Defence",
                 "effect-arg-2": "50",
@@ -17405,7 +17345,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "2": {
+            "1": {
                 "skill": "Destroyer_Catch_HeadButt_2000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -17477,26 +17417,6 @@ var data_skill_tooltip = {
                 "skill": "Destroyer_Catch_HeadButt_3000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "Destroyer_Catch_HeadButt_3000",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
                 "effect-attribute": "E_stat_down",
                 "effect-arg-1": "UI.CharacterInfo.Defence",
                 "effect-arg-2": "50",
@@ -17513,7 +17433,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "2": {
+            "1": {
                 "skill": "Destroyer_Catch_HeadButt_3000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -17533,7 +17453,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "3": {
+            "2": {
                 "skill": "Destroyer_Catch_HeadButt_3000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -17605,26 +17525,6 @@ var data_skill_tooltip = {
                 "skill": "Destroyer_Catch_HeadButt_5000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "1": {
-                "skill": "Destroyer_Catch_HeadButt_5000",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
                 "effect-attribute": "E_stat_down",
                 "effect-arg-1": "UI.CharacterInfo.Defence",
                 "effect-arg-2": "50",
@@ -17641,7 +17541,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "2": {
+            "1": {
                 "skill": "Destroyer_Catch_HeadButt_5000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -17661,7 +17561,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "3": {
+            "2": {
                 "skill": "Destroyer_Catch_HeadButt_5000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -17681,7 +17581,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "4": {
+            "3": {
                 "skill": "Destroyer_Catch_HeadButt_5000",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -17773,26 +17673,6 @@ var data_skill_tooltip = {
                 "skill": "Destroyer_Catch_HeadButt_0200",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "2": {
-                "skill": "Destroyer_Catch_HeadButt_0200",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
                 "effect-attribute": "E_stat_down",
                 "effect-arg-1": "UI.CharacterInfo.Defence",
                 "effect-arg-2": "50",
@@ -17881,26 +17761,6 @@ var data_skill_tooltip = {
                 "skill": "Destroyer_Catch_HeadButt_0400",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "2": {
-                "skill": "Destroyer_Catch_HeadButt_0400",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
                 "effect-attribute": "E_stat_down",
                 "effect-arg-1": "UI.CharacterInfo.Defence",
                 "effect-arg-2": "50",
@@ -17917,7 +17777,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "3": {
+            "2": {
                 "skill": "Destroyer_Catch_HeadButt_0400",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
@@ -18029,26 +17889,6 @@ var data_skill_tooltip = {
                 "skill": "Destroyer_Catch_HeadButt_0500",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
-                "effect-attribute": "E_dispel_effect",
-                "effect-arg-1": "Destroyer_Catch_T1_01_link_P_Parry",
-                "effect-arg-2": null,
-                "effect-arg-3": null,
-                "effect-arg-4": null,
-                "condition-attribute": null,
-                "condition-arg-1": null,
-                "condition-arg-2": null,
-                "target-attribute": null,
-                "before-stance-attribute": null,
-                "after-stance-attribute": null,
-                "default-text": null,
-                "skill-modify-diff-repeat-count": "1",
-                "is_public": "0",
-                "default-text-refine": null
-            },
-            "3": {
-                "skill": "Destroyer_Catch_HeadButt_0500",
-                "tooltip-group": "SUB",
-                "ect-order": "CTE",
                 "effect-attribute": "E_stat_down",
                 "effect-arg-1": "UI.CharacterInfo.Defence",
                 "effect-arg-2": "50",
@@ -18065,7 +17905,7 @@ var data_skill_tooltip = {
                 "is_public": "0",
                 "default-text-refine": null
             },
-            "4": {
+            "3": {
                 "skill": "Destroyer_Catch_HeadButt_0500",
                 "tooltip-group": "SUB",
                 "ect-order": "CTE",
