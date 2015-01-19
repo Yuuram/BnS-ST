@@ -1125,7 +1125,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Mantra, Rupture is available on hit<br/>Extends the duration of Mark up to 2.1 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes hit up to 2.1 sec<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1157,7 +1157,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 144~168 damage over 3 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Heals an additional 25% of the damage dealt to Branded foes<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1189,7 +1189,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Increases critical hit chance by 100% for 2 sec on critical hit<br/>Mantra, Rupture is available on hit<br/>Extends the duration of Mark up to 2.1 sec<br/>Cannot be deflected",
+        "sub_info": "Increases critical hit chance by 100% for 2 sec on critical hit<br/>Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes hit up to 2.1 sec<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1221,7 +1221,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 192~224 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Cooldown of Mantra is refreshed on hit<br/>Heals the user 25% of the damage dealt<br/>Heals an additional 25% of the damage dealt to Branded foes<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Cooldown of Mantra is refreshed on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1541,7 +1541,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1573,7 +1573,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1605,7 +1605,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 120~140 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes",
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1637,7 +1637,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 174~203 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 1 additional chi per enemy hit<br/>Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Generates 1 additional chi per enemy hit<br/>Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1669,7 +1669,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 174~203 damage over 5 hits",
         "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 1 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Generates 1 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1701,7 +1701,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 181~211 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 2 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast on hit with the last attack<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Generates 2 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1827,7 +1827,7 @@ var skill_data_WL = {
         "id": "28070",
         "name": "Protection Charm - 보호부",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier equivalent to 20% of the user's maximum health that lasts for 10 sec",
+        "main_info1": "Creates a barrier around the user equivalent to 20% of the user's maximum health that lasts for 10 sec",
         "main_info2": null,
         "sub_info": "Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -1891,7 +1891,7 @@ var skill_data_WL = {
         "id": "28070",
         "name": "Protection Charm - 보호부",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier equivalent to 20% of the user's maximum health that lasts for 10 sec",
+        "main_info1": "Creates a barrier around the user equivalent to 20% of the user's maximum health that lasts for 10 sec",
         "main_info2": null,
         "sub_info": "User is immune to knock-up<br/>Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -1955,7 +1955,7 @@ var skill_data_WL = {
         "id": "28070",
         "name": "Protection Charm - 보호부",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier equivalent to 20% of the user's maximum health that lasts for 10 sec",
+        "main_info1": "Creates a barrier around the user equivalent to 20% of the user's maximum health that lasts for 10 sec",
         "main_info2": null,
         "sub_info": "Heals the user additional 10% of their maximum health on maintaining Protection Charm for 5 sec<br/>User is immune to knock-up<br/>Heals the user 10% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -3173,7 +3173,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "Immune to down for 10 sec",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals allies within the area 15% of their maximum health over 10 sec<br/>Heals an additional 3% of health on block, counter, resist within the area<br/>Reduces incoming damage by 20% for 10 sec to allies within the area",
+        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals allies within the area 15% of their maximum health over 10 sec<br/>Heals the user an additional 3% of their maximum health on block, counter, resist within the area<br/>Reduces incoming damage by 20% for 10 sec to allies within the area",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3621,7 +3621,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Brands foes hit for 4 sec",
-        "sub_info": "Creates a barrier equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Creates a barrier around the user equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3685,7 +3685,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_14.png",
         "main_info1": "Escape from downed status",
         "main_info2": "2m knock back<br/>Deals 12~14 damage",
-        "sub_info": "User is downed for 1 sec if they are attacked during use",
+        "sub_info": "User is downed for 1 sec on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3747,7 +3747,7 @@ var skill_data_WL = {
         "id": "28340",
         "name": "Break Free - 벗어나기",
         "icon": "skill_icon_warlock_0_15.png",
-        "main_info1": "Escape from Suppress, seized, Force Grip when used at the enemy's attack timing",
+        "main_info1": "Escape from Suppress, seized, Force Grip when used at the target's attack timing",
         "main_info2": "Deals 12~14 damage<br/>Move back 10m",
         "sub_info": null,
         "consume_sp": null,
@@ -3973,7 +3973,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, airborne, dazed, stunned foes<br/>Instantly used on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4005,7 +4005,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, airborne, dazed, stunned foes<br/>Instantly used on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4037,7 +4037,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, airborne, dazed, stunned foes<br/>Instantly used on Marked foes<br/>Used at no cost on downed, airborne, dazed, stunned foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4069,7 +4069,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly used on downed, airborne, dazed, stunned foes<br/>Instantly used on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4163,9 +4163,9 @@ var skill_data_WL = {
         "id": "28510",
         "name": "Offensive Spirit - 공격 마령",
         "icon": "skill_icon_warlock_0_23.png",
-        "main_info1": "Improves the familiar's offensive abilities",
+        "main_info1": "Increases the familiar's offensive abilities",
         "main_info2": "Summon a familiar for 32 sec<br/>Familiar is immune to all status effects",
-        "sub_info": "Increases the familiar's defense against boss's area of effect attacks by 30%<br/>Familiar is summoned at the summoner's location<br/>Familiar is summoned at the target's location if targeting a foe",
+        "sub_info": "Increases the familiar's defense against boss area attacks by 30%<br/>Familiar is summoned at the summoner's location<br/>Familiar is summoned at the target's location if targeting a foe",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {}
@@ -4174,9 +4174,9 @@ var skill_data_WL = {
         "id": "28511",
         "name": "Defensive Spirit - 방어 마령",
         "icon": "skill_icon_warlock_0_24.png",
-        "main_info1": "Improves the familiar's defensive abilities",
+        "main_info1": "Increases the familiar's defensive abilities",
         "main_info2": "Summon a familiar for 32 sec<br/>Familiar is immune to all status effects",
-        "sub_info": "Increases the familiar's defense against boss's area of effect attacks by 60%<br/>Familiar is summoned at the summoner's location",
+        "sub_info": "Increases the familiar's defense against boss area attacks by 60%<br/>Familiar is summoned at the summoner's location",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {}

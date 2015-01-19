@@ -2245,7 +2245,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of the user's maximum health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_39.png",
         "main_info1": "Escape from downed status",
         "main_info2": "Deals 7~8 damage",
-        "sub_info": "User is downed for 1 sec if they are attacked during use",
+        "sub_info": "User is downed for 1 sec on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3491,7 +3491,7 @@ var skill_data_BM = {
         "id": "20135",
         "name": "Retaliate - 받아치기",
         "icon": "skill_icon_blademaster_0_51.png",
-        "main_info1": "0.8 sec counter",
+        "main_info1": "Counters an attack for 0.8 sec",
         "main_info2": "Escape from downed status on counter<br/>Downs the countered foe for 3 sec on counter",
         "sub_info": "Deals 16~18 damage on counter",
         "consume_sp": null,
@@ -5445,7 +5445,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": null,
-        "sub_info": "Extends the duration of the target's status effect up to 2 sec",
+        "sub_info": "Extends the duration of the status effect of foes hit up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -5477,7 +5477,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes hit by 50% for 8 sec on hit<br/>Disables charge abilities of foes hit for 6 sec<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Extends the duration of the target's status effect up to 2 sec",
+        "sub_info": "Decreases the movement speed of foes hit by 50% for 8 sec on hit<br/>Disables charge abilities of foes hit for 6 sec<br/>Foes hit suffer from Internal Bleeding for 12 sec<br/>Extends the duration of the status effect of foes hit up to 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {

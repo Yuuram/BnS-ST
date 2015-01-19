@@ -22,7 +22,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> Summon - 소환수 사망 시  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> While the familiar is dead  "
 	},
 	"26101": 
 	{
@@ -425,7 +425,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_16.png\' class=\'icon_in_description\' /> Pollen<br>꽃가루 사용 후  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_16.png\' class=\'icon_in_description\' /> After using Pollen  "
 	},
 	"26104": 
 	{
@@ -517,7 +517,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"26113": 
 	{
@@ -601,7 +601,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
 	},
 	"26310": 
 	{
@@ -631,7 +631,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_17.png\' class=\'icon_in_description\' /> Dandelion<br>민들레씨 반격당한 적  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_10.png\' class=\'icon_in_description\' /> Hornet<br>말벌 무급, 1초식, 2초식 명중한 적  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> 적 Tendril<br>덩굴손  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_40.png\' class=\'icon_in_description\' /> 적 덩굴독  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_18.png\' class=\'icon_in_description\' /> Press<br>누르기 2초식/UuDaDa<br>우다다 명중한 적  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_17.png\' class=\'icon_in_description\' /> Target countered with Dandelion  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_10.png\' class=\'icon_in_description\' /> Target hit with pointless, Class1, Class2 Hornet <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> Target rooted  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_40.png\' class=\'icon_in_description\' /> Target with Ivy Poison  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_18.png\' class=\'icon_in_description\' /> Target hit with Class2 Press, UuDaDa  "
 	},
 	"26114": 
 	{
@@ -710,7 +710,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> Summon - 소환수 While downed  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> While the familiar is downed  "
 	},
 	"26214": 
 	{
@@ -735,7 +735,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_22.png\' class=\'icon_in_description\' /> 적 독 5중첩  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_22.png\' class=\'icon_in_description\' /> Target with 5 stacks of Poison  "
 	},
 	"26000": 
 	{
@@ -810,7 +810,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> 적 Tendril<br>덩굴손  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> 적 결빙  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> Target rooted  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> Target frozen  "
 	},
 	"26209": 
 	{
@@ -866,7 +866,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
 	},
 	"26119": 
 	{
@@ -916,7 +916,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 운기조식, 아군 운기조식  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While meditating, ally is meditating  "
 	},
 	"26304": 
 	{
@@ -972,7 +972,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> Friendship<br>우정 효과 중  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> While Friendship is active  "
 	},
 	"26215": 
 	{
@@ -1049,7 +1049,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> Summon - 소환수 적 Press<br>누르기  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> Familiar using Press  "
 	},
 	"26217": 
 	{
@@ -1074,7 +1074,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 운기조식 중  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While meditating  "
 	},
 	"26220": 
 	{
@@ -1099,7 +1099,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 실신 중, 아군 실신 중  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While dead, ally is dead  "
 	},
 	"26203": 
 	{
@@ -1124,7 +1124,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 실신 중  "
+		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While dead  "
 	},
 	"26559": 
 	{

@@ -2117,7 +2117,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_39.png",
         "main_info1": "Escape from downed status",
         "main_info2": "Deals 7~8 damage",
-        "sub_info": "User is downed for 1 sec if they are attacked during use",
+        "sub_info": "User is downed for 1 sec on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2949,7 +2949,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks back foes hit 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier equivalent to 10% of the user's maximum health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes hit for 6 sec<br/>Decreases the movement speed of foes hit by 30% for 6 sec<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3491,7 +3491,7 @@ var skill_data_SM = {
         "id": "27152",
         "name": "Retaliate - 받아치기",
         "icon": "skill_icon_swordmaster_1_51.png",
-        "main_info1": "0.8 sec counter",
+        "main_info1": "Counters an attack for 0.8 sec",
         "main_info2": null,
         "sub_info": "Escape from downed status on counter<br/>Downs the countered foe for 3 sec on counter<br/>Deals 16~18 damage on counter",
         "consume_sp": null,
@@ -4197,7 +4197,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_6.png",
         "main_info1": "Siphon 30% of chi from nearby foes",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Creates a barrier equivalent to 5% of the user's maximum health after use",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health after use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4741,7 +4741,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_58.png",
         "main_info1": "User is invulnerable from the next 5 attacks for 5 sec",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health<br/>Heals an additional 2% of health on resist",
+        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4963,7 +4963,7 @@ var skill_data_SM = {
         "id": "27305",
         "name": "Soulblade Mark - 어검징표",
         "icon": "skill_icon_swordmaster_2_1.png",
-        "main_info1": "Extends the duration of the target's airborne status effect up to 3 sec",
+        "main_info1": "Extends the duration of the airborne status of foes hit up to 3 sec up to 3 sec",
         "main_info2": "Deals 23~27 damage",
         "sub_info": null,
         "consume_sp": "1",

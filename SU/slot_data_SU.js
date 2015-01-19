@@ -657,7 +657,7 @@ var slot_data_SU = {
 					"0": "26101"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
-				"complete_quest_name_refine": "Rose<br>장미 Part 1",
+				"complete_quest_name_refine": "Rose Part 1",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -741,7 +741,7 @@ var slot_data_SU = {
 					"0": "26101"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
-				"complete_quest_name_refine": "Rose<br>장미 Part 1",
+				"complete_quest_name_refine": "Rose Part 1",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -825,7 +825,7 @@ var slot_data_SU = {
 					"0": "26101"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
-				"complete_quest_name_refine": "Rose<br>장미 Part 1",
+				"complete_quest_name_refine": "Rose Part 1",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -909,7 +909,7 @@ var slot_data_SU = {
 					"0": "26101"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0226",
-				"complete_quest_name_refine": "Rose<br>장미 Part 2",
+				"complete_quest_name_refine": "Rose Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Tomb of Sacrifice",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -1442,7 +1442,8 @@ var slot_data_SU = {
 				"max_variation_level": "1",
 				"variation_id": "15",
 				"tooltip_alias": "Summoner_Summon_Ivy_5000",
-				"name2_refine": "덩굴지옥",
+				"name2_refine": "Ivy Hell<br>덩굴지옥",
+				"name2_refine_en": "Ivy Hell",
 				"variation_level": 
 				{
 					"0": null,
@@ -1501,7 +1502,7 @@ var slot_data_SU = {
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
 				"complete_quest_desc_refine": null,
-				"complete_achievement_name_refine": "Tendril<br>덩굴손 홍문비전",
+				"complete_achievement_name_refine": "Tendril Hongmun secret",
 				"tooltip_stance_type": 
 				{
 					"0": "소환",
@@ -1525,7 +1526,8 @@ var slot_data_SU = {
 				"max_variation_level": "1",
 				"variation_id": "25",
 				"tooltip_alias": "Summoner_Summon_Ivy_0500",
-				"name2_refine": "덩굴지옥",
+				"name2_refine": "Ivy Hell<br>덩굴지옥",
+				"name2_refine_en": "Ivy Hell",
 				"variation_level": 
 				{
 					"0": null,
@@ -1584,7 +1586,7 @@ var slot_data_SU = {
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
 				"complete_quest_desc_refine": null,
-				"complete_achievement_name_refine": "Tendril<br>덩굴손 홍문비전",
+				"complete_achievement_name_refine": "Tendril Hongmun secret",
 				"tooltip_stance_type": 
 				{
 					"0": "소환",
@@ -1668,7 +1670,7 @@ var slot_data_SU = {
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
 				"complete_quest_desc_refine": null,
-				"complete_achievement_name_refine": "Tendril<br>덩굴손 홍문비전",
+				"complete_achievement_name_refine": "Tendril Hongmun secret",
 				"tooltip_stance_type": 
 				{
 					"0": "소환",
@@ -1752,7 +1754,7 @@ var slot_data_SU = {
 				"complete_quest_desc": null,
 				"complete_quest_name_refine": null,
 				"complete_quest_desc_refine": null,
-				"complete_achievement_name_refine": "Tendril<br>덩굴손 홍문비전",
+				"complete_achievement_name_refine": "Tendril Hongmun secret",
 				"tooltip_stance_type": 
 				{
 					"0": "소환",
@@ -3524,7 +3526,7 @@ var slot_data_SU = {
 					"0": "26107"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0398",
-				"complete_quest_name_refine": "Hornet<br>말벌 Part 1",
+				"complete_quest_name_refine": "Hornet Part 1",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -3608,7 +3610,7 @@ var slot_data_SU = {
 					"0": "26107"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
-				"complete_quest_name_refine": "Hornet<br>말벌 Part 2",
+				"complete_quest_name_refine": "Hornet Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -3692,7 +3694,7 @@ var slot_data_SU = {
 					"0": "26107"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
-				"complete_quest_name_refine": "Hornet<br>말벌 Part 2",
+				"complete_quest_name_refine": "Hornet Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -3776,7 +3778,7 @@ var slot_data_SU = {
 					"0": "26107"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
-				"complete_quest_name_refine": "Hornet<br>말벌 Part 2",
+				"complete_quest_name_refine": "Hornet Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -6315,7 +6317,7 @@ var slot_data_SU = {
 					"0": "26202"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0375",
-				"complete_quest_name_refine": "Low Slash - 하단베기편",
+				"complete_quest_name_refine": "Low Slash Part",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Sky Island Ancient Dragon's Tomb",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -6399,7 +6401,7 @@ var slot_data_SU = {
 					"0": "26202"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
-				"complete_quest_name_refine": "폭탄설치편",
+				"complete_quest_name_refine": "Pland Bomb Part",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -6483,7 +6485,7 @@ var slot_data_SU = {
 					"0": "26202"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
-				"complete_quest_name_refine": "폭탄설치편",
+				"complete_quest_name_refine": "Pland Bomb Part",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -6567,7 +6569,7 @@ var slot_data_SU = {
 					"0": "26202"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
-				"complete_quest_name_refine": "폭탄설치편",
+				"complete_quest_name_refine": "Pland Bomb Part",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -6667,7 +6669,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> 적 Tendril<br>덩굴손  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> 적 결빙  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> Target rooted  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> Target frozen  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_summon_0_46.png",
 				"required_tp": 1
@@ -9207,7 +9209,7 @@ var slot_data_SU = {
 					"0": "26112"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
-				"complete_quest_name_refine": "Dandelion<br>민들레씨 Part 2",
+				"complete_quest_name_refine": "Dandelion Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -9291,7 +9293,7 @@ var slot_data_SU = {
 					"0": "26112"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
-				"complete_quest_name_refine": "Dandelion<br>민들레씨 Part 2",
+				"complete_quest_name_refine": "Dandelion Part 2",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -9375,7 +9377,7 @@ var slot_data_SU = {
 					"0": "26112"
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0119",
-				"complete_quest_name_refine": "Dandelion<br>민들레씨 Part 1",
+				"complete_quest_name_refine": "Dandelion Part 1",
 				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
@@ -9730,7 +9732,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_summon_0_15.png",
 				"required_tp": 1
@@ -9814,7 +9816,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_summon_0_15.png",
 				"required_tp": 1
@@ -9898,7 +9900,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_summon_0_15.png",
 				"required_tp": 1
@@ -9982,7 +9984,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_summon_0_15.png",
 				"required_tp": 1
@@ -10066,7 +10068,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_summon_0_15.png",
 				"required_tp": 1
@@ -10153,7 +10155,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_summon_0_18.png",
 				"required_tp": 1
@@ -10237,7 +10239,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_summon_0_18.png",
 				"required_tp": 1
@@ -10321,7 +10323,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_summon_0_18.png",
 				"required_tp": 1
@@ -10405,7 +10407,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_summon_0_18.png",
 				"required_tp": 1
@@ -10489,7 +10491,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_summon_0_18.png",
 				"required_tp": 1
@@ -11847,7 +11849,7 @@ var slot_data_SU = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> Friendship<br>우정 효과 중  ",
+				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> While Friendship is active  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_summon_0_43.png",
 				"required_tp": 1
